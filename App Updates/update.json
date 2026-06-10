@@ -1,13 +1,13 @@
 {
-  "versionCode": 15,
+  "versionCode": 16,
   "versionName": "2.2.9",
-  "apkUrl": "https://raw.githubusercontent.com/UDAY-DEVELOPER3939/MusicAI/raw/App%20Updates/app-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/UDAY-DEVELOPER3939/MusicAI/main/App%20Updates/app-debug.apk",
   "releaseNotes": [
-    "Major Release v2.0.0!",
+    "MusicAI Release v2.2.9.",
     "New Immersive Audio Room with Full-Screen Mode.",
-    "Real-time Audio & Timeline Sync (Seek together).",
+    "Real-time Audio & Timeline Sync (seek together).",
     "Animated PIN Feedback (Smiling/Angry Emoji).",
     "Fixed Android 13+ Permission issues.",
-    "Fixed 'App keeps stopping' crash on Join."
+    "Fixed 'App keeps stopping' crash on join."
   ]
 }
