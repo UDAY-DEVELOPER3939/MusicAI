@@ -1,13 +1,11 @@
 {
   "versionCode": 28,
   "versionName": "3.1.2",
-  "apkUrl": "https://raw.githubusercontent.com/UDAY-DEVELOPER3939/MusicAI/main/App%20Updates/app-debug.apk",
+  "apkUrl": "https://raw.githubusercontent.com/UDAY-DEVELOPER3939/MusicAI/main/App%20Updates/MusicAIPro_v3.1.3.apk",
   "releaseNotes": [
-    "MusicAI Release v2.2.9.",
-    "New Immersive Audio Room with Full-Screen Mode.",
-    "Real-time Audio & Timeline Sync (seek together).",
-    "Animated PIN Feedback (Smiling/Angry Emoji).",
-    "Fixed Android 13+ Permission issues.",
-    "Fixed 'App keeps stopping' crash on join."
+    "Fixed profile data saving issue",
+    "Improved update check reliability with cache-busting",
+    "Enabled TV app login with updated security rules",
+    "Added direct browser redirection for Feedback form"
   ]
 }
