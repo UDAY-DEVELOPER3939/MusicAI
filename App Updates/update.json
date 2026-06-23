@@ -1,13 +1,5 @@
 {
-  "versionCode": 29,
+  "versionCode": 28,
   "versionName": "3.1.2",
   "apkUrl": "https://raw.githubusercontent.com/UDAY-DEVELOPER3939/MusicAI/main/App%20Updates/app-debug.apk",
-  "releaseNotes": [
-    "MusicAI Release v2.2.9.",
-    "New Immersive Audio Room with Full-Screen Mode.",
-    "Real-time Audio & Timeline Sync (seek together).",
-    "Animated PIN Feedback (Smiling/Angry Emoji).",
-    "Fixed Android 13+ Permission issues.",
-    "Fixed 'App keeps stopping' crash on join."
-  ]
 }
