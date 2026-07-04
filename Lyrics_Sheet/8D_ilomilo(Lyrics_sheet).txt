@@ -3,304 +3,382 @@
     "id": 0,
     "isTune": true,
     "words": [
-      { "text": "🎵 Music 🎵", "start": 0, "dur": 31200 }
+      {
+        "text": "🎵 Music 🎵",
+        "start": 11000,
+        "dur": 5000
+      }
     ]
   },
+
   {
     "id": 1,
+    "isTune": true,
     "words": [
-      { "text": "Told", "start": 31200, "dur": 420 },
-      { "text": "you", "start": 31620, "dur": 330 },
-      { "text": "not", "start": 31950, "dur": 340 },
-      { "text": "to", "start": 32290, "dur": 210 },
-      { "text": "worry", "start": 32500, "dur": 1300 }
+      {
+        "text": "🎵",
+        "start": 16000,
+        "dur": 31000
+      }
     ]
   },
+
   {
     "id": 2,
     "words": [
-      { "text": "But", "start": 35100, "dur": 360 },
-      { "text": "maybe", "start": 35460, "dur": 650 },
-      { "text": "that's", "start": 36110, "dur": 410 },
-      { "text": "a", "start": 36520, "dur": 200 },
-      { "text": "lie", "start": 36720, "dur": 1700 }
+      { "text": "Told", "start": 47000, "dur": 450 },
+      { "text": "you", "start": 47450, "dur": 350 },
+      { "text": "not", "start": 47800, "dur": 300 },
+      { "text": "to", "start": 48100, "dur": 200 },
+      { "text": "worry", "start": 48300, "dur": 1300 }
     ]
   },
+
   {
     "id": 3,
     "words": [
-      { "text": "Honey,", "start": 39150, "dur": 680 },
-      { "text": "what's", "start": 39830, "dur": 420 },
-      { "text": "your", "start": 40250, "dur": 330 },
-      { "text": "hurry?", "start": 40580, "dur": 1500 }
+      { "text": "But", "start": 51000, "dur": 400 },
+      { "text": "maybe", "start": 51400, "dur": 600 },
+      { "text": "that's", "start": 52000, "dur": 400 },
+      { "text": "a", "start": 52400, "dur": 200 },
+      { "text": "lie", "start": 52600, "dur": 1600 }
     ]
   },
+
   {
     "id": 4,
     "words": [
-      { "text": "Won't", "start": 43050, "dur": 480 },
-      { "text": "you", "start": 43530, "dur": 380 },
-      { "text": "stay", "start": 43910, "dur": 620 },
-      { "text": "inside?", "start": 44530, "dur": 1650 }
+      { "text": "Honey,", "start": 55000, "dur": 700 },
+      { "text": "what's", "start": 55700, "dur": 450 },
+      { "text": "your", "start": 56150, "dur": 350 },
+      { "text": "hurry?", "start": 56500, "dur": 1500 }
     ]
   },
+
   {
     "id": 5,
     "words": [
-      { "text": "Remember", "start": 47000, "dur": 750 },
-      { "text": "not", "start": 47750, "dur": 340 },
-      { "text": "to", "start": 48090, "dur": 230 },
-      { "text": "get", "start": 48320, "dur": 390 },
-      { "text": "too", "start": 48710, "dur": 300 },
-      { "text": "close", "start": 49010, "dur": 650 },
-      { "text": "to", "start": 49660, "dur": 220 },
-      { "text": "stars", "start": 49880, "dur": 1200 }
+      { "text": "Won't", "start": 59000, "dur": 500 },
+      { "text": "you", "start": 59500, "dur": 400 },
+      { "text": "stay", "start": 59900, "dur": 600 },
+      { "text": "inside?", "start": 60500, "dur": 1650 }
     ]
   },
+
   {
     "id": 6,
     "words": [
-      { "text": "They", "start": 51100, "dur": 400 },
-      { "text": "never", "start": 51500, "dur": 600 },
-      { "text": "wanna", "start": 52100, "dur": 420 },
-      { "text": "give", "start": 52520, "dur": 450 },
-      { "text": "you", "start": 52970, "dur": 320 },
-      { "text": "love", "start": 53290, "dur": 620 },
-      { "text": "like", "start": 53910, "dur": 420 },
-      { "text": "ours", "start": 54330, "dur": 1450 }
+      { "text": "Remember", "start": 63000, "dur": 700 },
+      { "text": "not", "start": 63700, "dur": 350 },
+      { "text": "to", "start": 64050, "dur": 250 },
+      { "text": "get", "start": 64300, "dur": 400 },
+      { "text": "too", "start": 64700, "dur": 300 },
+      { "text": "close", "start": 65000, "dur": 600 },
+      { "text": "to", "start": 65600, "dur": 200 },
+      { "text": "stars", "start": 65800, "dur": 900 }
     ]
   },
+
   {
     "id": 7,
     "words": [
-      { "text": "Where", "start": 58300, "dur": 520 },
-      { "text": "did", "start": 58820, "dur": 300 },
-      { "text": "you", "start": 59120, "dur": 330 },
-      { "text": "go?", "start": 59450, "dur": 1150 },
-      { "text": "I", "start": 60800, "dur": 220 },
-      { "text": "should", "start": 61020, "dur": 430 },
-      { "text": "know", "start": 61450, "dur": 1200 }
+      { "text": "They", "start": 67000, "dur": 400 },
+      { "text": "never", "start": 67400, "dur": 600 },
+      { "text": "wanna", "start": 68000, "dur": 400 },
+      { "text": "give", "start": 68400, "dur": 500 },
+      { "text": "you", "start": 68900, "dur": 300 },
+      { "text": "love", "start": 69200, "dur": 600 },
+      { "text": "like", "start": 69800, "dur": 400 },
+      { "text": "ours", "start": 70200, "dur": 1400 }
     ]
   },
+
   {
     "id": 8,
     "words": [
-      { "text": "But", "start": 63600, "dur": 400 },
-      { "text": "it's", "start": 64000, "dur": 350 },
-      { "text": "cold", "start": 64350, "dur": 900 },
-      { "text": "and", "start": 65250, "dur": 300 },
-      { "text": "I", "start": 65550, "dur": 220 },
-      { "text": "don't", "start": 65770, "dur": 420 },
-      { "text": "wanna", "start": 66190, "dur": 420 },
-      { "text": "be", "start": 66610, "dur": 300 },
-      { "text": "lonely", "start": 66910, "dur": 1600 }
+      { "text": "Where", "start": 72000, "dur": 500 },
+      { "text": "did", "start": 72500, "dur": 350 },
+      { "text": "you", "start": 72850, "dur": 350 },
+      { "text": "go?", "start": 73200, "dur": 1100 },
+      { "text": "I", "start": 74300, "dur": 200 },
+      { "text": "should", "start": 74500, "dur": 400 },
+      { "text": "know", "start": 74900, "dur": 1000 }
     ]
   },
+
   {
     "id": 9,
     "words": [
-      { "text": "So", "start": 70400, "dur": 420 },
-      { "text": "show", "start": 70820, "dur": 520 },
-      { "text": "me", "start": 71340, "dur": 300 },
-      { "text": "the", "start": 71640, "dur": 220 },
-      { "text": "way", "start": 71860, "dur": 550 },
-      { "text": "home", "start": 72410, "dur": 2400 }
+      { "text": "But", "start": 75000, "dur": 400 },
+      { "text": "it's", "start": 75400, "dur": 350 },
+      { "text": "cold", "start": 75750, "dur": 850 },
+      { "text": "and", "start": 76600, "dur": 300 },
+      { "text": "I", "start": 76900, "dur": 200 },
+      { "text": "don't", "start": 77100, "dur": 400 },
+      { "text": "wanna", "start": 77500, "dur": 400 },
+      { "text": "be", "start": 77900, "dur": 300 },
+      { "text": "lonely", "start": 78200, "dur": 1400 }
     ]
   },
+
   {
     "id": 10,
     "words": [
-      { "text": "I", "start": 76800, "dur": 300 },
-      { "text": "can't", "start": 77100, "dur": 450 },
-      { "text": "hold", "start": 77550, "dur": 550 },
-      { "text": "you", "start": 78100, "dur": 420 },
-      { "text": "not", "start": 78520, "dur": 450 },
-      { "text": "tonight", "start": 78970, "dur": 2300 }
+      { "text": "So", "start": 78000, "dur": 400 },
+      { "text": "show", "start": 78400, "dur": 500 },
+      { "text": "me", "start": 78900, "dur": 300 },
+      { "text": "the", "start": 79200, "dur": 200 },
+      { "text": "way", "start": 79400, "dur": 500 },
+      { "text": "home", "start": 79900, "dur": 2100 }
     ]
   },
+
   {
     "id": 11,
+    "words": [
+      { "text": "I", "start": 82000, "dur": 300 },
+      { "text": "can't", "start": 82300, "dur": 450 },
+      { "text": "hold", "start": 82750, "dur": 550 },
+      { "text": "you", "start": 83300, "dur": 400 },
+      { "text": "not", "start": 83700, "dur": 500 },
+      { "text": "tonight", "start": 84200, "dur": 2100 }
+    ]
+  },
+
+    {
+    "id": 12,
     "isTune": true,
     "words": [
-      { "text": "♪ ♫ ♪", "start": 81300, "dur": 17000 }
+      {
+        "text": "♪ ♫ ♪",
+        "start": 86300,
+        "dur": 16700
+      }
     ]
   },
-  {
-    "id": 12,
-    "words": [
-      { "text": "The", "start": 98300, "dur": 420 },
-      { "text": "world's", "start": 98720, "dur": 580 },
-      { "text": "a", "start": 99300, "dur": 220 },
-      { "text": "little", "start": 99520, "dur": 600 },
-      { "text": "blurry", "start": 100120, "dur": 1800 }
-    ]
-  },
+
   {
     "id": 13,
     "words": [
-      { "text": "Well,", "start": 103100, "dur": 520 },
-      { "text": "maybe", "start": 103620, "dur": 680 },
-      { "text": "it's", "start": 104300, "dur": 350 },
-      { "text": "too", "start": 104650, "dur": 330 },
-      { "text": "late", "start": 104980, "dur": 1850 }
+      { "text": "The", "start": 103000, "dur": 450 },
+      { "text": "world's", "start": 103450, "dur": 550 },
+      { "text": "a", "start": 104000, "dur": 250 },
+      { "text": "little", "start": 104250, "dur": 550 },
+      { "text": "blurry", "start": 104800, "dur": 1700 }
     ]
   },
+
   {
     "id": 14,
     "words": [
-      { "text": "Friends", "start": 107200, "dur": 650 },
-      { "text": "are", "start": 107850, "dur": 330 },
-      { "text": "hard", "start": 108180, "dur": 650 },
-      { "text": "to", "start": 108830, "dur": 250 },
-      { "text": "hurry", "start": 109080, "dur": 1700 }
+      { "text": "Well,", "start": 107000, "dur": 500 },
+      { "text": "maybe", "start": 107500, "dur": 650 },
+      { "text": "it's", "start": 108150, "dur": 350 },
+      { "text": "too", "start": 108500, "dur": 300 },
+      { "text": "late", "start": 108800, "dur": 1700 }
     ]
   },
+
   {
     "id": 15,
     "words": [
-      { "text": "They", "start": 111200, "dur": 420 },
-      { "text": "can't", "start": 11620, "dur": 480 },
-      { "text": "get", "start": 112100, "dur": 380 },
-      { "text": "you", "start": 112480, "dur": 300 },
-      { "text": "by", "start": 112780, "dur": 320 },
-      { "text": "night", "start": 113100, "dur": 2100 }
+      { "text": "Friends", "start": 111000, "dur": 600 },
+      { "text": "are", "start": 111600, "dur": 350 },
+      { "text": "hard", "start": 111950, "dur": 600 },
+      { "text": "to", "start": 112550, "dur": 300 },
+      { "text": "hurry", "start": 112850, "dur": 1650 }
     ]
   },
+
   {
     "id": 16,
     "words": [
-      { "text": "Said", "start": 116800, "dur": 520 },
-      { "text": "I", "start": 117320, "dur": 250 },
-      { "text": "couldn't", "start": 117570, "dur": 700 },
-      { "text": "help", "start": 118270, "dur": 520 },
-      { "text": "someone", "start": 118790, "dur": 1200 }
+      { "text": "They", "start": 115000, "dur": 450 },
+      { "text": "can't", "start": 115450, "dur": 450 },
+      { "text": "get", "start": 115900, "dur": 400 },
+      { "text": "you", "start": 116300, "dur": 300 },
+      { "text": "by", "start": 116600, "dur": 300 },
+      { "text": "night", "start": 116900, "dur": 1900 }
     ]
   },
+
   {
     "id": 17,
     "words": [
-      { "text": "'Cause", "start": 121000, "dur": 500 },
-      { "text": "I", "start": 121500, "dur": 260 },
-      { "text": "might", "start": 121760, "dur": 620 },
-      { "text": "break", "start": 122380, "dur": 1600 }
+      { "text": "Said", "start": 119000, "dur": 500 },
+      { "text": "I", "start": 119500, "dur": 300 },
+      { "text": "couldn't", "start": 119800, "dur": 650 },
+      { "text": "help", "start": 120450, "dur": 550 },
+      { "text": "someone", "start": 121000, "dur": 1100 }
     ]
   },
+
   {
     "id": 18,
     "words": [
-      { "text": "If", "start": 124000, "dur": 380 },
-      { "text": "you're", "start": 124380, "dur": 420 },
-      { "text": "gonna", "start": 124800, "dur": 520 },
-      { "text": "die", "start": 125320, "dur": 1500 }
+      { "text": "'Cause", "start": 122000, "dur": 500 },
+      { "text": "I", "start": 122500, "dur": 300 },
+      { "text": "might", "start": 122800, "dur": 600 },
+      { "text": "break", "start": 123400, "dur": 1500 }
     ]
   },
+
   {
     "id": 19,
     "words": [
-      { "text": "Nobody", "start": 127000, "dur": 900 },
-      { "text": "can", "start": 127900, "dur": 450 },
-      { "text": "stay", "start": 128350, "dur": 1700 }
+      { "text": "If", "start": 124000, "dur": 400 },
+      { "text": "you're", "start": 124400, "dur": 400 },
+      { "text": "gonna", "start": 124800, "dur": 500 },
+      { "text": "die", "start": 125300, "dur": 1200 }
     ]
   },
+
   {
     "id": 20,
     "words": [
-      { "text": "Where", "start": 131500, "dur": 500 },
-      { "text": "did", "start": 132000, "dur": 330 },
-      { "text": "you", "start": 132330, "dur": 350 },
-      { "text": "go?", "start": 132680, "dur": 1200 },
-      { "text": "I", "start": 134000, "dur": 220 },
-      { "text": "should", "start": 134220, "dur": 450 },
-      { "text": "know", "start": 134670, "dur": 1200 }
+      { "text": "Nobody", "start": 126000, "dur": 850 },
+      { "text": "can", "start": 126850, "dur": 450 },
+      { "text": "stay", "start": 127300, "dur": 1600 }
     ]
   },
+
   {
     "id": 21,
     "words": [
-      { "text": "But", "start": 136900, "dur": 400 },
-      { "text": "it's", "start": 137300, "dur": 350 },
-      { "text": "cold", "start": 137650, "dur": 950 },
-      { "text": "and", "start": 138600, "dur": 300 },
-      { "text": "I", "start": 138900, "dur": 220 },
-      { "text": "don't", "start": 139120, "dur": 430 },
-      { "text": "wanna", "start": 139550, "dur": 430 },
-      { "text": "be", "start": 139980, "dur": 300 },
-      { "text": "lonely", "start": 140280, "dur": 1700 }
+      { "text": "Where", "start": 129000, "dur": 500 },
+      { "text": "did", "start": 129500, "dur": 350 },
+      { "text": "you", "start": 129850, "dur": 350 },
+      { "text": "go?", "start": 130200, "dur": 1100 },
+      { "text": "I", "start": 131000, "dur": 250 },
+      { "text": "should", "start": 131250, "dur": 450 },
+      { "text": "know", "start": 131700, "dur": 1100 }
     ]
   },
+
   {
     "id": 22,
     "words": [
-      { "text": "So", "start": 143200, "dur": 420 },
-      { "text": "tell", "start": 143620, "dur": 520 },
-      { "text": "me", "start": 144140, "dur": 280 },
-      { "text": "you'll", "start": 144420, "dur": 420 },
-      { "text": "come", "start": 144840, "dur": 550 },
-      { "text": "home", "start": 145390, "dur": 2500 }
+      { "text": "But", "start": 132000, "dur": 400 },
+      { "text": "it's", "start": 132400, "dur": 350 },
+      { "text": "cold", "start": 132750, "dur": 950 },
+      { "text": "and", "start": 133700, "dur": 300 },
+      { "text": "I", "start": 134000, "dur": 200 },
+      { "text": "don't", "start": 134200, "dur": 400 },
+      { "text": "wanna", "start": 134600, "dur": 400 },
+      { "text": "be", "start": 135000, "dur": 300 },
+      { "text": "lonely", "start": 135300, "dur": 1500 }
     ]
   },
+
   {
     "id": 23,
     "words": [
-      { "text": "Even", "start": 149200, "dur": 520 },
-      { "text": "if", "start": 149720, "dur": 350 },
-      { "text": "it's", "start": 150070, "dur": 400 },
-      { "text": "just", "start": 150470, "dur": 400 },
-      { "text": "a", "start": 150870, "dur": 220 },
-      { "text": "lie", "start": 151090, "dur": 2600 }
+      { "text": "So", "start": 136500, "dur": 400 },
+      { "text": "tell", "start": 136900, "dur": 550 },
+      { "text": "me", "start": 137450, "dur": 250 },
+      { "text": "you'll", "start": 137700, "dur": 400 },
+      { "text": "come", "start": 138100, "dur": 500 },
+      { "text": "home", "start": 138600, "dur": 2200 }
     ]
   },
+
   {
     "id": 24,
+    "words": [
+      { "text": "Even", "start": 139000, "dur": 500 },
+      { "text": "if", "start": 139500, "dur": 400 },
+      { "text": "it's", "start": 139900, "dur": 400 },
+      { "text": "just", "start": 140300, "dur": 400 },
+      { "text": "a", "start": 140700, "dur": 250 },
+      { "text": "lie", "start": 140950, "dur": 2450 }
+    ]
+  },
+
+    {
+    "id": 25,
     "isTune": true,
     "words": [
-      { "text": "♪ ♫ ♪", "start": 154000, "dur": 25500 }
+      {
+        "text": "♪ ♫ ♪",
+        "start": 143500,
+        "dur": 27500
+      }
     ]
   },
-  {
-    "id": 25,
-    "words": [
-      { "text": "I", "start": 179500, "dur": 400 },
-      { "text": "tried", "start": 179900, "dur": 650 },
-      { "text": "not", "start": 180550, "dur": 500 },
-      { "text": "to", "start": 181050, "dur": 350 },
-      { "text": "upset", "start": 181400, "dur": 1200 },
-      { "text": "you,", "start": 182600, "dur": 900 },
-      { "text": "let", "start": 183500, "dur": 400 },
-      { "text": "you", "start": 183900, "dur": 400 },
-      { "text": "rescue", "start": 184300, "dur": 1000 },
-      { "text": "me", "start": 185300, "dur": 600 },
-      { "text": "the", "start": 185900, "dur": 300 },
-      { "text": "day", "start": 186200, "dur": 400 },
-      { "text": "I", "start": 186600, "dur": 300 },
-      { "text": "met", "start": 186900, "dur": 400 },
-      { "text": "you", "start": 187300, "dur": 1500 }
-    ]
-  },
+
   {
     "id": 26,
     "words": [
-      { "text": "I", "start": 188800, "dur": 400 },
-      { "text": "just", "start": 189200, "dur": 550 },
-      { "text": "wanted", "start": 189750, "dur": 1050 },
-      { "text": "to", "start": 190800, "dur": 400 },
-      { "text": "protect", "start": 191200, "dur": 1300 },
-      { "text": "you", "start": 192500, "dur": 1800 }
+      { "text": "I", "start": 171000, "dur": 400 },
+      { "text": "tried", "start": 171400, "dur": 650 },
+      { "text": "not", "start": 172050, "dur": 500 },
+      { "text": "to", "start": 172550, "dur": 400 },
+      { "text": "upset", "start": 172950, "dur": 1050 },
+      { "text": "you,", "start": 174000, "dur": 1000 },
+
+      { "text": "let", "start": 175000, "dur": 400 },
+      { "text": "you", "start": 175400, "dur": 400 },
+      { "text": "rescue", "start": 175800, "dur": 1000 },
+      { "text": "me", "start": 176800, "dur": 600 },
+
+      { "text": "the", "start": 177400, "dur": 300 },
+      { "text": "day", "start": 177700, "dur": 400 },
+      { "text": "I", "start": 178100, "dur": 300 },
+      { "text": "met", "start": 178400, "dur": 400 },
+      { "text": "you", "start": 178800, "dur": 1400 }
     ]
   },
+
   {
     "id": 27,
+    "isTune": true,
     "words": [
-      { "text": "But", "start": 194300, "dur": 500 },
-      { "text": "now", "start": 194800, "dur": 500 },
-      { "text": "I'll", "start": 195300, "dur": 400 },
-      { "text": "never", "start": 195700, "dur": 800 },
-      { "text": "get", "start": 196500, "dur": 600 },
-      { "text": "you", "start": 197100, "dur": 2200 }
+      {
+        "text": "♪ ♫ ♪",
+        "start": 180200,
+        "dur": 2800
+      }
     ]
   },
+
   {
     "id": 28,
+    "words": [
+      { "text": "I", "start": 183000, "dur": 400 },
+      { "text": "just", "start": 183400, "dur": 550 },
+      { "text": "wanted", "start": 183950, "dur": 1050 },
+      { "text": "to", "start": 185000, "dur": 400 },
+      { "text": "protect", "start": 185400, "dur": 1300 },
+      { "text": "you", "start": 186700, "dur": 1600 }
+    ]
+  },
+
+  {
+    "id": 29,
+    "words": [
+      { "text": "But", "start": 187000, "dur": 500 },
+      { "text": "now", "start": 187500, "dur": 500 },
+      { "text": "I'll", "start": 188000, "dur": 400 },
+      { "text": "never", "start": 188400, "dur": 800 },
+      { "text": "get", "start": 189200, "dur": 600 },
+      { "text": "you", "start": 189800, "dur": 2000 }
+    ]
+  },
+
+  {
+    "id": 30,
+    "isTune": true,
+    "words": [
+      {
+        "text": "♪ ♫ ♪",
+        "start": 191800,
+        "dur": 20200
+      }
+    ]
+  },
+
+  {
+    "id": 31,
     "words": [
       { "text": "I", "start": 212000, "dur": 400 },
       { "text": "just", "start": 212400, "dur": 550 },
@@ -310,8 +388,9 @@
       { "text": "you", "start": 215700, "dur": 1200 }
     ]
   },
+
   {
-    "id": 29,
+    "id": 32,
     "words": [
       { "text": "But", "start": 216950, "dur": 400 },
       { "text": "now", "start": 217350, "dur": 400 },
@@ -321,8 +400,9 @@
       { "text": "you", "start": 219250, "dur": 1150 }
     ]
   },
+
   {
-    "id": 30,
+    "id": 33,
     "words": [
       { "text": "I", "start": 220400, "dur": 300 },
       { "text": "just", "start": 220700, "dur": 400 },
@@ -332,8 +412,9 @@
       { "text": "you", "start": 223200, "dur": 1100 }
     ]
   },
+
   {
-    "id": 31,
+    "id": 34,
     "words": [
       { "text": "But", "start": 224300, "dur": 350 },
       { "text": "now", "start": 224650, "dur": 350 },
@@ -343,25 +424,15 @@
       { "text": "you", "start": 226300, "dur": 900 }
     ]
   },
+
   {
-    "id": 32,
-    "words": [
-      { "text": "But", "start": 227200, "dur": 350 },
-      { "text": "now", "start": 227550, "dur": 350 },
-      { "text": "I'll", "start": 227900, "dur": 300 },
-      { "text": "never", "start": 228200, "dur": 600 },
-      { "text": "get", "start": 228800, "dur": 400 },
-      { "text": "you", "start": 229200, "dur": 1400 }
-    ]
-  },
-  {
-    "id": 33,
+    "id": 35,
     "isTune": true,
     "words": [
-      { 
+      {
         "text": "♪ ♫ ♪ ",
-        "start": 231000,
-        "dur": 63000
+        "start": 227200,
+        "dur": 67400
       }
     ]
   }
