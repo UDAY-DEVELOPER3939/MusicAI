@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apple Music Sentence-Based Word Sync</title>
+    <style>
+        :root {
+            --bg-color: #0b0b0f;
+            --text-inactive: rgba(255, 255, 255, 0.08);
+            --text-active: #ffffff;
+            --font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg-color);
+            font-family: var(--font-family);
+            color: var(--text-active);
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        /* Ambient Apple Music Blurred Mesh Background */
+        .ambient-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at 30% 20%, #40180d 0%, transparent 40%),
+                        radial-gradient(circle at 80% 40%, #592512 0%, transparent 50%),
+                        radial-gradient(circle at 40% 80%, #1f0d3d 0%, transparent 60%),
+                        #150906;
+            opacity: 0.85;
+            filter: blur(60px);
+            z-index: -1;
+            transform: scale(1.1);
+        }
+
+        /* Lyrics Viewport Container */
+        .lyrics-container {
+            width: 88%;
+            max-width: 640px;
+            height: 72vh;
+            overflow-y: scroll;
+            margin-top: 5vh;
+            scroll-behavior: smooth;
+            scrollbar-width: none; 
+        }
+
+        .lyrics-container::-webkit-scrollbar {
+            display: none; 
+        }
+
+        .lyrics-padding {
+            padding-top: 32vh; 
+            padding-bottom: 40vh;
+        }
+
+        /* Sentence Layout - FORCES inline layout for paragraphs */
+        .lyric-line {
+            display: block !important;
+            width: 100%;
+            text-align: left;
+            font-size: 38px;
+            font-weight: 800;
+            letter-spacing: -0.5px;
+            line-height: 1.4;
+            margin: 44px 0;
+            transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1), opacity 0.4s ease;
+            transform-origin: left center;
+            cursor: pointer;
+            opacity: 0.2;
+            white-space: normal !important;
+        }
+
+        .lyric-line.past { opacity: 0.4; transform: scale(0.96); }
+        .lyric-line.active { opacity: 1; transform: scale(1.04); }
+
+        /* Word Container Layout - FIXED: Forced to sit inline horizontally */
+        .word-group {
+            display: inline-flex !important;
+            white-space: nowrap !important;
+            margin-right: 12px; /* Space between words horizontally */
+            vertical-align: bottom;
+        }
+
+        /* Individual Word Clipping Architecture */
+        .word-wrapper {
+            position: relative;
+            display: inline-block;
+            overflow: hidden;
+            width: 0%; /* Invisible by default until sung */
+            transition: width 0s linear;
+        }
+
+        /* Completed Word Status */
+        .word-wrapper.sung {
+            width: 100% !important;
+            transition: none !important;
+        }
+
+        /* Instrumental notation adjustments */
+        .music-icon {
+            display: inline-block;
+            font-size: 42px;
+            opacity: 0.4;
+            width: auto;
+        }
+        .lyric-line.active .music-icon {
+            animation: pulseIcon 2s infinite ease-in-out;
+        }
+        @keyframes pulseIcon {
+            0%, 100% { opacity: 0.5; }
+            50% { opacity: 1; }
+        }
+
+        /* Premium Control Dock */
+        .player-controls {
+            width: 100%;
+            background: rgba(15, 7, 5, 0.3);
+            backdrop-filter: blur(40px);
+            -webkit-backdrop-filter: blur(40px);
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+            padding: 24px 0 34px 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 10;
+        }
+
+        audio {
+            width: 82%;
+            max-width: 540px;
+            filter: invert(0.9) hue-rotate(180deg);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="ambient-bg"></div>
+
+    <div class="lyrics-container" id="lyricsContainer">
+        <div class="lyrics-padding" id="lyricsWrapper">
+            </div>
+    </div>
+
+    <div class="player-controls">
+        <audio id="audioTrack" controls src="Toinxt.mp3"></audio>
+    </div>
+
+    <script>
+        // High-Fidelity Sentence Mapping with internal word timelines
+        const sentenceTimelineData = [
+            { id: 0, isTune: true, words: [{ text: "♪", start: 0.00, dur: 11.00 }] },
+            { id: 1, isTune: true, words: [{ text: "♪  ♫  ♪", start: 11.00, dur: 5.50 }] },
+            
+            { id: 2, words: [
+                { text: "City", start: 16.50, dur: 0.60 }, { text: "lights", start: 17.10, dur: 0.60 },
+                { text: "flicker", start: 17.70, dur: 0.80 }, { text: "on", start: 18.50, dur: 0.40 },
+                { text: "my", start: 18.90, dur: 0.30 }, { text: "skin", start: 19.20, dur: 1.20 }
+            ]},
+            { id: 3, words: [
+                { text: "Be", start: 20.70, dur: 0.50 }, { text: "loud,", start: 21.20, dur: 0.70 },
+                { text: "let", start: 21.90, dur: 0.40 }, { text: "the", start: 22.30, dur: 0.40 },
+                { text: "night", start: 22.70, dur: 0.60 }, { text: "begin", start: 23.30, dur: 1.50 }
+            ]},
+            { id: 4, words: [
+                { text: "Shadows", start: 25.30, dur: 0.80 }, { text: "move", start: 26.10, dur: 0.60 },
+                { text: "when", start: 26.70, dur: 0.40 }, { text: "you", start: 27.10, dur: 0.40 },
+                { text: "pull", start: 27.50, dur: 0.50 }, { text: "me", start: 28.00, dur: 0.40 },
+                { text: "close", start: 28.40, dur: 1.50 }
+            ]},
+            { id: 5, words: [
+                { text: "Lost", start: 30.10, dur: 0.60 }, { text: "in", start: 30.70, dur: 0.30 },
+                { text: "the", start: 31.00, dur: 0.30 }, { text: "heat", start: 31.30, dur: 0.70 },
+                { text: "that", start: 32.00, dur: 0.40 }, { text: "nobody", start: 32.40, dur: 0.80 },
+                { text: "knows", start: 33.20, dur: 1.50 }
+            ]},
+            { id: 6, words: [
+                { text: "Low", start: 35.00, dur: 0.40 }, { text: "bass", start: 35.40, dur: 0.40 },
+                { text: "riding", start: 35.80, dur: 0.50 }, { text: "through", start: 36.30, dur: 0.30 },
+                { text: "my", start: 36.60, dur: 0.20 }, { text: "chest", start: 36.80, dur: 0.50 }
+            ]},
+            { id: 7, words: [
+                { text: "Your", start: 37.30, dur: 0.40 }, { text: "name", start: 37.70, dur: 0.40 },
+                { text: "running", start: 38.10, dur: 0.50 }, { text: "through", start: 38.60, dur: 0.30 },
+                { text: "my", start: 38.90, dur: 0.20 }, { text: "head", start: 39.10, dur: 0.60 }
+            ]},
+            { id: 8, words: [
+                { text: "Every", start: 40.00, dur: 0.40 }, { text: "second", start: 40.40, dur: 0.50 },
+                { text: "pulling", start: 40.90, dur: 0.50 }, { text: "me", start: 41.40, dur: 0.30 },
+                { text: "deep", start: 41.70, dur: 0.40 }, { text: "into", start: 42.10, dur: 0.40 },
+                { text: "a", start: 42.50, dur: 0.20 }, { text: "rhythm", start: 42.70, dur: 0.70 }
+            ]},
+            { id: 9, words: [
+                { text: "I", start: 43.40, dur: 0.20 }, { text: "can't", start: 43.60, dur: 0.30 },
+                { text: "keep,", start: 43.90, dur: 0.40 }, { text: "don't", start: 44.30, dur: 0.30 },
+                { text: "stop", start: 44.60, dur: 0.30 }, { text: "now,", start: 44.90, dur: 0.40 },
+                { text: "let", start: 45.30, dur: 0.30 }, { text: "it", start: 45.60, dur: 0.20 },
+                { text: "breathe", start: 45.80, dur: 0.60 }
+            ]},
+            { id: 10, words: [
+                { text: "In", start: 46.60, dur: 0.30 }, { text: "the", start: 46.90, dur: 0.20 },
+                { text: "dark,", start: 47.10, dur: 0.50 }, { text: "you", start: 47.60, dur: 0.30 },
+                { text: "and", start: 47.90, dur: 0.20 }, { text: "me,", start: 48.10, dur: 0.40 },
+                { text: "world", start: 48.50, dur: 0.40 }, { text: "fades", start: 48.90, dur: 0.40 },
+                { text: "out", start: 49.30, dur: 0.40 }
+            ]},
+            { id: 11, words: [
+                { text: "We", start: 49.70, dur: 0.30 }, { text: "just", start: 50.00, dur: 0.30 },
+                { text: "slide", start: 50.30, dur: 0.50 }, { text: "on", start: 50.80, dur: 0.30 },
+                { text: "this", start: 51.10, dur: 0.30 }, { text: "wave,", start: 51.40, dur: 0.50 },
+                { text: "on", start: 51.90, dur: 0.30 }, { text: "this", start: 52.20, dur: 0.30 },
+                { text: "ride", start: 52.50, dur: 0.40 }
+            ]},
+            { id: 12, words: [
+                { text: "Tiki-tiki,", start: 52.90, dur: 0.50 }, { text: "leon", start: 53.40, dur: 0.40 },
+                { text: "drip,", start: 53.80, dur: 0.30 }, { text: "don't", start: 54.10, dur: 0.30 },
+                { text: "slow", start: 54.40, dur: 0.30 }, { text: "down", start: 54.70, dur: 0.50 }
+            ]},
+            { id: 13, words: [
+                { text: "Body", start: 55.30, dur: 0.40 }, { text: "moving", start: 55.70, dur: 0.40 },
+                { text: "to", start: 56.10, dur: 0.20 }, { text: "the", start: 56.30, dur: 0.20 },
+                { text: "underground", start: 56.50, dur: 0.60 }, { text: "sound", start: 57.10, dur: 0.60 }
+            ]},
+            { id: 14, words: [
+                { text: "Feel", start: 57.80, dur: 0.30 }, { text: "the", start: 58.10, dur: 0.20 },
+                { text: "pressure,", start: 58.30, dur: 0.50 }, { text: "feel", start: 58.80, dur: 0.30 },
+                { text: "the", start: 59.10, dur: 0.20 }, { heat: "heat", start: 59.30, dur: 0.40 },
+                { text: "right", start: 59.70, dur: 0.30 }, { text: "now", start: 60.00, dur: 0.30 }
+            ]},
+            { id: 15, words: [
+                { text: "We", start: 60.30, dur: 0.30 }, { text: "don't", start: 60.60, dur: 0.30 },
+                { text: "talk,", start: 60.90, dur: 0.40 }, { text: "we", start: 61.30, dur: 0.20 },
+                { text: "just", start: 61.50, dur: 0.30 }, { text: "breathe", start: 61.80, dur: 0.40 },
+                { text: "it", start: 62.20, dur: 0.20 }, { text: "out", start: 62.40, dur: 0.30 }
+            ]}
+        ];
+
+        const audio = document.getElementById('audioTrack');
+        const lyricsContainer = document.getElementById('lyricsContainer');
+        const lyricsWrapper = document.getElementById('lyricsWrapper');
+
+        function buildLyricInterface() {
+            lyricsWrapper.innerHTML = '';
+            sentenceTimelineData.forEach((lineData, lineIdx) => {
+                const lineDiv = document.createElement('div');
+                lineDiv.classList.add('lyric-line');
+                lineDiv.setAttribute('id', `line-${lineIdx}`);
+
+                lineData.words.forEach((wordObj, wordIdx) => {
+                    // NEW: Extra inline structural block wrapper grouping elements to bypass caching bugs
+                    const wordGroup = document.createElement('span');
+                    wordGroup.classList.add('word-group');
+
+                    const wrapSpan = document.createElement('span');
+                    wrapSpan.classList.add('word-wrapper');
+                    if (lineData.isTune) wrapSpan.classList.add('music-icon');
+                    
+                    wrapSpan.setAttribute('id', `w-${lineIdx}-${wordIdx}`);
+                    wrapSpan.innerText = wordObj.text;
+
+                    wordGroup.appendChild(wrapSpan);
+                    lineDiv.appendChild(wordGroup);
+                });
+
+                lineDiv.addEventListener('click', () => {
+                    audio.currentTime = lineData.words[0].start;
+                });
+
+                lyricsWrapper.appendChild(lineDiv);
+            });
+        }
+
+        function updateLyricsSync() {
+            const currentTime = audio.currentTime;
+            let activeLineIdx = -1;
+
+            for (let i = 0; i < sentenceTimelineData.length; i++) {
+                const words = sentenceTimelineData[i].words;
+                const start = words[0].start;
+                const end = words[words.length - 1].start + words[words.length - 1].dur;
+                if (currentTime >= start && currentTime < end) {
+                    activeLineIdx = i;
+                    break;
+                }
+            }
+
+            sentenceTimelineData.forEach((lineData, lIdx) => {
+                const lineElement = document.getElementById(`line-${lIdx}`);
+                if (!lineElement) return;
+
+                if (lIdx < activeLineIdx) {
+                    lineElement.className = 'lyric-line past';
+                    lineData.words.forEach((_, wIdx) => {
+                        const wNode = document.getElementById(`w-${lIdx}-${wIdx}`);
+                        if (wNode) wNode.className = 'word-wrapper sung';
+                    });
+                } 
+                else if (lIdx === activeLineIdx) {
+                    lineElement.className = 'lyric-line active';
+
+                    lineData.words.forEach((word, wIdx) => {
+                        const wNode = document.getElementById(`w-${lIdx}-${wIdx}`);
+                        if (!wNode) return;
+
+                        const timeElapsedInWord = currentTime - word.start;
+
+                        if (currentTime >= word.start && currentTime < (word.start + word.dur)) {
+                            wNode.classList.remove('sung');
+                            const completionPercent = (timeElapsedInWord / word.dur) * 100;
+
+                            if (audio.paused) {
+                                wNode.style.transition = 'none';
+                                wNode.style.width = `${completionPercent}%`;
+                            } else {
+                                const remainingDur = word.dur - timeElapsedInWord;
+                                wNode.style.transition = `width ${remainingDur}s linear`;
+                                wNode.style.width = '100%';
+                            }
+                        } 
+                        else if (currentTime >= (word.start + word.dur)) {
+                            wNode.className = 'word-wrapper sung';
+                        } 
+                        else {
+                            wNode.className = 'word-wrapper';
+                            wNode.style.transition = 'none';
+                            wNode.style.width = '0%';
+                        }
+                    });
+
+                    const targetScroll = lineElement.offsetTop - (lyricsContainer.clientHeight / 2) + (lineElement.clientHeight / 2);
+                    lyricsContainer.scrollTop = targetScroll;
+                } 
+                else {
+                    lineElement.className = 'lyric-line';
+                    lineData.words.forEach((_, wIdx) => {
+                        const wNode = document.getElementById(`w-${lIdx}-${wIdx}`);
+                        if (wNode) {
+                            wNode.className = 'word-wrapper';
+                            wNode.style.transition = 'none';
+                            wNode.style.width = '0%';
+                        }
+                    });
+                }
+            });
+        }
+
+        audio.addEventListener('timeupdate', updateLyricsSync);
+        audio.addEventListener('pause', updateLyricsSync);
+        audio.addEventListener('play', updateLyricsSync);
+
+        window.addEventListener('DOMContentLoaded', buildLyricInterface);
+        audio.addEventListener('loadedmetadata', buildLyricInterface);
+    </script>
+</body>
+</html>
