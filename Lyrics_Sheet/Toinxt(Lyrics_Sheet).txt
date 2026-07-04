@@ -1,3 +1,4 @@
+[
   { "id": 0, "isTune": true, "words": [{ "text": "♪", "start": 0, "dur": 11000 }] },
   { "id": 1, "isTune": true, "words": [{ "text": "♪  ♫  ♪", "start": 11000, "dur": 5500 }] },
   
@@ -275,3 +276,4 @@
       { "text": "light", "start": 181000, "dur": 1200 }
   ]},
   { "id": 53, "isTune": true, "words": [{ "text": "♫  ♪  ♪  ♫", "start": 182200, "dur": 15000 }] }
+]
