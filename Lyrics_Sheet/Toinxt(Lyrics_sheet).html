@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Apple Music Sentence-Based Word Sync</title>
+    <title>Core Lyrics Logic Engine</title>
     <style>
         :root {
-            --bg-color: #0b0b0f;
-            --text-inactive: rgba(255, 255, 255, 0.08);
+            /* Customize these variables or let your app inject them */
+            --text-inactive: rgba(255, 255, 255, 0.1);
             --text-active: #ffffff;
-            --font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+            --font-family: -apple-system, BlinkMacSystemFont, sans-serif;
         }
 
         body {
             margin: 0;
             padding: 0;
-            background-color: var(--bg-color);
+            background: transparent !important; /* Fully see-through canvas */
             font-family: var(--font-family);
             color: var(--text-active);
             display: flex;
@@ -23,33 +23,14 @@
             height: 100vh;
             overflow: hidden;
             align-items: center;
-            justify-content: space-between;
+            justify-content: center;
         }
 
-        /* Ambient Apple Music Blurred Mesh Background */
-        .ambient-bg {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: radial-gradient(circle at 30% 20%, #40180d 0%, transparent 40%),
-                        radial-gradient(circle at 80% 40%, #592512 0%, transparent 50%),
-                        radial-gradient(circle at 40% 80%, #1f0d3d 0%, transparent 60%),
-                        #150906;
-            opacity: 0.85;
-            filter: blur(60px);
-            z-index: -1;
-            transform: scale(1.1);
-        }
-
-        /* Lyrics Viewport Container */
+        /* Lyrics Scroll Container viewport */
         .lyrics-container {
-            width: 88%;
-            max-width: 640px;
-            height: 72vh;
+            width: 100%;
+            height: 100vh;
             overflow-y: scroll;
-            margin-top: 5vh;
             scroll-behavior: smooth;
             scrollbar-width: none; 
         }
@@ -58,46 +39,60 @@
             display: none; 
         }
 
+        /* Vertically centers the active line in the view window */
         .lyrics-padding {
-            padding-top: 32vh; 
-            padding-bottom: 40vh;
+            padding-top: 45vh; 
+            padding-bottom: 50vh;
         }
 
-        /* Sentence Layout - FORCES inline layout for paragraphs */
+        /* Sentence Blocks */
         .lyric-line {
             display: block !important;
             width: 100%;
             text-align: left;
-            font-size: 38px;
+            font-size: 36px;
             font-weight: 800;
-            letter-spacing: -0.5px;
             line-height: 1.4;
-            margin: 44px 0;
+            margin: 40px 0;
             transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1), opacity 0.4s ease;
             transform-origin: left center;
-            cursor: pointer;
             opacity: 0.2;
             white-space: normal !important;
         }
 
+        /* Text states mimicking the Apple Music hierarchy */
         .lyric-line.past { opacity: 0.4; transform: scale(0.96); }
         .lyric-line.active { opacity: 1; transform: scale(1.04); }
 
-        /* Word Container Layout - FIXED: Forced to sit inline horizontally */
+        /* Forces word structures to remain perfectly horizontal within sentences */
         .word-group {
             display: inline-flex !important;
             white-space: nowrap !important;
-            margin-right: 12px; /* Space between words horizontally */
+            margin-right: 12px; 
             vertical-align: bottom;
         }
 
-        /* Individual Word Clipping Architecture */
+        /* High-precision width clipping mask masking unplayed letters */
         .word-wrapper {
             position: relative;
             display: inline-block;
             overflow: hidden;
-            width: 0%; /* Invisible by default until sung */
+            width: 0%; 
+            color: var(--text-inactive);
             transition: width 0s linear;
+        }
+
+        /* Custom color mask trick overlaying active/past letters */
+        .word-wrapper::before {
+            content: attr(data-text);
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            color: var(--text-active);
+            overflow: hidden;
+            white-space: nowrap;
         }
 
         /* Completed Word Status */
@@ -106,57 +101,24 @@
             transition: none !important;
         }
 
-        /* Instrumental notation adjustments */
+        /* Tune Notation Formatting */
         .music-icon {
             display: inline-block;
-            font-size: 42px;
+            font-size: 40px;
             opacity: 0.4;
             width: auto;
-        }
-        .lyric-line.active .music-icon {
-            animation: pulseIcon 2s infinite ease-in-out;
-        }
-        @keyframes pulseIcon {
-            0%, 100% { opacity: 0.5; }
-            50% { opacity: 1; }
-        }
-
-        /* Premium Control Dock */
-        .player-controls {
-            width: 100%;
-            background: rgba(15, 7, 5, 0.3);
-            backdrop-filter: blur(40px);
-            -webkit-backdrop-filter: blur(40px);
-            border-top: 1px solid rgba(255, 255, 255, 0.05);
-            padding: 24px 0 34px 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            z-index: 10;
-        }
-
-        audio {
-            width: 82%;
-            max-width: 540px;
-            filter: invert(0.9) hue-rotate(180deg);
         }
     </style>
 </head>
 <body>
-
-    <div class="ambient-bg"></div>
 
     <div class="lyrics-container" id="lyricsContainer">
         <div class="lyrics-padding" id="lyricsWrapper">
             </div>
     </div>
 
-    <div class="player-controls">
-        <audio id="audioTrack" controls src="Toinxt.mp3"></audio>
-    </div>
-
     <script>
-        // High-Fidelity Sentence Mapping with internal word timelines
+        // Precision Time Matrix (Sentence data structures holding word nodes)
         const sentenceTimelineData = [
             { id: 0, isTune: true, words: [{ text: "♪", start: 0.00, dur: 11.00 }] },
             { id: 1, isTune: true, words: [{ text: "♪  ♫  ♪", start: 11.00, dur: 5.50 }] },
@@ -233,7 +195,7 @@
             { id: 14, words: [
                 { text: "Feel", start: 57.80, dur: 0.30 }, { text: "the", start: 58.10, dur: 0.20 },
                 { text: "pressure,", start: 58.30, dur: 0.50 }, { text: "feel", start: 58.80, dur: 0.30 },
-                { text: "the", start: 59.10, dur: 0.20 }, { heat: "heat", start: 59.30, dur: 0.40 },
+                { text: "the", start: 59.10, dur: 0.20 }, { text: "heat", start: 59.30, dur: 0.40 },
                 { text: "right", start: 59.70, dur: 0.30 }, { text: "now", start: 60.00, dur: 0.30 }
             ]},
             { id: 15, words: [
@@ -244,7 +206,6 @@
             ]}
         ];
 
-        const audio = document.getElementById('audioTrack');
         const lyricsContainer = document.getElementById('lyricsContainer');
         const lyricsWrapper = document.getElementById('lyricsWrapper');
 
@@ -256,7 +217,6 @@
                 lineDiv.setAttribute('id', `line-${lineIdx}`);
 
                 lineData.words.forEach((wordObj, wordIdx) => {
-                    // NEW: Extra inline structural block wrapper grouping elements to bypass caching bugs
                     const wordGroup = document.createElement('span');
                     wordGroup.classList.add('word-group');
 
@@ -265,24 +225,26 @@
                     if (lineData.isTune) wrapSpan.classList.add('music-icon');
                     
                     wrapSpan.setAttribute('id', `w-${lineIdx}-${wordIdx}`);
+                    wrapSpan.setAttribute('data-text', wordObj.text); // Used for clean coloring overlays
                     wrapSpan.innerText = wordObj.text;
 
                     wordGroup.appendChild(wrapSpan);
                     lineDiv.appendChild(wordGroup);
                 });
-
-                lineDiv.addEventListener('click', () => {
-                    audio.currentTime = lineData.words[0].start;
-                });
-
                 lyricsWrapper.appendChild(lineDiv);
             });
         }
 
-        function updateLyricsSync() {
-            const currentTime = audio.currentTime;
+        /* PRODUCTION EXPOSED API BRIDGE
+           Your native code calls this function directly to sync the sheet layout.
+           Parameters:
+             - currentTime (Float): e.g., 17.42
+             - isPaused (Boolean): tracks if the app's player state is halted
+        */
+        window.updateLyricsFromApp = function(currentTime, isPaused) {
             let activeLineIdx = -1;
 
+            // Pinpoint current active block sentence
             for (let i = 0; i < sentenceTimelineData.length; i++) {
                 const words = sentenceTimelineData[i].words;
                 const start = words[0].start;
@@ -317,7 +279,7 @@
                             wNode.classList.remove('sung');
                             const completionPercent = (timeElapsedInWord / word.dur) * 100;
 
-                            if (audio.paused) {
+                            if (isPaused) {
                                 wNode.style.transition = 'none';
                                 wNode.style.width = `${completionPercent}%`;
                             } else {
@@ -336,6 +298,7 @@
                         }
                     });
 
+                    // Centering math calculations matching fluid viewport tracks
                     const targetScroll = lineElement.offsetTop - (lyricsContainer.clientHeight / 2) + (lineElement.clientHeight / 2);
                     lyricsContainer.scrollTop = targetScroll;
                 } 
@@ -353,12 +316,7 @@
             });
         }
 
-        audio.addEventListener('timeupdate', updateLyricsSync);
-        audio.addEventListener('pause', updateLyricsSync);
-        audio.addEventListener('play', updateLyricsSync);
-
         window.addEventListener('DOMContentLoaded', buildLyricInterface);
-        audio.addEventListener('loadedmetadata', buildLyricInterface);
     </script>
 </body>
 </html>
