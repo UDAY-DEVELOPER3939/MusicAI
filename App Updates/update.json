@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "4.2.7",
+  "versionCode": 50,
+  "versionName": "4.3.0",
   "apkUrl": "https://github.com/UDAY-DEVELOPER3939/MusicAI/raw/main/App%20Updates/app-debug.apk",
   "releaseNotes": [
     "Fixed profile data saving issue",
