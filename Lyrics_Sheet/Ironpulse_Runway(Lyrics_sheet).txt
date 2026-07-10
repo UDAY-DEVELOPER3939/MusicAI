@@ -3,349 +3,1553 @@
     "id": 0,
     "isTune": true,
     "words": [
-      { "text": "🎵 ⚪️⚪️⚪️ 🎵", "start": 0, "dur": 12500 }
+      {
+        "text": "♪ ♫ ♪",
+        "start": 0,
+        "dur": 13041
+      }
     ]
   },
   {
     "id": 1,
     "words": [
-      { "text": "Yeah,", "start": 12500, "dur": 600 },
-      { "text": "I've", "start": 13100, "dur": 300 },
-      { "text": "been", "start": 13400, "dur": 250 },
-      { "text": "grinding", "start": 13650, "dur": 450 },
-      { "text": "through", "start": 14100, "dur": 250 },
-      { "text": "the", "start": 14350, "dur": 150 },
-      { "text": "nights,", "start": 14500, "dur": 500 },
-      { "text": "no", "start": 15000, "dur": 200 },
-      { "text": "sleep", "start": 15200, "dur": 300 },
-      { "text": "on", "start": 15500, "dur": 150 },
-      { "text": "the", "start": 15650, "dur": 150 },
-      { "text": "line.", "start": 15800, "dur": 600 }
+      {
+        "text": "⚪️⚪️⚪️,",
+        "start": 13041,
+        "dur": 3559
+      }
     ]
   },
   {
     "id": 2,
     "words": [
-      { "text": "Tunnel", "start": 16600, "dur": 400 },
-      { "text": "vision", "start": 17000, "dur": 350 },
-      { "text": "locked", "start": 17350, "dur": 300 },
-      { "text": "in,", "start": 17650, "dur": 300 },
-      { "text": "every", "start": 18100, "dur": 350 },
-      { "text": "step", "start": 18450, "dur": 300 },
-      { "text": "I", "start": 18750, "dur": 150 },
-      { "text": "climb.", "start": 18900, "dur": 600 }
+      {
+        "text": "Yeah,",
+        "start": 18482,
+        "dur": 307
+      },
+      {
+        "text": "I've",
+        "start": 18789,
+        "dur": 245
+      },
+      {
+        "text": "been",
+        "start": 19034,
+        "dur": 245
+      },
+      {
+        "text": "grinding",
+        "start": 19279,
+        "dur": 491
+      },
+      {
+        "text": "through",
+        "start": 19770,
+        "dur": 430
+      },
+      {
+        "text": "the",
+        "start": 20200,
+        "dur": 184
+      },
+      {
+        "text": "nights,",
+        "start": 20384,
+        "dur": 430
+      },
+      {
+        "text": "no",
+        "start": 20814,
+        "dur": 122
+      },
+      {
+        "text": "sleep",
+        "start": 20936,
+        "dur": 307
+      },
+      {
+        "text": "on",
+        "start": 21243,
+        "dur": 122
+      },
+      {
+        "text": "the",
+        "start": 21365,
+        "dur": 184
+      },
+      {
+        "text": "line,",
+        "start": 21549,
+        "dur": 307
+      }
     ]
   },
   {
     "id": 3,
     "words": [
-      { "text": "People", "start": 19700, "dur": 450 },
-      { "text": "talk", "start": 20150, "dur": 350 },
-      { "text": "big,", "start": 20500, "dur": 400 },
-      { "text": "but", "start": 21100, "dur": 200 },
-      { "text": "they", "start": 21300, "dur": 200 },
-      { "text": "never", "start": 21500, "dur": 300 },
-      { "text": "do", "start": 21800, "dur": 200 },
-      { "text": "enough.", "start": 22000, "dur": 550 }
+      {
+        "text": "Tunnel",
+        "start": 21882,
+        "dur": 389
+      },
+      {
+        "text": "vision",
+        "start": 22271,
+        "dur": 389
+      },
+      {
+        "text": "locked",
+        "start": 22660,
+        "dur": 389
+      },
+      {
+        "text": "in,",
+        "start": 23049,
+        "dur": 194
+      },
+      {
+        "text": "every",
+        "start": 23243,
+        "dur": 324
+      },
+      {
+        "text": "step",
+        "start": 23567,
+        "dur": 259
+      },
+      {
+        "text": "I",
+        "start": 23826,
+        "dur": 80
+      },
+      {
+        "text": "climb,",
+        "start": 23906,
+        "dur": 389
+      }
     ]
   },
   {
     "id": 4,
     "words": [
-      { "text": "I", "start": 22800, "dur": 200 },
-      { "text": "stay", "start": 23000, "dur": 350 },
-      { "text": "low-key,", "start": 23350, "dur": 500 },
-      { "text": "but", "start": 24050, "dur": 200 },
-      { "text": "the", "start": 24250, "dur": 150 },
-      { "text": "work", "start": 24400, "dur": 300 },
-      { "text": "always", "start": 24700, "dur": 350 },
-      { "text": "shows", "start": 25050, "dur": 350 },
-      { "text": "up.", "start": 25400, "dur": 500 }
+      {
+        "text": "People",
+        "start": 24302,
+        "dur": 360
+      },
+      {
+        "text": "talk",
+        "start": 24662,
+        "dur": 240
+      },
+      {
+        "text": "big,",
+        "start": 24902,
+        "dur": 240
+      },
+      {
+        "text": "but",
+        "start": 25142,
+        "dur": 180
+      },
+      {
+        "text": "they",
+        "start": 25322,
+        "dur": 240
+      },
+      {
+        "text": "never",
+        "start": 25562,
+        "dur": 300
+      },
+      {
+        "text": "do",
+        "start": 25862,
+        "dur": 120
+      },
+      {
+        "text": "enough,",
+        "start": 25982,
+        "dur": 420
+      }
     ]
   },
   {
     "id": 5,
     "words": [
-      { "text": "Pressure", "start": 26100, "dur": 450 },
-      { "text": "on", "start": 26550, "dur": 200 },
-      { "text": "my", "start": 26750, "dur": 200 },
-      { "text": "back,", "start": 26950, "dur": 400 },
-      { "text": "but", "start": 27550, "dur": 200 },
-      { "text": "I", "start": 27750, "dur": 150 },
-      { "text": "move", "start": 27900, "dur": 300 },
-      { "text": "like", "start": 28200, "dur": 250 },
-      { "text": "it's", "start": 28450, "dur": 200 },
-      { "text": "light.", "start": 28650, "dur": 550 }
+      {
+        "text": "I",
+        "start": 26562,
+        "dur": 80
+      },
+      {
+        "text": "stay",
+        "start": 26642,
+        "dur": 274
+      },
+      {
+        "text": "low-key,",
+        "start": 26916,
+        "dur": 549
+      },
+      {
+        "text": "but",
+        "start": 27465,
+        "dur": 206
+      },
+      {
+        "text": "the",
+        "start": 27671,
+        "dur": 206
+      },
+      {
+        "text": "work",
+        "start": 27877,
+        "dur": 274
+      },
+      {
+        "text": "always",
+        "start": 28151,
+        "dur": 412
+      },
+      {
+        "text": "shows",
+        "start": 28563,
+        "dur": 343
+      },
+      {
+        "text": "up,",
+        "start": 28906,
+        "dur": 206
+      }
     ]
   },
   {
     "id": 6,
     "words": [
-      { "text": "Turn", "start": 29400, "dur": 300 },
-      { "text": "another", "start": 29700, "dur": 400 },
-      { "text": "setback", "start": 30100, "dur": 500 },
-      { "text": "to", "start": 30600, "dur": 200 },
-      { "text": "fuel", "start": 30800, "dur": 350 },
-      { "text": "for", "start": 31150, "dur": 200 },
-      { "text": "the", "start": 31350, "dur": 150 },
-      { "text": "fight.", "start": 31500, "dur": 600 }
+      {
+        "text": "Pressure",
+        "start": 29123,
+        "dur": 443
+      },
+      {
+        "text": "on",
+        "start": 29566,
+        "dur": 110
+      },
+      {
+        "text": "my",
+        "start": 29676,
+        "dur": 110
+      },
+      {
+        "text": "back,",
+        "start": 29786,
+        "dur": 276
+      },
+      {
+        "text": "but",
+        "start": 30062,
+        "dur": 166
+      },
+      {
+        "text": "I",
+        "start": 30228,
+        "dur": 80
+      },
+      {
+        "text": "move",
+        "start": 30308,
+        "dur": 221
+      },
+      {
+        "text": "like",
+        "start": 30529,
+        "dur": 221
+      },
+      {
+        "text": "it's",
+        "start": 30750,
+        "dur": 221
+      },
+      {
+        "text": "light,",
+        "start": 30971,
+        "dur": 332
+      }
     ]
   },
   {
     "id": 7,
     "words": [
-      { "text": "If", "start": 32400, "dur": 200 },
-      { "text": "I", "start": 32600, "dur": 150 },
-      { "text": "fall", "start": 32750, "dur": 350 },
-      { "text": "once,", "start": 33100, "dur": 450 },
-      { "text": "best", "start": 33750, "dur": 300 },
-      { "text": "believe", "start": 34050, "dur": 400 },
-      { "text": "I", "start": 34450, "dur": 150 },
-      { "text": "rise", "start": 34600, "dur": 350 },
-      { "text": "twice.", "start": 34950, "dur": 600 }
+      {
+        "text": "Turn",
+        "start": 31563,
+        "dur": 231
+      },
+      {
+        "text": "another",
+        "start": 31794,
+        "dur": 404
+      },
+      {
+        "text": "setback",
+        "start": 32198,
+        "dur": 404
+      },
+      {
+        "text": "to",
+        "start": 32602,
+        "dur": 115
+      },
+      {
+        "text": "fuel",
+        "start": 32717,
+        "dur": 231
+      },
+      {
+        "text": "for",
+        "start": 32948,
+        "dur": 173
+      },
+      {
+        "text": "the",
+        "start": 33121,
+        "dur": 173
+      },
+      {
+        "text": "fight,",
+        "start": 33294,
+        "dur": 346
+      }
     ]
   },
   {
     "id": 8,
     "words": [
-      { "text": "This", "start": 35700, "dur": 300 },
-      { "text": "is", "start": 36000, "dur": 200 },
-      { "text": "what", "start": 36200, "dur": 250 },
-      { "text": "it", "start": 36450, "dur": 200 },
-      { "text": "looks", "start": 36650, "dur": 350 },
-      { "text": "like", "start": 37000, "dur": 250 },
-      { "text": "when", "start": 37250, "dur": 250 },
-      { "text": "you", "start": 37500, "dur": 200 },
-      { "text": "bet", "start": 37700, "dur": 300 },
-      { "text": "on", "start": 38000, "dur": 200 },
-      { "text": "your", "start": 38200, "dur": 200 },
-      { "text": "life.", "start": 38400, "dur": 700 }
+      {
+        "text": "If",
+        "start": 33983,
+        "dur": 142
+      },
+      {
+        "text": "I",
+        "start": 34125,
+        "dur": 80
+      },
+      {
+        "text": "fall",
+        "start": 34205,
+        "dur": 284
+      },
+      {
+        "text": "once,",
+        "start": 34489,
+        "dur": 355
+      },
+      {
+        "text": "best",
+        "start": 34844,
+        "dur": 284
+      },
+      {
+        "text": "believe",
+        "start": 35128,
+        "dur": 498
+      },
+      {
+        "text": "I",
+        "start": 35626,
+        "dur": 80
+      },
+      {
+        "text": "rise",
+        "start": 35706,
+        "dur": 284
+      },
+      {
+        "text": "twice,",
+        "start": 35990,
+        "dur": 426
+      }
     ]
   },
   {
     "id": 9,
     "words": [
-      { "text": "I", "start": 39300, "dur": 200 },
-      { "text": "run", "start": 39500, "dur": 350 },
-      { "text": "through", "start": 39850, "dur": 300 },
-      { "text": "the", "start": 40150, "dur": 150 },
-      { "text": "fire,", "start": 40300, "dur": 500 },
-      { "text": "never", "start": 41000, "dur": 400 },
-      { "text": "giving", "start": 41400, "dur": 450 },
-      { "text": "up.", "start": 41850, "dur": 550 }
+      {
+        "text": "This",
+        "start": 36423,
+        "dur": 228
+      },
+      {
+        "text": "is",
+        "start": 36651,
+        "dur": 114
+      },
+      {
+        "text": "what",
+        "start": 36765,
+        "dur": 228
+      },
+      {
+        "text": "it",
+        "start": 36993,
+        "dur": 114
+      },
+      {
+        "text": "looks",
+        "start": 37107,
+        "dur": 285
+      },
+      {
+        "text": "like",
+        "start": 37392,
+        "dur": 228
+      },
+      {
+        "text": "when",
+        "start": 37620,
+        "dur": 228
+      },
+      {
+        "text": "you",
+        "start": 37848,
+        "dur": 171
+      },
+      {
+        "text": "bet",
+        "start": 38019,
+        "dur": 171
+      },
+      {
+        "text": "on",
+        "start": 38190,
+        "dur": 114
+      },
+      {
+        "text": "your",
+        "start": 38304,
+        "dur": 228
+      },
+      {
+        "text": "life,",
+        "start": 38532,
+        "dur": 285
+      }
     ]
   },
   {
     "id": 10,
     "words": [
-      { "text": "Even", "start": 42600, "dur": 350 },
-      { "text": "when", "start": 42950, "dur": 250 },
-      { "text": "the", "start": 43200, "dur": 150 },
-      { "text": "road", "start": 43350, "dur": 350 },
-      { "text": "gets", "start": 43700, "dur": 300 },
-      { "text": "heavy,", "start": 44000, "dur": 500 },
-      { "text": "I", "start": 44700, "dur": 150 },
-      { "text": "level", "start": 44850, "dur": 350 },
-      { "text": "up.", "start": 45200, "dur": 500 }
+      {
+        "text": "I",
+        "start": 39303,
+        "dur": 80
+      },
+      {
+        "text": "run",
+        "start": 39383,
+        "dur": 181
+      },
+      {
+        "text": "through",
+        "start": 39564,
+        "dur": 424
+      },
+      {
+        "text": "the",
+        "start": 39988,
+        "dur": 181
+      },
+      {
+        "text": "fire,",
+        "start": 40169,
+        "dur": 303
+      },
+      {
+        "text": "never",
+        "start": 40472,
+        "dur": 303
+      },
+      {
+        "text": "giving",
+        "start": 40775,
+        "dur": 363
+      },
+      {
+        "text": "up,",
+        "start": 41138,
+        "dur": 181
+      }
     ]
   },
   {
     "id": 11,
     "words": [
-      { "text": "No", "start": 45900, "dur": 300 },
-      { "text": "luck,", "start": 46200, "dur": 450 },
-      { "text": "this", "start": 46850, "dur": 250 },
-      { "text": "is", "start": 47100, "dur": 200 },
-      { "text": "built", "start": 47300, "dur": 350 },
-      { "text": "from", "start": 47650, "dur": 300 },
-      { "text": "the", "start": 47950, "dur": 150 },
-      { "text": "ground", "start": 48100, "dur": 450 },
-      { "text": "straight", "start": 48550, "dur": 400 },
-      { "text": "up.", "start": 48950, "dur": 600 }
+      {
+        "text": "Even",
+        "start": 41884,
+        "dur": 275
+      },
+      {
+        "text": "when",
+        "start": 42159,
+        "dur": 275
+      },
+      {
+        "text": "the",
+        "start": 42434,
+        "dur": 206
+      },
+      {
+        "text": "road",
+        "start": 42640,
+        "dur": 275
+      },
+      {
+        "text": "gets",
+        "start": 42915,
+        "dur": 275
+      },
+      {
+        "text": "heavy,",
+        "start": 43190,
+        "dur": 412
+      },
+      {
+        "text": "I",
+        "start": 43602,
+        "dur": 80
+      },
+      {
+        "text": "level",
+        "start": 43682,
+        "dur": 343
+      },
+      {
+        "text": "up,",
+        "start": 44025,
+        "dur": 206
+      }
     ]
   },
   {
     "id": 12,
     "words": [
-      { "text": "Every", "start": 49700, "dur": 400 },
-      { "text": "time", "start": 50100, "dur": 300 },
-      { "text": "they", "start": 50400, "dur": 250 },
-      { "text": "got", "start": 50650, "dur": 350 },
-      { "text": "me,", "start": 51000, "dur": 450 },
-      { "text": "I", "start": 51650, "dur": 150 },
-      { "text": "just", "start": 51800, "dur": 250 },
-      { "text": "run", "start": 52050, "dur": 250 },
-      { "text": "it,", "start": 52300, "dur": 250 },
-      { "text": "run", "start": 52550, "dur": 250 },
-      { "text": "it,", "start": 52800, "dur": 250 },
-      { "text": "run", "start": 53050, "dur": 250 },
-      { "text": "it,", "start": 53300, "dur": 250 },
-      { "text": "run", "start": 53550, "dur": 250 },
-      { "text": "it,", "start": 53800, "dur": 250 },
-      { "text": "run", "start": 54050, "dur": 250 },
-      { "text": "it,", "start": 54300, "dur": 250 },
-      { "text": "run", "start": 54550, "dur": 250 },
-      { "text": "it,", "start": 54800, "dur": 250 },
-      { "text": "run", "start": 55050, "dur": 250 },
-      { "text": "it", "start": 55300, "dur": 200 },
-      { "text": "up.", "start": 55500, "dur": 700 }
+      {
+        "text": "No",
+        "start": 44244,
+        "dur": 144
+      },
+      {
+        "text": "luck,",
+        "start": 44388,
+        "dur": 361
+      },
+      {
+        "text": "this",
+        "start": 44749,
+        "dur": 289
+      },
+      {
+        "text": "is",
+        "start": 45038,
+        "dur": 144
+      },
+      {
+        "text": "built",
+        "start": 45182,
+        "dur": 361
+      },
+      {
+        "text": "from",
+        "start": 45543,
+        "dur": 289
+      },
+      {
+        "text": "the",
+        "start": 45832,
+        "dur": 217
+      },
+      {
+        "text": "ground",
+        "start": 46049,
+        "dur": 434
+      },
+      {
+        "text": "straight",
+        "start": 46483,
+        "dur": 579
+      },
+      {
+        "text": "up,",
+        "start": 47062,
+        "dur": 217
+      }
     ]
   },
   {
     "id": 13,
-    "isTune": true,
     "words": [
-      { "text": "🎵 Music 🎵", "start": 56200, "dur": 12000 }
+      {
+        "text": "Every",
+        "start": 47344,
+        "dur": 1158
+      },
+      {
+        "text": "time",
+        "start": 48502,
+        "dur": 927
+      },
+      {
+        "text": "they",
+        "start": 49429,
+        "dur": 927
+      },
+      {
+        "text": "got",
+        "start": 50356,
+        "dur": 695
+      },
+      {
+        "text": "me,",
+        "start": 51051,
+        "dur": 695
+      },
+      {
+        "text": "I",
+        "start": 51746,
+        "dur": 231
+      },
+      {
+        "text": "just",
+        "start": 51977,
+        "dur": 927
+      },
+      {
+        "text": "run",
+        "start": 52904,
+        "dur": 695
+      },
+      {
+        "text": "it,",
+        "start": 53599,
+        "dur": 695
+      },
+      {
+        "text": "run",
+        "start": 54294,
+        "dur": 695
+      },
+      {
+        "text": "it,",
+        "start": 54989,
+        "dur": 695
+      },
+      {
+        "text": "run",
+        "start": 55684,
+        "dur": 695
+      },
+      {
+        "text": "it,",
+        "start": 56379,
+        "dur": 695
+      },
+      {
+        "text": "run",
+        "start": 57074,
+        "dur": 695
+      },
+      {
+        "text": "it,",
+        "start": 57769,
+        "dur": 695
+      },
+      {
+        "text": "run",
+        "start": 58464,
+        "dur": 695
+      },
+      {
+        "text": "it,",
+        "start": 59159,
+        "dur": 695
+      },
+      {
+        "text": "run",
+        "start": 59854,
+        "dur": 695
+      },
+      {
+        "text": "it,",
+        "start": 60549,
+        "dur": 695
+      },
+      {
+        "text": "run",
+        "start": 61244,
+        "dur": 695
+      },
+      {
+        "text": "it",
+        "start": 61939,
+        "dur": 463
+      },
+      {
+        "text": "up,",
+        "start": 62402,
+        "dur": 695
+      }
     ]
   },
   {
     "id": 14,
     "words": [
-      { "text": "Don't", "start": 68200, "dur": 350 },
-      { "text": "wait", "start": 68550, "dur": 300 },
-      { "text": "around", "start": 68850, "dur": 450 },
-      { "text": "for", "start": 69300, "dur": 200 },
-      { "text": "a", "start": 69500, "dur": 150 },
-      { "text": "chance,", "start": 69650, "dur": 450 },
-      { "text": "I", "start": 70100, "dur": 150 },
-      { "text": "make", "start": 70250, "dur": 300 },
-      { "text": "mine.", "start": 70550, "dur": 600 }
+      {
+        "text": "⚪️⚪️⚪️,",
+        "start": 64006,
+        "dur": 3219
+      }
     ]
   },
   {
     "id": 15,
     "words": [
-      { "text": "I", "start": 71300, "dur": 200 },
-      { "text": "don't", "start": 71500, "dur": 250 },
-      { "text": "chase", "start": 71750, "dur": 350 },
-      { "text": "hype,", "start": 72100, "dur": 400 },
-      { "text": "truth", "start": 72600, "dur": 350 },
-      { "text": "is", "start": 72950, "dur": 200 },
-      { "text": "the", "start": 73150, "dur": 150 },
-      { "text": "goal", "start": 73300, "dur": 300 },
-      { "text": "to", "start": 73600, "dur": 200 },
-      { "text": "find.", "start": 73800, "dur": 650 }
+      {
+        "text": "Don't",
+        "start": 67286,
+        "dur": 494
+      },
+      {
+        "text": "wait",
+        "start": 67780,
+        "dur": 395
+      },
+      {
+        "text": "around",
+        "start": 68175,
+        "dur": 593
+      },
+      {
+        "text": "for",
+        "start": 68768,
+        "dur": 296
+      },
+      {
+        "text": "a",
+        "start": 69064,
+        "dur": 98
+      },
+      {
+        "text": "chance,",
+        "start": 69162,
+        "dur": 692
+      },
+      {
+        "text": "I",
+        "start": 69854,
+        "dur": 98
+      },
+      {
+        "text": "make",
+        "start": 69952,
+        "dur": 395
+      },
+      {
+        "text": "mine,",
+        "start": 70347,
+        "dur": 494
+      }
     ]
   },
   {
     "id": 16,
     "words": [
-      { "text": "Got", "start": 74600, "dur": 300 },
-      { "text": "no", "start": 74900, "dur": 250 },
-      { "text": "time", "start": 75150, "dur": 350 },
-      { "text": "for", "start": 75500, "dur": 200 },
-      { "text": "people", "start": 75700, "dur": 400 },
-      { "text": "who", "start": 76100, "dur": 250 },
-      { "text": "stay", "start": 76350, "dur": 350 },
-      { "text": "stuck", "start": 76700, "dur": 350 },
-      { "text": "on", "start": 77050, "dur": 200 },
-      { "text": "talk.", "start": 77250, "dur": 600 }
+      {
+        "text": "I",
+        "start": 71006,
+        "dur": 80
+      },
+      {
+        "text": "don't",
+        "start": 71086,
+        "dur": 307
+      },
+      {
+        "text": "chase",
+        "start": 71393,
+        "dur": 307
+      },
+      {
+        "text": "hype,",
+        "start": 71700,
+        "dur": 307
+      },
+      {
+        "text": "truth",
+        "start": 72007,
+        "dur": 307
+      },
+      {
+        "text": "is",
+        "start": 72314,
+        "dur": 123
+      },
+      {
+        "text": "the",
+        "start": 72437,
+        "dur": 184
+      },
+      {
+        "text": "goal",
+        "start": 72621,
+        "dur": 246
+      },
+      {
+        "text": "to",
+        "start": 72867,
+        "dur": 123
+      },
+      {
+        "text": "find.",
+        "start": 72990,
+        "dur": 307
+      }
     ]
   },
   {
     "id": 17,
     "words": [
-      { "text": "While", "start": 78000, "dur": 300 },
-      { "text": "I", "start": 78300, "dur": 150 },
-      { "text": "turn", "start": 78450, "dur": 300 },
-      { "text": "big", "start": 78750, "dur": 300 },
-      { "text": "dreams", "start": 79050, "dur": 450 },
-      { "text": "into", "start": 79500, "dur": 400 },
-      { "text": "real-world", "start": 79900, "dur": 600 },
-      { "text": "stock.", "start": 80500, "dur": 650 }
+      {
+        "text": "Got",
+        "start": 73386,
+        "dur": 168
+      },
+      {
+        "text": "no",
+        "start": 73554,
+        "dur": 112
+      },
+      {
+        "text": "time",
+        "start": 73666,
+        "dur": 224
+      },
+      {
+        "text": "for",
+        "start": 73890,
+        "dur": 168
+      },
+      {
+        "text": "people",
+        "start": 74058,
+        "dur": 337
+      },
+      {
+        "text": "who",
+        "start": 74395,
+        "dur": 168
+      },
+      {
+        "text": "stay",
+        "start": 74563,
+        "dur": 224
+      },
+      {
+        "text": "stuck",
+        "start": 74787,
+        "dur": 281
+      },
+      {
+        "text": "on",
+        "start": 75068,
+        "dur": 112
+      },
+      {
+        "text": "talk,",
+        "start": 75180,
+        "dur": 281
+      }
     ]
   },
   {
     "id": 18,
     "words": [
-      { "text": "Storm", "start": 81300, "dur": 400 },
-      { "text": "in", "start": 81700, "dur": 200 },
-      { "text": "my", "start": 182200, "dur": 200 },
-      { "text": "chest,", "start": 182400, "dur": 650 },
-      { "text": "but", "start": 183450, "dur": 350 },
-      { "text": "the", "start": 183800, "dur": 200 },
-      { "text": "heartbeat", "start": 184000, "dur": 600 },
-      { "text": "steady.", "start": 184600, "dur": 1200 }
-  ]},
-  { "id": 19, "words": [
-      { "text": "Warrior", "start": 186000, "dur": 700 }, { "text": "mind,", "start": 186700, "dur": 600 },
-      { "text": "every", "start": 187400, "dur": 450 }, { "text": "move", "start": 187850, "dur": 400 },
-      { "text": "locked,", "start": 188250, "dur": 500 }, { "text": "ready.", "start": 188750, "dur": 1450 }
-  ]},
-  { "id": 20, "words": [
-      { "text": "Life", "start": 190400, "dur": 400 }, { "text": "don't", "start": 190800, "dur": 300 },
-      { "text": "hand", "start": 191100, "dur": 350 }, { "text": "you", "start": 191450, "dur": 250 },
-      { "text": "wins,", "start": 191700, "dur": 450 }, { "text": "you", "start": 192300, "dur": 250 },
-      { "text": "take", "start": 192550, "dur": 350 }, { "text": "what's", "start": 192900, "dur": 400 },
-      { "text": "yours.", "start": 193300, "dur": 800 }
-  ]},
-  { "id": 21, "words": [
-      { "text": "Take", "start": 194300, "dur": 400 }, { "text": "down", "start": 194700, "dur": 400 },
-      { "text": "doors,", "start": 195100, "dur": 550 }, { "text": "leave", "start": 195800, "dur": 400 },
-      { "text": "the", "start": 196200, "dur": 200 }, { "text": "doubts", "start": 196400, "dur": 400 },
-      { "text": "on", "start": 196800, "dur": 200 }, { "text": "the", "start": 197000, "dur": 150 },
-      { "text": "floor.", "start": 197150, "dur": 850 }
-  ]},
-  { "id": 22, "words": [
-      { "text": "If", "start": 198200, "dur": 250 }, { "text": "the", "start": 198450, "dur": 150 },
-      { "text": "world", "start": 198600, "dur": 400 }, { "text": "goes", "start": 199000, "dur": 350 },
-      { "text": "dark,", "start": 199350, "dur": 450 }, { "text": "I", "start": 200000, "dur": 200 },
-      { "text": "shine.", "start": 200200, "dur": 1100 }
-  ]},
-  { "id": 23, "words": [
-      { "text": "Every", "start": 201500, "dur": 450 }, { "text": "fall", "start": 201950, "dur": 400 },
-      { "text": "just", "start": 202350, "dur": 350 }, { "text": "sharpens", "start": 202700, "dur": 550 },
-      { "text": "the", "start": 203250, "dur": 200 }, { "text": "climb.", "start": 203450, "dur": 1050 }
-  ]},
-  { "id": 24, "words": [
-      { "text": "Every", "start": 204700, "dur": 450 }, { "text": "goal", "start": 205150, "dur": 450 },
-      { "text": "I", "start": 205600, "dur": 200 }, { "text": "touch", "start": 205800, "dur": 400 },
-      { "text": "becomes", "start": 206200, "dur": 500 }, { "text": "mine.", "start": 206700, "dur": 1100 }
-  ]},
-  { "id": 25, "words": [
-      { "text": "Watch", "start": 208000, "dur": 400 }, { "text": "close,", "start": 208400, "dur": 500 },
-      { "text": "this", "start": 209100, "dur": 300 }, { "text": "is", "start": 209400, "dur": 200 },
-      { "text": "where", "start": 209600, "dur": 300 }, { "text": "power", "start": 209900, "dur": 450 },
-      { "text": "meets", "start": 210350, "dur": 350 }, { "text": "grind.", "start": 210700, "dur": 1300 }
-  ]},
-  { "id": 26, "words": [
-      { "text": "I", "start": 212200, "dur": 200 }, { "text": "run", "start": 212400, "dur": 350 },
-      { "text": "through", "start": 212750, "dur": 300 }, { "text": "the", "start": 213050, "dur": 150 },
-      { "text": "fire,", "start": 213200, "dur": 500 }, { "text": "never", "start": 213900, "dur": 400 },
-      { "text": "giving", "start": 214300, "dur": 450 }, { "text": "up.", "start": 214750, "dur": 550 }
-  ]},
-  { "id": 27, "words": [
-      { "text": "Even", "start": 215500, "dur": 350 }, { "text": "when", "start": 215850, "dur": 250 },
-      { "text": "the", "start": 216100, "dur": 150 }, { "text": "road", "start": 216250, "dur": 350 },
-      { "text": "gets", "start": 216600, "dur": 300 }, { "text": "heavy,", "start": 216900, "dur": 500 },
-      { "text": "I", "start": 217600, "dur": 150 }, { "text": "level", "start": 217750, "dur": 350 },
-      { "text": "up.", "start": 218100, "dur": 500 }
-  ]},
-  { "id": 28, "words": [
-      { "text": "No", "start": 218800, "dur": 300 }, { "text": "luck,", "start": 219100, "dur": 450 },
-      { "text": "this", "start": 219750, "dur": 250 }, { "text": "is", "start": 220000, "dur": 200 },
-      { "text": "built", "start": 220200, "dur": 350 }, { "text": "from", "start": 220550, "dur": 300 },
-      { "text": "the", "start": 220850, "dur": 150 }, { "text": "ground", "start": 221000, "dur": 450 },
-      { "text": "straight", "start": 221450, "dur": 400 }, { "text": "up.", "start": 221850, "dur": 650 }
-  ]},
-  { "id": 29, "words": [
-      { "text": "Every", "start": 222700, "dur": 400 }, { "text": "time", "start": 223100, "dur": 300 },
-      { "text": "they", "start": 223400, "dur": 250 }, { "text": "got", "start": 223650, "dur": 350 },
-      { "text": "me,", "start": 224000, "dur": 450 }, { "text": "I", "start": 224650, "dur": 150 },
-      { "text": "just", "start": 224800, "dur": 250 }, { "text": "run", "start": 225050, "dur": 250 },
-      { "text": "it,", "start": 225300, "dur": 250 }, { "text": "run", "start": 225550, "dur": 250 },
-      { "text": "it,", "start": 225800, "dur": 250 }, { "text": "run", "start": 226050, "dur": 250 },
-      { "text": "it,", "start": 226300, "dur": 250 }, { "text": "run", "start": 226550, "dur": 250 },
-      { "text": "it,", "start": 226800, "dur": 250 }, { "text": "run", "start": 227050, "dur": 250 },
-      { "text": "it,", "start": 227300, "dur": 250 }, { "text": "run", "start": 227550, "dur": 250 },
-      { "text": "it,", "start": 227800, "dur": 250 }, { "text": "run", "start": 228050, "dur": 250 },
-      { "text": "it", "start": 228300, "dur": 200 }, { "text": "up.", "start": 228500, "dur": 700 }
-  ]},
+      {
+        "text": "While",
+        "start": 75507,
+        "dur": 338
+      },
+      {
+        "text": "I",
+        "start": 75845,
+        "dur": 80
+      },
+      {
+        "text": "turn",
+        "start": 75925,
+        "dur": 270
+      },
+      {
+        "text": "big",
+        "start": 76195,
+        "dur": 203
+      },
+      {
+        "text": "dreams",
+        "start": 76398,
+        "dur": 406
+      },
+      {
+        "text": "into",
+        "start": 76804,
+        "dur": 270
+      },
+      {
+        "text": "real-world",
+        "start": 77074,
+        "dur": 676
+      },
+      {
+        "text": "stock,",
+        "start": 77750,
+        "dur": 406
+      }
+    ]
+  },
   {
-    "id": 30,
+    "id": 19,
+    "words": [
+      {
+        "text": "Storm",
+        "start": 78167,
+        "dur": 297
+      },
+      {
+        "text": "in",
+        "start": 78464,
+        "dur": 118
+      },
+      {
+        "text": "my",
+        "start": 78582,
+        "dur": 118
+      },
+      {
+        "text": "chest,",
+        "start": 78700,
+        "dur": 356
+      },
+      {
+        "text": "but",
+        "start": 79056,
+        "dur": 178
+      },
+      {
+        "text": "the",
+        "start": 79234,
+        "dur": 178
+      },
+      {
+        "text": "heartbeat",
+        "start": 79412,
+        "dur": 535
+      },
+      {
+        "text": "steady,",
+        "start": 79947,
+        "dur": 416
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "words": [
+      {
+        "text": "Warrior",
+        "start": 80627,
+        "dur": 448
+      },
+      {
+        "text": "mind,",
+        "start": 81075,
+        "dur": 320
+      },
+      {
+        "text": "every",
+        "start": 81395,
+        "dur": 320
+      },
+      {
+        "text": "move",
+        "start": 81715,
+        "dur": 256
+      },
+      {
+        "text": "locked,",
+        "start": 81971,
+        "dur": 448
+      },
+      {
+        "text": "ready,",
+        "start": 82419,
+        "dur": 384
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "words": [
+      {
+        "text": "Life",
+        "start": 83087,
+        "dur": 231
+      },
+      {
+        "text": "don't",
+        "start": 83318,
+        "dur": 289
+      },
+      {
+        "text": "hand",
+        "start": 83607,
+        "dur": 231
+      },
+      {
+        "text": "you",
+        "start": 83838,
+        "dur": 173
+      },
+      {
+        "text": "wins,",
+        "start": 84011,
+        "dur": 289
+      },
+      {
+        "text": "you",
+        "start": 84300,
+        "dur": 173
+      },
+      {
+        "text": "take",
+        "start": 84473,
+        "dur": 231
+      },
+      {
+        "text": "what's",
+        "start": 84704,
+        "dur": 347
+      },
+      {
+        "text": "yours,",
+        "start": 85051,
+        "dur": 347
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "words": [
+      {
+        "text": "Take",
+        "start": 85467,
+        "dur": 309
+      },
+      {
+        "text": "down",
+        "start": 85776,
+        "dur": 309
+      },
+      {
+        "text": "doors,",
+        "start": 86085,
+        "dur": 464
+      },
+      {
+        "text": "leave",
+        "start": 86549,
+        "dur": 387
+      },
+      {
+        "text": "the",
+        "start": 86936,
+        "dur": 232
+      },
+      {
+        "text": "doubts",
+        "start": 87168,
+        "dur": 464
+      },
+      {
+        "text": "on",
+        "start": 87632,
+        "dur": 154
+      },
+      {
+        "text": "the",
+        "start": 87786,
+        "dur": 232
+      },
+      {
+        "text": "floor,",
+        "start": 88018,
+        "dur": 464
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "words": [
+      {
+        "text": "If",
+        "start": 88808,
+        "dur": 156
+      },
+      {
+        "text": "the",
+        "start": 88964,
+        "dur": 235
+      },
+      {
+        "text": "world",
+        "start": 89199,
+        "dur": 392
+      },
+      {
+        "text": "goes",
+        "start": 89591,
+        "dur": 313
+      },
+      {
+        "text": "dark,",
+        "start": 89904,
+        "dur": 392
+      },
+      {
+        "text": "I",
+        "start": 90296,
+        "dur": 80
+      },
+      {
+        "text": "shine,",
+        "start": 90376,
+        "dur": 470
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "words": [
+      {
+        "text": "Every",
+        "start": 91268,
+        "dur": 393
+      },
+      {
+        "text": "fall",
+        "start": 91661,
+        "dur": 314
+      },
+      {
+        "text": "just",
+        "start": 91975,
+        "dur": 314
+      },
+      {
+        "text": "sharpens",
+        "start": 92289,
+        "dur": 629
+      },
+      {
+        "text": "the",
+        "start": 92918,
+        "dur": 236
+      },
+      {
+        "text": "climb,",
+        "start": 93154,
+        "dur": 472
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "words": [
+      {
+        "text": "Every",
+        "start": 93688,
+        "dur": 333
+      },
+      {
+        "text": "goal",
+        "start": 94021,
+        "dur": 266
+      },
+      {
+        "text": "I",
+        "start": 94287,
+        "dur": 80
+      },
+      {
+        "text": "touch",
+        "start": 94367,
+        "dur": 333
+      },
+      {
+        "text": "becomes",
+        "start": 94700,
+        "dur": 466
+      },
+      {
+        "text": "mine,",
+        "start": 95166,
+        "dur": 333
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "words": [
+      {
+        "text": "Watch",
+        "start": 95528,
+        "dur": 276
+      },
+      {
+        "text": "close,",
+        "start": 95804,
+        "dur": 331
+      },
+      {
+        "text": "this",
+        "start": 96135,
+        "dur": 221
+      },
+      {
+        "text": "is",
+        "start": 96356,
+        "dur": 110
+      },
+      {
+        "text": "where",
+        "start": 96466,
+        "dur": 276
+      },
+      {
+        "text": "power",
+        "start": 96742,
+        "dur": 276
+      },
+      {
+        "text": "meets",
+        "start": 97018,
+        "dur": 276
+      },
+      {
+        "text": "grind,",
+        "start": 97294,
+        "dur": 331
+      }
+    ]
+  },
+  {
+    "id": 27,
     "isTune": true,
     "words": [
-      { "text": "♪ ♫ ♪", "start": 229400, "dur": 64600 }
+      {
+        "text": "♪ ♫ ♪",
+        "start": 97628,
+        "dur": 4700
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "words": [
+      {
+        "text": "I",
+        "start": 102329,
+        "dur": 80
+      },
+      {
+        "text": "run",
+        "start": 102409,
+        "dur": 187
+      },
+      {
+        "text": "through",
+        "start": 102596,
+        "dur": 436
+      },
+      {
+        "text": "the",
+        "start": 103032,
+        "dur": 187
+      },
+      {
+        "text": "fire,",
+        "start": 103219,
+        "dur": 311
+      },
+      {
+        "text": "never",
+        "start": 103530,
+        "dur": 311
+      },
+      {
+        "text": "giving",
+        "start": 103841,
+        "dur": 374
+      },
+      {
+        "text": "up,",
+        "start": 104215,
+        "dur": 187
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "words": [
+      {
+        "text": "Even",
+        "start": 104649,
+        "dur": 305
+      },
+      {
+        "text": "when",
+        "start": 104954,
+        "dur": 305
+      },
+      {
+        "text": "the",
+        "start": 105259,
+        "dur": 229
+      },
+      {
+        "text": "road",
+        "start": 105488,
+        "dur": 305
+      },
+      {
+        "text": "gets",
+        "start": 105793,
+        "dur": 305
+      },
+      {
+        "text": "heavy,",
+        "start": 106098,
+        "dur": 458
+      },
+      {
+        "text": "I",
+        "start": 106556,
+        "dur": 80
+      },
+      {
+        "text": "level",
+        "start": 106636,
+        "dur": 382
+      },
+      {
+        "text": "up,",
+        "start": 107018,
+        "dur": 229
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "words": [
+      {
+        "text": "No",
+        "start": 107289,
+        "dur": 144
+      },
+      {
+        "text": "luck,",
+        "start": 107433,
+        "dur": 362
+      },
+      {
+        "text": "this",
+        "start": 107795,
+        "dur": 289
+      },
+      {
+        "text": "is",
+        "start": 108084,
+        "dur": 144
+      },
+      {
+        "text": "built",
+        "start": 108228,
+        "dur": 362
+      },
+      {
+        "text": "from",
+        "start": 108590,
+        "dur": 289
+      },
+      {
+        "text": "the",
+        "start": 108879,
+        "dur": 217
+      },
+      {
+        "text": "ground",
+        "start": 109096,
+        "dur": 434
+      },
+      {
+        "text": "straight",
+        "start": 109530,
+        "dur": 579
+      },
+      {
+        "text": "up,",
+        "start": 110109,
+        "dur": 217
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "words": [
+      {
+        "text": "Every",
+        "start": 110390,
+        "dur": 676
+      },
+      {
+        "text": "time",
+        "start": 111066,
+        "dur": 541
+      },
+      {
+        "text": "they",
+        "start": 111607,
+        "dur": 541
+      },
+      {
+        "text": "got",
+        "start": 112148,
+        "dur": 405
+      },
+      {
+        "text": "me,",
+        "start": 112553,
+        "dur": 405
+      },
+      {
+        "text": "I",
+        "start": 112958,
+        "dur": 135
+      },
+      {
+        "text": "just",
+        "start": 113093,
+        "dur": 541
+      },
+      {
+        "text": "run",
+        "start": 113634,
+        "dur": 405
+      },
+      {
+        "text": "it,",
+        "start": 114039,
+        "dur": 405
+      },
+      {
+        "text": "run",
+        "start": 114444,
+        "dur": 405
+      },
+      {
+        "text": "it,",
+        "start": 114849,
+        "dur": 405
+      },
+      {
+        "text": "run",
+        "start": 115254,
+        "dur": 405
+      },
+      {
+        "text": "it,",
+        "start": 115659,
+        "dur": 405
+      },
+      {
+        "text": "run",
+        "start": 116064,
+        "dur": 405
+      },
+      {
+        "text": "it,",
+        "start": 116469,
+        "dur": 405
+      },
+      {
+        "text": "run",
+        "start": 116874,
+        "dur": 405
+      },
+      {
+        "text": "it,",
+        "start": 117279,
+        "dur": 405
+      },
+      {
+        "text": "run",
+        "start": 117684,
+        "dur": 405
+      },
+      {
+        "text": "it,",
+        "start": 118089,
+        "dur": 405
+      },
+      {
+        "text": "run",
+        "start": 118494,
+        "dur": 405
+      },
+      {
+        "text": "it",
+        "start": 118899,
+        "dur": 270
+      },
+      {
+        "text": "up,",
+        "start": 119169,
+        "dur": 405
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "words": [
+      {
+        "text": "⚪️⚪️⚪️",
+        "start": 119670,
+        "dur": 379
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "isTune": true,
+    "words": [
+      {
+        "text": "♪ ♫ ♪",
+        "start": 120050,
+        "dur": 25582
+      }
     ]
   }
 ]
