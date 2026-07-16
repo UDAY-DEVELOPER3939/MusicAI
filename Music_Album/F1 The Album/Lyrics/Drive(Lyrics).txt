@@ -26,9 +26,9 @@
       { "text": "Speedin'", "start": 25000, "dur": 660 },
       { "text": "by", "start": 25660, "dur": 660 },
       { "text": "with", "start": 26320, "dur": 660 },
-      { "text": "the", "start": 27980, "dur": 660 },
-      { "text": "top", "start": 28640, "dur": 660 },
-      { "text": "down", "start": 29300, "dur": 700 }
+      { "text": "the", "start": 27980, "dur": 360 },
+      { "text": "top", "start": 28340, "dur": 660 },
+      { "text": "down", "start": 29000, "dur": 700 }
     ]
   },
   {
