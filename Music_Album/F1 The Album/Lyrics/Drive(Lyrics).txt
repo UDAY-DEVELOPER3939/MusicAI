@@ -170,64 +170,64 @@
   {
     "id": 13,
     "words": [
-      { "text": "Ha-la-lay-la,", "start": 63000, "dur": 750 },
-      { "text": "we", "start": 63750, "dur": 750 },
-      { "text": "can", "start": 64500, "dur": 750 },
-      { "text": "ride", "start": 65250, "dur": 750 }
+      { "text": "Ha-la-lay-la,", "start": 65000, "dur": 750 },
+      { "text": "we", "start": 65750, "dur": 750 },
+      { "text": "can", "start": 66500, "dur": 750 },
+      { "text": "ride", "start": 67250, "dur": 750 }
     ]
   },
   {
     "id": 14,
     "words": [
-      { "text": "Four", "start": 66000, "dur": 300 },
-      { "text": "wheels,", "start": 66300, "dur": 300 },
-      { "text": "you", "start": 66600, "dur": 300 },
-      { "text": "and", "start": 66900, "dur": 300 },
-      { "text": "I", "start": 67200, "dur": 300 },
-      { "text": "gotta", "start": 67500, "dur": 300 },
-      { "text": "get", "start": 67800, "dur": 300 },
-      { "text": "out", "start": 68100, "dur": 300 },
-      { "text": "of", "start": 68400, "dur": 300 },
-      { "text": "here", "start": 68700, "dur": 300 }
+      { "text": "Four", "start": 67251, "dur": 299 },
+      { "text": "wheels,", "start": 67300, "dur": 300 },
+      { "text": "you", "start": 67600, "dur": 300 },
+      { "text": "and", "start": 67900, "dur": 300 },
+      { "text": "I", "start": 68200, "dur": 300 },
+      { "text": "gotta", "start": 68500, "dur": 300 },
+      { "text": "get", "start": 68800, "dur": 300 },
+      { "text": "out", "start": 69100, "dur": 300 },
+      { "text": "of", "start": 69400, "dur": 300 },
+      { "text": "here", "start": 69700, "dur": 300 }
     ]
   },
   {
     "id": 15,
     "words": [
-      { "text": "Ha-la-lay-la,", "start": 69000, "dur": 800 },
-      { "text": "my", "start": 69800, "dur": 600 },
-      { "text": "saviour", "start": 70400, "dur": 800 }
+      { "text": "Ha-la-lay-la,", "start": 70000, "dur": 1000 },
+      { "text": "my", "start": 71000, "dur": 600 },
+      { "text": "saviour", "start": 71600, "dur": 1200 }
     ]
   },
   {
     "id": 16,
     "words": [
-      { "text": "Ha-la-lay-la,", "start": 75000, "dur": 500 },
-      { "text": "we", "start": 75500, "dur": 500 },
-      { "text": "can", "start": 76000, "dur": 500 },
-      { "text": "fly", "start": 76500, "dur": 500 }
+      { "text": "Ha-la-lay-la,", "start": 76000, "dur": 800 },
+      { "text": "we", "start": 76800, "dur": 500 },
+      { "text": "can", "start": 77300, "dur": 500 },
+      { "text": "fly", "start": 77800, "dur": 500 }
     ]
   },
   {
     "id": 17,
     "words": [
-      { "text": "Out", "start": 77000, "dur": 440 },
-      { "text": "of", "start": 77440, "dur": 440 },
-      { "text": "this", "start": 77880, "dur": 440 },
-      { "text": "burnin'", "start": 78320, "dur": 440 },
-      { "text": "fire,", "start": 78760, "dur": 440 },
-      { "text": "just", "start": 79200, "dur": 440 },
-      { "text": "take", "start": 79640, "dur": 440 },
-      { "text": "me", "start": 80080, "dur": 440 },
-      { "text": "anywhere", "start": 80520, "dur": 480 }
+      { "text": "Out", "start": 78000, "dur": 440 },
+      { "text": "of", "start": 78440, "dur": 440 },
+      { "text": "this", "start": 78880, "dur": 440 },
+      { "text": "burnin'", "start": 79320, "dur": 440 },
+      { "text": "fire,", "start": 79760, "dur": 440 },
+      { "text": "just", "start": 80200, "dur": 440 },
+      { "text": "take", "start": 80640, "dur": 440 },
+      { "text": "me", "start": 81080, "dur": 440 },
+      { "text": "anywhere", "start": 81520, "dur": 480 }
     ]
   },
   {
     "id": 18,
     "words": [
-      { "text": "Ha-la-lay-la,", "start": 81000, "dur": 800 },
-      { "text": "my", "start": 81800, "dur": 600 },
-      { "text": "saviour", "start": 82400, "dur": 800 }
+      { "text": "Ha-la-lay-la,", "start": 82000, "dur": 800 },
+      { "text": "my", "start": 82800, "dur": 600 },
+      { "text": "saviour", "start": 83400, "dur": 1200 }
     ]
   },
   {
@@ -264,116 +264,116 @@
   {
     "id": 23,
     "words": [
-      { "text": "Out", "start": 104000, "dur": 440 },
-      { "text": "of", "start": 104440, "dur": 440 },
-      { "text": "the", "start": 104880, "dur": 440 },
-      { "text": "city,", "start": 105320, "dur": 440 },
-      { "text": "now", "start": 105760, "dur": 440 },
-      { "text": "we're", "start": 106200, "dur": 440 },
-      { "text": "switchin'", "start": 106640, "dur": 440 },
-      { "text": "four", "start": 107080, "dur": 440 },
-      { "text": "lanes", "start": 107520, "dur": 480 }
+      { "text": "Out", "start": 105000, "dur": 440 },
+      { "text": "of", "start": 105440, "dur": 440 },
+      { "text": "the", "start": 105880, "dur": 440 },
+      { "text": "city,", "start": 106320, "dur": 440 },
+      { "text": "now", "start": 106760, "dur": 440 },
+      { "text": "we're", "start": 107200, "dur": 440 },
+      { "text": "switchin'", "start": 107640, "dur": 440 },
+      { "text": "four", "start": 108080, "dur": 440 },
+      { "text": "lanes", "start": 108520, "dur": 480 }
     ]
   },
   {
     "id": 24,
     "words": [
-      { "text": "Got", "start": 108000, "dur": 700 },
-      { "text": "our", "start": 108700, "dur": 700 },
-      { "text": "eyes", "start": 109400, "dur": 700 },
-      { "text": "on", "start": 110100, "dur": 700 },
-      { "text": "a", "start": 110800, "dur": 700 },
-      { "text": "fresh", "start": 111500, "dur": 700 },
-      { "text": "start", "start": 112200, "dur": 800 }
+      { "text": "Got", "start": 109000, "dur": 700 },
+      { "text": "our", "start": 109700, "dur": 700 },
+      { "text": "eyes", "start": 110400, "dur": 700 },
+      { "text": "on", "start": 111100, "dur": 700 },
+      { "text": "a", "start": 111800, "dur": 700 },
+      { "text": "fresh", "start": 112500, "dur": 700 },
+      { "text": "start", "start": 113200, "dur": 800 }
     ]
   },
   {
     "id": 25,
     "words": [
-      { "text": "The", "start": 113000, "dur": 80 },
-      { "text": "world", "start": 113080, "dur": 80 },
-      { "text": "as", "start": 113160, "dur": 80 },
-      { "text": "we", "start": 113240, "dur": 80 },
-      { "text": "knew", "start": 113320, "dur": 80 },
-      { "text": "it,", "start": 113400, "dur": 80 },
-      { "text": "that", "start": 113480, "dur": 80 },
-      { "text": "was", "start": 113560, "dur": 80 },
-      { "text": "caught", "start": 113640, "dur": 80 },
-      { "text": "up", "start": 113720, "dur": 80 },
-      { "text": "in", "start": 113800, "dur": 80 },
-      { "text": "flames", "start": 113880, "dur": 120 }
+      { "text": "The", "start": 114000, "dur": 80 },
+      { "text": "world", "start": 114080, "dur": 80 },
+      { "text": "as", "start": 114160, "dur": 80 },
+      { "text": "we", "start": 114240, "dur": 80 },
+      { "text": "knew", "start": 114320, "dur": 80 },
+      { "text": "it,", "start": 114400, "dur": 80 },
+      { "text": "that", "start": 114480, "dur": 80 },
+      { "text": "was", "start": 114560, "dur": 80 },
+      { "text": "caught", "start": 114640, "dur": 80 },
+      { "text": "up", "start": 114720, "dur": 80 },
+      { "text": "in", "start": 114800, "dur": 80 },
+      { "text": "flames", "start": 114880, "dur": 120 }
     ]
   },
   {
     "id": 26,
     "words": [
-      { "text": "Get", "start": 114000, "dur": 330 },
-      { "text": "ready", "start": 114330, "dur": 330 },
-      { "text": "for", "start": 114660, "dur": 330 },
-      { "text": "the", "start": 114990, "dur": 330 },
-      { "text": "next", "start": 115320, "dur": 330 },
-      { "text": "part", "start": 115650, "dur": 350 }
+      { "text": "Get", "start": 115000, "dur": 330 },
+      { "text": "ready", "start": 115330, "dur": 330 },
+      { "text": "for", "start": 115660, "dur": 330 },
+      { "text": "the", "start": 115990, "dur": 330 },
+      { "text": "next", "start": 116320, "dur": 330 },
+      { "text": "part", "start": 116650, "dur": 350 }
     ]
   },
   {
     "id": 27,
     "words": [
-      { "text": "You", "start": 116000, "dur": 300 },
-      { "text": "know", "start": 116300, "dur": 300 },
-      { "text": "I'm", "start": 116600, "dur": 300 },
-      { "text": "good", "start": 116900, "dur": 300 },
-      { "text": "if", "start": 117200, "dur": 300 },
-      { "text": "I'm", "start": 117500, "dur": 300 },
-      { "text": "back", "start": 117800, "dur": 300 },
-      { "text": "in", "start": 118100, "dur": 300 },
-      { "text": "the", "start": 118400, "dur": 300 },
-      { "text": "gutter", "start": 118700, "dur": 300 }
+      { "text": "You", "start": 117000, "dur": 300 },
+      { "text": "know", "start": 117300, "dur": 300 },
+      { "text": "I'm", "start": 117600, "dur": 300 },
+      { "text": "good", "start": 117900, "dur": 300 },
+      { "text": "if", "start": 118200, "dur": 300 },
+      { "text": "I'm", "start": 118500, "dur": 300 },
+      { "text": "back", "start": 118800, "dur": 300 },
+      { "text": "in", "start": 119100, "dur": 300 },
+      { "text": "the", "start": 119400, "dur": 300 },
+      { "text": "gutter", "start": 119700, "dur": 300 }
     ]
   },
   {
     "id": 28,
     "words": [
-      { "text": "'Cause", "start": 119000, "dur": 330 },
-      { "text": "this", "start": 119330, "dur": 330 },
-      { "text": "life,", "start": 119660, "dur": 330 },
-      { "text": "it", "start": 119990, "dur": 330 },
-      { "text": "was", "start": 120320, "dur": 330 },
-      { "text": "never", "start": 120650, "dur": 330 },
-      { "text": "'bout", "start": 120980, "dur": 330 },
-      { "text": "the", "start": 121310, "dur": 330 },
-      { "text": "money", "start": 121640, "dur": 360 }
+      { "text": "'Cause", "start": 120000, "dur": 330 },
+      { "text": "this", "start": 120330, "dur": 330 },
+      { "text": "life,", "start": 120660, "dur": 330 },
+      { "text": "it", "start": 120990, "dur": 330 },
+      { "text": "was", "start": 121320, "dur": 330 },
+      { "text": "never", "start": 121650, "dur": 330 },
+      { "text": "'bout", "start": 121980, "dur": 330 },
+      { "text": "the", "start": 122310, "dur": 330 },
+      { "text": "money", "start": 122640, "dur": 360 }
     ]
   },
   {
     "id": 29,
     "words": [
-      { "text": "Ha-la-lay-la,", "start": 122000, "dur": 750 },
-      { "text": "we", "start": 122750, "dur": 750 },
-      { "text": "can", "start": 123500, "dur": 750 },
-      { "text": "ride", "start": 124250, "dur": 750 }
+      { "text": "Ha-la-lay-la,", "start": 123000, "dur": 750 },
+      { "text": "we", "start": 123750, "dur": 750 },
+      { "text": "can", "start": 124500, "dur": 750 },
+      { "text": "ride", "start": 125250, "dur": 750 }
     ]
   },
   {
     "id": 30,
     "words": [
-      { "text": "Four", "start": 125000, "dur": 300 },
-      { "text": "wheels,", "start": 125300, "dur": 300 },
-      { "text": "you", "start": 125600, "dur": 300 },
-      { "text": "and", "start": 125900, "dur": 300 },
-      { "text": "I", "start": 126200, "dur": 300 },
-      { "text": "gotta", "start": 126500, "dur": 300 },
-      { "text": "get", "start": 126800, "dur": 300 },
-      { "text": "out", "start": 127100, "dur": 300 },
-      { "text": "of", "start": 127400, "dur": 300 },
-      { "text": "here", "start": 127700, "dur": 300 }
+      { "text": "Four", "start": 126000, "dur": 300 },
+      { "text": "wheels,", "start": 126300, "dur": 300 },
+      { "text": "you", "start": 126600, "dur": 300 },
+      { "text": "and", "start": 126900, "dur": 300 },
+      { "text": "I", "start": 1267200, "dur": 300 },
+      { "text": "gotta", "start": 127500, "dur": 300 },
+      { "text": "get", "start": 127800, "dur": 300 },
+      { "text": "out", "start": 128100, "dur": 300 },
+      { "text": "of", "start": 128400, "dur": 300 },
+      { "text": "here", "start": 128700, "dur": 300 }
     ]
   },
   {
     "id": 31,
     "words": [
-      { "text": "Ha-la-lay-la,", "start": 128000, "dur": 800 },
-      { "text": "my", "start": 128800, "dur": 600 },
-      { "text": "saviour", "start": 129400, "dur": 1200 }
+      { "text": "Ha-la-lay-la,", "start": 129000, "dur": 800 },
+      { "text": "my", "start": 129800, "dur": 600 },
+      { "text": "saviour", "start": 130400, "dur": 1200 }
     ]
   },
   {
@@ -413,13 +413,13 @@
       { "text": "Pedal", "start": 145000, "dur": 300 },
       { "text": "down", "start": 145300, "dur": 300 },
       { "text": "and", "start": 145600, "dur": 300 },
-      { "text": "drive", "start": 145900, "dur": 2500 }
+      { "text": "drive", "start": 145900, "dur": 2000 }
     ]
   },
   {
     "id": 36,
     "words": [
-      { "text": "Drive", "start": 149000, "dur": 1000 }
+      { "text": "Drive", "start": 147000, "dur": 1000 }
     ]
   },
   {
@@ -428,13 +428,13 @@
       { "text": "Pedal", "start": 150690, "dur": 300 },
       { "text": "down", "start": 150990, "dur": 300 },
       { "text": "and", "start": 151290, "dur": 300 },
-      { "text": "drive", "start": 151590, "dur": 3000 }
+      { "text": "drive", "start": 151590, "dur": 300 }
     ]
   },
   {
     "id": 38,
     "words": [
-      { "text": "Drive", "start": 156000, "dur": 800 }
+      { "text": "Drive", "start": 155000, "dur": 800 }
     ]
   },
   {
@@ -443,39 +443,39 @@
       { "text": "Pedal", "start": 157000, "dur": 300 },
       { "text": "down", "start": 157300, "dur": 300 },
       { "text": "and", "start": 157600, "dur": 300 },
-      { "text": "drive", "start": 159000, "dur": 4000 }
+      { "text": "drive", "start": 158000, "dur": 4000 }
     ]
   },
   {
     "id": 40,
     "words": [
-      { "text": "Just", "start": 164000, "dur": 400 },
-      { "text": "drive", "start": 164600, "dur": 3500 }
+      { "text": "Just", "start": 163000, "dur": 400 },
+      { "text": "drive", "start": 164600, "dur": 3400 }
     ]
   },
   {
     "id": 41,
     "words": [
-      { "text": "Pedal", "start": 169000, "dur": 300 },
-      { "text": "down", "start": 169300, "dur": 300 },
-      { "text": "and", "start": 169600, "dur": 300 },
-      { "text": "drive", "start": 171000, "dur": 4000 }
+      { "text": "Pedal", "start": 168000, "dur": 300 },
+      { "text": "down", "start": 168300, "dur": 300 },
+      { "text": "and", "start": 168600, "dur": 300 },
+      { "text": "drive", "start": 170000, "dur": 4000 }
     ]
   },
   {
     "id": 42,
     "words": [
-      { "text": "Just", "start": 176000, "dur": 400 },
-      { "text": "drive", "start": 176600, "dur": 3500 }
+      { "text": "Just", "start": 174000, "dur": 400 },
+      { "text": "drive", "start": 174600, "dur": 3400 }
     ]
   },
   {
     "id": 43,
     "words": [
-      { "text": "Pedal", "start": 181000, "dur": 300 },
-      { "text": "down", "start": 181300, "dur": 300 },
-      { "text": "and", "start": 181600, "dur": 300 },
-      { "text": "drive", "start": 182200, "dur": 300 }
+      { "text": "Pedal", "start": 178000, "dur": 300 },
+      { "text": "down", "start": 178300, "dur": 300 },
+      { "text": "and", "start": 178600, "dur": 300 },
+      { "text": "drive", "start": 179200, "dur": 300 }
     ]
   }
 ]
