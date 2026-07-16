@@ -10,7 +10,6 @@
       }
     ]
   },
-
   {
     "id": 1,
     "isTune": true,
@@ -22,7 +21,6 @@
       }
     ]
   },
-
   {
     "id": 2,
     "words": [
@@ -33,7 +31,6 @@
       { "text": "worry", "start": 48300, "dur": 1300 }
     ]
   },
-
   {
     "id": 3,
     "words": [
@@ -44,7 +41,6 @@
       { "text": "lie", "start": 52600, "dur": 1600 }
     ]
   },
-
   {
     "id": 4,
     "words": [
@@ -54,7 +50,6 @@
       { "text": "hurry?", "start": 56500, "dur": 1500 }
     ]
   },
-
   {
     "id": 5,
     "words": [
@@ -64,7 +59,6 @@
       { "text": "inside?", "start": 60500, "dur": 1650 }
     ]
   },
-
   {
     "id": 6,
     "words": [
@@ -78,7 +72,6 @@
       { "text": "stars", "start": 65800, "dur": 900 }
     ]
   },
-
   {
     "id": 7,
     "words": [
@@ -92,7 +85,6 @@
       { "text": "ours", "start": 70200, "dur": 1400 }
     ]
   },
-
   {
     "id": 8,
     "words": [
@@ -105,7 +97,6 @@
       { "text": "know", "start": 74900, "dur": 1000 }
     ]
   },
-
   {
     "id": 9,
     "words": [
@@ -120,7 +111,6 @@
       { "text": "lonely", "start": 78200, "dur": 1400 }
     ]
   },
-
   {
     "id": 10,
     "words": [
@@ -132,7 +122,6 @@
       { "text": "home", "start": 79900, "dur": 2100 }
     ]
   },
-
   {
     "id": 11,
     "words": [
@@ -144,8 +133,7 @@
       { "text": "tonight", "start": 84200, "dur": 2100 }
     ]
   },
-
-    {
+  {
     "id": 12,
     "isTune": true,
     "words": [
@@ -156,7 +144,6 @@
       }
     ]
   },
-
   {
     "id": 13,
     "words": [
@@ -167,7 +154,6 @@
       { "text": "blurry", "start": 104800, "dur": 1700 }
     ]
   },
-
   {
     "id": 14,
     "words": [
@@ -178,7 +164,6 @@
       { "text": "late", "start": 108800, "dur": 1700 }
     ]
   },
-
   {
     "id": 15,
     "words": [
@@ -189,7 +174,6 @@
       { "text": "hurry", "start": 112850, "dur": 1650 }
     ]
   },
-
   {
     "id": 16,
     "words": [
@@ -201,7 +185,6 @@
       { "text": "night", "start": 116900, "dur": 1900 }
     ]
   },
-
   {
     "id": 17,
     "words": [
@@ -212,7 +195,6 @@
       { "text": "someone", "start": 121000, "dur": 1100 }
     ]
   },
-
   {
     "id": 18,
     "words": [
@@ -222,7 +204,6 @@
       { "text": "break", "start": 123400, "dur": 1500 }
     ]
   },
-
   {
     "id": 19,
     "words": [
@@ -232,7 +213,6 @@
       { "text": "die", "start": 125300, "dur": 1200 }
     ]
   },
-
   {
     "id": 20,
     "words": [
@@ -241,7 +221,6 @@
       { "text": "stay", "start": 127300, "dur": 1600 }
     ]
   },
-
   {
     "id": 21,
     "words": [
@@ -254,7 +233,6 @@
       { "text": "know", "start": 131700, "dur": 1100 }
     ]
   },
-
   {
     "id": 22,
     "words": [
@@ -269,7 +247,6 @@
       { "text": "lonely", "start": 135300, "dur": 1500 }
     ]
   },
-
   {
     "id": 23,
     "words": [
@@ -281,7 +258,6 @@
       { "text": "home", "start": 138600, "dur": 2200 }
     ]
   },
-
   {
     "id": 24,
     "words": [
@@ -293,8 +269,7 @@
       { "text": "lie", "start": 140950, "dur": 2450 }
     ]
   },
-
-    {
+  {
     "id": 25,
     "isTune": true,
     "words": [
@@ -305,7 +280,6 @@
       }
     ]
   },
-
   {
     "id": 26,
     "words": [
@@ -315,24 +289,20 @@
       { "text": "to", "start": 172550, "dur": 400 },
       { "text": "upset", "start": 172950, "dur": 1050 },
       { "text": "you,", "start": 174000, "dur": 1000 },
-
       { "text": "let", "start": 175000, "dur": 400 },
       { "text": "you", "start": 175400, "dur": 400 },
       { "text": "rescue", "start": 175800, "dur": 1000 },
       { "text": "me", "start": 176800, "dur": 600 },
-
       { "text": "the", "start": 177400, "dur": 300 },
       { "text": "day", "start": 177700, "dur": 400 },
       { "text": "I", "start": 178100, "dur": 300 },
       { "text": "met", "start": 178400, "dur": 400 },
-      { "text": "you", "start": 178800, "dur": 1400 }
-
+      { "text": "you", "start": 178800, "dur": 1400 },
       { "text": "I", "start": 182400, "dur": 300 },
       { "text": "just", "start": 182700, "dur": 400 },
       { "text": "wanted", "start": 183100, "dur": 300 },
       { "text": "to", "start": 183400, "dur": 400 },
-      { "text": "protect you", "start": 187800, "dur": 2400 }
-
+      { "text": "protect you", "start": 187800, "dur": 2400 },
       { "text": "But", "start": 190000, "dur": 100 },
       { "text": "now", "start": 190100, "dur": 100 },
       { "text": "I'll", "start": 190200, "dur": 100 },
@@ -340,7 +310,6 @@
       { "text": "get to", "start": 190400, "dur": 1400 }
     ]
   },
-
   {
     "id": 27,
     "isTune": true,
@@ -352,7 +321,6 @@
       }
     ]
   },
-
   {
     "id": 35,
     "isTune": true,
