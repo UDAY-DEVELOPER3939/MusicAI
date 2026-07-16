@@ -1,2 +1,481 @@
 [
+  {
+    "id": 0,
+    "isTune": true,
+    "words": [
+      { "text": "🎵 Intro Music 🎵", "start": 0, "dur": 23000 }
+    ]
+  },
+  {
+    "id": 1,
+    "words": [
+      { "text": "Flyin'", "start": 23000, "dur": 220 },
+      { "text": "through", "start": 23220, "dur": 220 },
+      { "text": "the", "start": 23440, "dur": 220 },
+      { "text": "city", "start": 23660, "dur": 220 },
+      { "text": "with", "start": 23880, "dur": 220 },
+      { "text": "the", "start": 24100, "dur": 220 },
+      { "text": "speakers", "start": 24320, "dur": 220 },
+      { "text": "up", "start": 24540, "dur": 220 },
+      { "text": "loud", "start": 24760, "dur": 240 }
+    ]
+  },
+  {
+    "id": 2,
+    "words": [
+      { "text": "Speedin'", "start": 25000, "dur": 660 },
+      { "text": "by", "start": 25660, "dur": 660 },
+      { "text": "with", "start": 26320, "dur": 660 },
+      { "text": "the", "start": 26980, "dur": 660 },
+      { "text": "top", "start": 27640, "dur": 660 },
+      { "text": "down", "start": 28300, "dur": 700 }
+    ]
+  },
+  {
+    "id": 3,
+    "words": [
+      { "text": "Fast", "start": 29000, "dur": 200 },
+      { "text": "lane", "start": 29200, "dur": 200 },
+      { "text": "livin'", "start": 29400, "dur": 200 },
+      { "text": "till", "start": 29600, "dur": 200 },
+      { "text": "they", "start": 29800, "dur": 200 },
+      { "text": "put", "start": 30000, "dur": 200 },
+      { "text": "me", "start": 30200, "dur": 200 },
+      { "text": "in", "start": 30400, "dur": 200 },
+      { "text": "the", "start": 30600, "dur": 200 },
+      { "text": "ground", "start": 30800, "dur": 200 }
+    ]
+  },
+  {
+    "id": 4,
+    "words": [
+      { "text": "And", "start": 31000, "dur": 330 },
+      { "text": "I", "start": 31330, "dur": 330 },
+      { "text": "don't", "start": 31660, "dur": 330 },
+      { "text": "wanna", "start": 31990, "dur": 330 },
+      { "text": "stop", "start": 32320, "dur": 330 },
+      { "text": "now", "start": 32650, "dur": 350 }
+    ]
+  },
+  {
+    "id": 5,
+    "words": [
+      { "text": "I’ll", "start": 33000, "dur": 440 },
+      { "text": "be", "start": 33440, "dur": 440 },
+      { "text": "gone", "start": 33880, "dur": 440 },
+      { "text": "with", "start": 34320, "dur": 440 },
+      { "text": "the", "start": 34760, "dur": 440 },
+      { "text": "click", "start": 35200, "dur": 440 },
+      { "text": "of", "start": 35640, "dur": 440 },
+      { "text": "a", "start": 36080, "dur": 440 },
+      { "text": "finger", "start": 36520, "dur": 480 }
+    ]
+  },
+  {
+    "id": 6,
+    "words": [
+      { "text": "Say", "start": 37000, "dur": 350 },
+      { "text": "the", "start": 37350, "dur": 350 },
+      { "text": "word,", "start": 37700, "dur": 350 },
+      { "text": "give", "start": 38050, "dur": 350 },
+      { "text": "a", "start": 38400, "dur": 350 },
+      { "text": "call,", "start": 38750, "dur": 400 },
+      { "text": "I'll", "start": 39150, "dur": 350 },
+      { "text": "be", "start": 39500, "dur": 350 },
+      { "text": "comin'", "start": 39850, "dur": 350 },
+      { "text": "back", "start": 40200, "dur": 350 },
+      { "text": "around", "start": 40550, "dur": 600 }
+    ]
+  },
+  {
+    "id": 7,
+    "words": [
+      { "text": "Flyin'", "start": 46000, "dur": 200 },
+      { "text": "through", "start": 46200, "dur": 200 },
+      { "text": "the", "start": 46400, "dur": 200 },
+      { "text": "city,", "start": 46600, "dur": 200 },
+      { "text": "I", "start": 46800, "dur": 200 },
+      { "text": "got", "start": 47000, "dur": 200 },
+      { "text": "God", "start": 47200, "dur": 200 },
+      { "text": "on", "start": 47400, "dur": 200 },
+      { "text": "my", "start": 47600, "dur": 200 },
+      { "text": "side", "start": 47800, "dur": 200 }
+    ]
+  },
+  {
+    "id": 8,
+    "words": [
+      { "text": "But", "start": 48000, "dur": 420 },
+      { "text": "the", "start": 48420, "dur": 420 },
+      { "text": "real", "start": 48840, "dur": 420 },
+      { "text": "world", "start": 49260, "dur": 420 },
+      { "text": "is", "start": 49680, "dur": 420 },
+      { "text": "not", "start": 50100, "dur": 420 },
+      { "text": "far", "start": 50520, "dur": 480 }
+    ]
+  },
+  {
+    "id": 9,
+    "words": [
+      { "text": "Push", "start": 51000, "dur": 220 },
+      { "text": "to", "start": 51220, "dur": 220 },
+      { "text": "the", "start": 51440, "dur": 220 },
+      { "text": "limit,", "start": 51660, "dur": 220 },
+      { "text": "I'll", "start": 51880, "dur": 220 },
+      { "text": "be", "start": 52100, "dur": 220 },
+      { "text": "burnin'", "start": 52320, "dur": 220 },
+      { "text": "all", "start": 52540, "dur": 220 },
+      { "text": "night", "start": 52760, "dur": 240 }
+    ]
+  },
+  {
+    "id": 10,
+    "words": [
+      { "text": "Gettin'", "start": 53000, "dur": 660 },
+      { "text": "tailed", "start": 53660, "dur": 660 },
+      { "text": "by", "start": 54320, "dur": 660 },
+      { "text": "a", "start": 54980, "dur": 660 },
+      { "text": "cop", "start": 55640, "dur": 660 },
+      { "text": "car", "start": 56300, "dur": 700 }
+    ]
+  },
+  {
+    "id": 11,
+    "words": [
+      { "text": "Pull", "start": 57000, "dur": 420 },
+      { "text": "away,", "start": 57420, "dur": 420 },
+      { "text": "wind", "start": 57840, "dur": 420 },
+      { "text": "blowin',", "start": 58260, "dur": 420 },
+      { "text": "now", "start": 58680, "dur": 420 },
+      { "text": "I'm", "start": 59100, "dur": 420 },
+      { "text": "cruisin'", "start": 59520, "dur": 480 }
+    ]
+  },
+  {
+    "id": 12,
+    "words": [
+      { "text": "Put", "start": 60000, "dur": 270 },
+      { "text": "the", "start": 60270, "dur": 270 },
+      { "text": "past", "start": 60540, "dur": 270 },
+      { "text": "in", "start": 60810, "dur": 270 },
+      { "text": "the", "start": 61080, "dur": 270 },
+      { "text": "past,", "start": 61350, "dur": 270 },
+      { "text": "a", "start": 61620, "dur": 270 },
+      { "text": "new", "start": 61890, "dur": 270 },
+      { "text": "day", "start": 62160, "dur": 270 },
+      { "text": "is", "start": 62430, "dur": 270 },
+      { "text": "comin'", "start": 62700, "dur": 300 }
+    ]
+  },
+  {
+    "id": 13,
+    "words": [
+      { "text": "Ha-la-lay-la,", "start": 63000, "dur": 750 },
+      { "text": "we", "start": 63750, "dur": 750 },
+      { "text": "can", "start": 64500, "dur": 750 },
+      { "text": "ride", "start": 65250, "dur": 750 }
+    ]
+  },
+  {
+    "id": 14,
+    "words": [
+      { "text": "Four", "start": 66000, "dur": 300 },
+      { "text": "wheels,", "start": 66300, "dur": 300 },
+      { "text": "you", "start": 66600, "dur": 300 },
+      { "text": "and", "start": 66900, "dur": 300 },
+      { "text": "I", "start": 67200, "dur": 300 },
+      { "text": "gotta", "start": 67500, "dur": 300 },
+      { "text": "get", "start": 67800, "dur": 300 },
+      { "text": "out", "start": 68100, "dur": 300 },
+      { "text": "of", "start": 68400, "dur": 300 },
+      { "text": "here", "start": 68700, "dur": 300 }
+    ]
+  },
+  {
+    "id": 15,
+    "words": [
+      { "text": "Ha-la-lay-la,", "start": 69000, "dur": 800 },
+      { "text": "my", "start": 69800, "dur": 600 },
+      { "text": "saviour", "start": 70400, "dur": 800 }
+    ]
+  },
+  {
+    "id": 16,
+    "words": [
+      { "text": "Ha-la-lay-la,", "start": 75000, "dur": 500 },
+      { "text": "we", "start": 75500, "dur": 500 },
+      { "text": "can", "start": 76000, "dur": 500 },
+      { "text": "fly", "start": 76500, "dur": 500 }
+    ]
+  },
+  {
+    "id": 17,
+    "words": [
+      { "text": "Out", "start": 77000, "dur": 440 },
+      { "text": "of", "start": 77440, "dur": 440 },
+      { "text": "this", "start": 77880, "dur": 440 },
+      { "text": "burnin'", "start": 78320, "dur": 440 },
+      { "text": "fire,", "start": 78760, "dur": 440 },
+      { "text": "just", "start": 79200, "dur": 440 },
+      { "text": "take", "start": 79640, "dur": 440 },
+      { "text": "me", "start": 80080, "dur": 440 },
+      { "text": "anywhere", "start": 80520, "dur": 480 }
+    ]
+  },
+  {
+    "id": 18,
+    "words": [
+      { "text": "Ha-la-lay-la,", "start": 81000, "dur": 800 },
+      { "text": "my", "start": 81800, "dur": 600 },
+      { "text": "saviour", "start": 82400, "dur": 800 }
+    ]
+  },
+  {
+    "id": 19,
+    "words": [
+      { "text": "Pedal", "start": 85800, "dur": 300 },
+      { "text": "down", "start": 86100, "dur": 300 },
+      { "text": "and", "start": 86400, "dur": 300 },
+      { "text": "drive", "start": 86700, "dur": 2500 }
+    ]
+  },
+  {
+    "id": 20,
+    "words": [
+      { "text": "Drive", "start": 90000, "dur": 1000 }
+    ]
+  },
+  {
+    "id": 21,
+    "words": [
+      { "text": "Pedal", "start": 91000, "dur": 300 },
+      { "text": "down", "start": 91300, "dur": 300 },
+      { "text": "and", "start": 91600, "dur": 300 },
+      { "text": "drive", "start": 93000, "dur": 4000 }
+    ]
+  },
+  {
+    "id": 22,
+    "words": [
+      { "text": "Just", "start": 98000, "dur": 400 },
+      { "text": "drive", "start": 99000, "dur": 4000 }
+    ]
+  },
+  {
+    "id": 23,
+    "words": [
+      { "text": "Out", "start": 104000, "dur": 440 },
+      { "text": "of", "start": 104440, "dur": 440 },
+      { "text": "the", "start": 104880, "dur": 440 },
+      { "text": "city,", "start": 105320, "dur": 440 },
+      { "text": "now", "start": 105760, "dur": 440 },
+      { "text": "we're", "start": 106200, "dur": 440 },
+      { "text": "switchin'", "start": 106640, "dur": 440 },
+      { "text": "four", "start": 107080, "dur": 440 },
+      { "text": "lanes", "start": 107520, "dur": 480 }
+    ]
+  },
+  {
+    "id": 24,
+    "words": [
+      { "text": "Got", "start": 108000, "dur": 700 },
+      { "text": "our", "start": 108700, "dur": 700 },
+      { "text": "eyes", "start": 109400, "dur": 700 },
+      { "text": "on", "start": 110100, "dur": 700 },
+      { "text": "a", "start": 110800, "dur": 700 },
+      { "text": "fresh", "start": 111500, "dur": 700 },
+      { "text": "start", "start": 112200, "dur": 800 }
+    ]
+  },
+  {
+    "id": 25,
+    "words": [
+      { "text": "The", "start": 113000, "dur": 80 },
+      { "text": "world", "start": 113080, "dur": 80 },
+      { "text": "as", "start": 113160, "dur": 80 },
+      { "text": "we", "start": 113240, "dur": 80 },
+      { "text": "knew", "start": 113320, "dur": 80 },
+      { "text": "it,", "start": 113400, "dur": 80 },
+      { "text": "that", "start": 113480, "dur": 80 },
+      { "text": "was", "start": 113560, "dur": 80 },
+      { "text": "caught", "start": 113640, "dur": 80 },
+      { "text": "up", "start": 113720, "dur": 80 },
+      { "text": "in", "start": 113800, "dur": 80 },
+      { "text": "flames", "start": 113880, "dur": 120 }
+    ]
+  },
+  {
+    "id": 26,
+    "words": [
+      { "text": "Get", "start": 114000, "dur": 330 },
+      { "text": "ready", "start": 114330, "dur": 330 },
+      { "text": "for", "start": 114660, "dur": 330 },
+      { "text": "the", "start": 114990, "dur": 330 },
+      { "text": "next", "start": 115320, "dur": 330 },
+      { "text": "part", "start": 115650, "dur": 350 }
+    ]
+  },
+  {
+    "id": 27,
+    "words": [
+      { "text": "You", "start": 116000, "dur": 300 },
+      { "text": "know", "start": 116300, "dur": 300 },
+      { "text": "I'm", "start": 116600, "dur": 300 },
+      { "text": "good", "start": 116900, "dur": 300 },
+      { "text": "if", "start": 117200, "dur": 300 },
+      { "text": "I'm", "start": 117500, "dur": 300 },
+      { "text": "back", "start": 117800, "dur": 300 },
+      { "text": "in", "start": 118100, "dur": 300 },
+      { "text": "the", "start": 118400, "dur": 300 },
+      { "text": "gutter", "start": 118700, "dur": 300 }
+    ]
+  },
+  {
+    "id": 28,
+    "words": [
+      { "text": "'Cause", "start": 119000, "dur": 330 },
+      { "text": "this", "start": 119330, "dur": 330 },
+      { "text": "life,", "start": 119660, "dur": 330 },
+      { "text": "it", "start": 119990, "dur": 330 },
+      { "text": "was", "start": 120320, "dur": 330 },
+      { "text": "never", "start": 120650, "dur": 330 },
+      { "text": "'bout", "start": 120980, "dur": 330 },
+      { "text": "the", "start": 121310, "dur": 330 },
+      { "text": "money", "start": 121640, "dur": 360 }
+    ]
+  },
+  {
+    "id": 29,
+    "words": [
+      { "text": "Ha-la-lay-la,", "start": 122000, "dur": 750 },
+      { "text": "we", "start": 122750, "dur": 750 },
+      { "text": "can", "start": 123500, "dur": 750 },
+      { "text": "ride", "start": 124250, "dur": 750 }
+    ]
+  },
+  {
+    "id": 30,
+    "words": [
+      { "text": "Four", "start": 125000, "dur": 300 },
+      { "text": "wheels,", "start": 125300, "dur": 300 },
+      { "text": "you", "start": 125600, "dur": 300 },
+      { "text": "and", "start": 125900, "dur": 300 },
+      { "text": "I", "start": 126200, "dur": 300 },
+      { "text": "gotta", "start": 126500, "dur": 300 },
+      { "text": "get", "start": 126800, "dur": 300 },
+      { "text": "out", "start": 127100, "dur": 300 },
+      { "text": "of", "start": 127400, "dur": 300 },
+      { "text": "here", "start": 127700, "dur": 300 }
+    ]
+  },
+  {
+    "id": 31,
+    "words": [
+      { "text": "Ha-la-lay-la,", "start": 128000, "dur": 800 },
+      { "text": "my", "start": 128800, "dur": 600 },
+      { "text": "saviour", "start": 129400, "dur": 1200 }
+    ]
+  },
+  {
+    "id": 32,
+    "words": [
+      { "text": "Ha-la-lay-la,", "start": 135000, "dur": 500 },
+      { "text": "we", "start": 135500, "dur": 500 },
+      { "text": "can", "start": 136000, "dur": 500 },
+      { "text": "fly", "start": 136500, "dur": 500 }
+    ]
+  },
+  {
+    "id": 33,
+    "words": [
+      { "text": "Out", "start": 137000, "dur": 440 },
+      { "text": "of", "start": 137440, "dur": 440 },
+      { "text": "this", "start": 137880, "dur": 440 },
+      { "text": "burnin'", "start": 138320, "dur": 440 },
+      { "text": "fire,", "start": 138760, "dur": 440 },
+      { "text": "just", "start": 139200, "dur": 440 },
+      { "text": "take", "start": 139640, "dur": 440 },
+      { "text": "me", "start": 140080, "dur": 440 },
+      { "text": "anywhere", "start": 140520, "dur": 480 }
+    ]
+  },
+  {
+    "id": 34,
+    "words": [
+      { "text": "Ha-la-lay-la,", "start": 141000, "dur": 800 },
+      { "text": "my", "start": 141800, "dur": 600 },
+      { "text": "saviour", "start": 142400, "dur": 1200 }
+    ]
+  },
+  {
+    "id": 35,
+    "words": [
+      { "text": "Pedal", "start": 145000, "dur": 300 },
+      { "text": "down", "start": 145300, "dur": 300 },
+      { "text": "and", "start": 145600, "dur": 300 },
+      { "text": "drive", "start": 145900, "dur": 2500 }
+    ]
+  },
+  {
+    "id": 36,
+    "words": [
+      { "text": "Drive", "start": 149000, "dur": 1000 }
+    ]
+  },
+  {
+    "id": 37,
+    "words": [
+      { "text": "Pedal", "start": 150690, "dur": 300 },
+      { "text": "down", "start": 150990, "dur": 300 },
+      { "text": "and", "start": 151290, "dur": 300 },
+      { "text": "drive", "start": 151590, "dur": 3000 }
+    ]
+  },
+  {
+    "id": 38,
+    "words": [
+      { "text": "Drive", "start": 156000, "dur": 800 }
+    ]
+  },
+  {
+    "id": 39,
+    "words": [
+      { "text": "Pedal", "start": 157000, "dur": 300 },
+      { "text": "down", "start": 157300, "dur": 300 },
+      { "text": "and", "start": 157600, "dur": 300 },
+      { "text": "drive", "start": 159000, "dur": 4000 }
+    ]
+  },
+  {
+    "id": 40,
+    "words": [
+      { "text": "Just", "start": 164000, "dur": 400 },
+      { "text": "drive", "start": 164600, "dur": 3500 }
+    ]
+  },
+  {
+    "id": 41,
+    "words": [
+      { "text": "Pedal", "start": 169000, "dur": 300 },
+      { "text": "down", "start": 169300, "dur": 300 },
+      { "text": "and", "start": 169600, "dur": 300 },
+      { "text": "drive", "start": 171000, "dur": 4000 }
+    ]
+  },
+  {
+    "id": 42,
+    "words": [
+      { "text": "Just", "start": 176000, "dur": 400 },
+      { "text": "drive", "start": 176600, "dur": 3500 }
+    ]
+  },
+  {
+    "id": 43,
+    "words": [
+      { "text": "Pedal", "start": 181000, "dur": 300 },
+      { "text": "down", "start": 181300, "dur": 300 },
+      { "text": "and", "start": 181600, "dur": 300 },
+      { "text": "drive", "start": 182200, "dur": 300 }
+    ]
+  }
 ]
