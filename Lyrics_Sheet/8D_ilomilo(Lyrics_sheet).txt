@@ -326,6 +326,18 @@
       { "text": "I", "start": 178100, "dur": 300 },
       { "text": "met", "start": 178400, "dur": 400 },
       { "text": "you", "start": 178800, "dur": 1400 }
+
+      { "text": "I", "start": 182400, "dur": 300 },
+      { "text": "just", "start": 182700, "dur": 400 },
+      { "text": "wanted", "start": 183100, "dur": 300 },
+      { "text": "to", "start": 183400, "dur": 400 },
+      { "text": "protect you", "start": 187800, "dur": 2400 }
+
+      { "text": "But", "start": 190000, "dur": 100 },
+      { "text": "now", "start": 190100, "dur": 100 },
+      { "text": "I'll", "start": 190200, "dur": 100 },
+      { "text": "never", "start": 190300, "dur": 100 },
+      { "text": "get to", "start": 190400, "dur": 1400 }
     ]
   },
 
