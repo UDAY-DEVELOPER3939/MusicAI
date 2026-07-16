@@ -196,7 +196,7 @@
     "words": [
       { "text": "Ha-la-lay-la,", "start": 69000, "dur": 1000 },
       { "text": "my", "start": 71000, "dur": 600 },
-      { "text": "saviour", "start": 71600, "dur": 1200 }
+      { "text": "saviour", "start": 71600, "dur": 3000 }
     ]
   },
   {
@@ -227,7 +227,7 @@
     "words": [
       { "text": "Ha-la-lay-la,", "start": 82000, "dur": 800 },
       { "text": "my", "start": 82800, "dur": 600 },
-      { "text": "saviour", "start": 83400, "dur": 1200 }
+      { "text": "saviour", "start": 83400, "dur": 1600 }
     ]
   },
   {
@@ -373,7 +373,7 @@
     "words": [
       { "text": "Ha-la-lay-la,", "start": 129000, "dur": 800 },
       { "text": "my", "start": 129800, "dur": 600 },
-      { "text": "saviour", "start": 130400, "dur": 1200 }
+      { "text": "saviour", "start": 130400, "dur": 3000 }
     ]
   },
   {
@@ -404,7 +404,7 @@
     "words": [
       { "text": "Ha-la-lay-la,", "start": 141000, "dur": 800 },
       { "text": "my", "start": 141800, "dur": 600 },
-      { "text": "saviour", "start": 142400, "dur": 1200 }
+      { "text": "saviour", "start": 142400, "dur": 2600 }
     ]
   },
   {
