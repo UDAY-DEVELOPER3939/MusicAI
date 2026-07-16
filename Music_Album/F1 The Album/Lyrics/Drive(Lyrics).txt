@@ -23,7 +23,7 @@
   {
     "id": 2,
     "words": [
-      { "text": "Speedin'", "start": 26000, "dur": 660 },
+      { "text": "Speedin'", "start": 25000, "dur": 660 },
       { "text": "by", "start": 26660, "dur": 660 },
       { "text": "with", "start": 26320, "dur": 660 },
       { "text": "the", "start": 27980, "dur": 660 },
@@ -145,7 +145,7 @@
       { "text": "Pull", "start": 58000, "dur": 420 },
       { "text": "away,", "start": 58420, "dur": 420 },
       { "text": "wind", "start": 58840, "dur": 420 },
-      { "text": "blowin',", "start": 58260, "dur": 420 },
+      { "text": "blowin',", "start": 59260, "dur": 420 },
       { "text": "now", "start": 59680, "dur": 420 },
       { "text": "I'm", "start": 60100, "dur": 420 },
       { "text": "cruisin'", "start": 60520, "dur": 480 }
@@ -173,7 +173,7 @@
       { "text": "Ha-la-lay-la,", "start": 64000, "dur": 750 },
       { "text": "we", "start": 64750, "dur": 750 },
       { "text": "can", "start": 65500, "dur": 750 },
-      { "text": "ride", "start": 65250, "dur": 750 }
+      { "text": "ride", "start": 66250, "dur": 750 }
     ]
   },
   {
