@@ -3,7 +3,7 @@
     "id": 0,
     "isTune": true,
     "words": [
-      { "text": "𝄞 ♬ ♪ ", "start": 0, "dur": 23000 }
+      { "text": "♪  ♫  ♪", "start": 0, "dur": 23000 }
     ]
   },
   {
