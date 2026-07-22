@@ -119,7 +119,7 @@
     "words": [
       { "text": "Yeah,", "start": 51950, "dur": 600 },
       { "text": "it", "start": 52650, "dur": 300 },
-      { "text": "feels", "start": 53050, "dur": 800 }
+      { "text": "feels", "start": 53050, "dur": 2350 }
     ]
   },
   {
