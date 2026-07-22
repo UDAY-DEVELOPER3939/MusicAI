@@ -1,2 +1,451 @@
 [
+  {
+    "id": 1,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 0, "dur": 8000 }
+    ]
+  },
+  {
+    "id": 2,
+    "words": [
+      { "text": "You", "start": 9660, "dur": 300 },
+      { "text": "and", "start": 9960, "dur": 200 },
+      { "text": "I", "start": 10260, "dur": 200 },
+      { "text": "are", "start": 10560, "dur": 200 },
+      { "text": "tangled", "start": 10860, "dur": 300 },
+      { "text": "as", "start": 11260, "dur": 200 },
+      { "text": "these", "start": 11560, "dur": 200 },
+      { "text": "sheets", "start": 11860, "dur": 400 }
+    ]
+  },
+  {
+    "id": 3,
+    "words": [
+      { "text": "I'm", "start": 14580, "dur": 200 },
+      { "text": "alive,", "start": 14880, "dur": 400 },
+      { "text": "but", "start": 15380, "dur": 200 },
+      { "text": "I", "start": 15680, "dur": 200 },
+      { "text": "can", "start": 15980, "dur": 200 },
+      { "text": "barely", "start": 16280, "dur": 300 },
+      { "text": "breathe", "start": 16680, "dur": 400 }
+    ]
+  },
+  {
+    "id": 4,
+    "words": [
+      { "text": "With", "start": 19690, "dur": 200 },
+      { "text": "your", "start": 19990, "dur": 200 },
+      { "text": "arms", "start": 20290, "dur": 200 },
+      { "text": "around", "start": 20590, "dur": 300 },
+      { "text": "me,", "start": 20890, "dur": 300 },
+      { "text": "it", "start": 21290, "dur": 200 },
+      { "text": "feels", "start": 21590, "dur": 200 },
+      { "text": "like", "start": 21890, "dur": 200 },
+      { "text": "I'm", "start": 22190, "dur": 200 },
+      { "text": "drownin'", "start": 22490, "dur": 400 }
+    ]
+  },
+  {
+    "id": 5,
+    "words": [
+      { "text": "If", "start": 24650, "dur": 200 },
+      { "text": "I", "start": 24950, "dur": 200 },
+      { "text": "reach", "start": 25250, "dur": 200 },
+      { "text": "for", "start": 25550, "dur": 200 },
+      { "text": "somethin'", "start": 25850, "dur": 300 },
+      { "text": "I", "start": 26250, "dur": 200 },
+      { "text": "can't", "start": 26550, "dur": 200 },
+      { "text": "keep", "start": 26850, "dur": 400 }
+    ]
+  },
+  {
+    "id": 6,
+    "words": [
+      { "text": "How", "start": 29640, "dur": 300 },
+      { "text": "bad", "start": 30040, "dur": 300 },
+      { "text": "could", "start": 30440, "dur": 300 },
+      { "text": "it", "start": 30840, "dur": 200 },
+      { "text": "really", "start": 31140, "dur": 300 },
+      { "text": "be?", "start": 31540, "dur": 400 }
+    ]
+  },
+  {
+    "id": 7,
+    "words": [
+      { "text": "So", "start": 33240, "dur": 200 },
+      { "text": "baby,", "start": 33540, "dur": 300 },
+      { "text": "let's", "start": 33940, "dur": 200 },
+      { "text": "get", "start": 34240, "dur": 200 },
+      { "text": "messy,", "start": 34540, "dur": 300 },
+      { "text": "let's", "start": 34940, "dur": 200 },
+      { "text": "get", "start": 35240, "dur": 200 },
+      { "text": "all", "start": 35540, "dur": 200 },
+      { "text": "the", "start": 35840, "dur": 200 },
+      { "text": "way", "start": 36140, "dur": 200 },
+      { "text": "undone", "start": 36440, "dur": 400 }
+    ]
+  },
+  {
+    "id": 8,
+    "words": [
+      { "text": "Come", "start": 38440, "dur": 200 },
+      { "text": "over,", "start": 38740, "dur": 300 },
+      { "text": "undress", "start": 39140, "dur": 300 },
+      { "text": "me", "start": 39540, "dur": 200 },
+      { "text": "just", "start": 39840, "dur": 200 },
+      { "text": "like", "start": 40140, "dur": 200 },
+      { "text": "I've", "start": 40440, "dur": 200 },
+      { "text": "never", "start": 40740, "dur": 300 },
+      { "text": "been", "start": 41140, "dur": 200 },
+      { "text": "touched", "start": 41440, "dur": 400 }
+    ]
+  },
+  {
+    "id": 9,
+    "words": [
+      { "text": "Baby,", "start": 43440, "dur": 300 },
+      { "text": "I'm", "start": 43840, "dur": 200 },
+      { "text": "obsessed", "start": 44140, "dur": 300 },
+      { "text": "with", "start": 44540, "dur": 200 },
+      { "text": "you,", "start": 44840, "dur": 300 },
+      { "text": "and", "start": 45240, "dur": 200 },
+      { "text": "there's", "start": 45540, "dur": 300 },
+      { "text": "no", "start": 45940, "dur": 200 },
+      { "text": "replica", "start": 46240, "dur": 400 }
+    ]
+  },
+  {
+    "id": 10,
+    "words": [
+      { "text": "Maybe", "start": 48480, "dur": 200 },
+      { "text": "if", "start": 48780, "dur": 200 },
+      { "text": "it's", "start": 49080, "dur": 200 },
+      { "text": "messy,", "start": 49380, "dur": 300 },
+      { "text": "if", "start": 49780, "dur": 200 },
+      { "text": "it's", "start": 50080, "dur": 200 },
+      { "text": "messy,", "start": 50380, "dur": 300 },
+      { "text": "if", "start": 50780, "dur": 200 },
+      { "text": "it's", "start": 51080, "dur": 200 },
+      { "text": "messy", "start": 51380, "dur": 400 }
+    ]
+  },
+  {
+    "id": 11,
+    "words": [
+      { "text": "Then", "start": 52840, "dur": 300 },
+      { "text": "you", "start": 53240, "dur": 200 },
+      { "text": "know", "start": 53540, "dur": 300 },
+      { "text": "it's", "start": 53940, "dur": 200 },
+      { "text": "really", "start": 54240, "dur": 300 },
+      { "text": "love", "start": 54640, "dur": 400 }
+    ]
+  },
+  {
+    "id": 12,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 55500, "dur": 3000 }
+    ]
+  },
+  {
+    "id": 13,
+    "words": [
+      { "text": "I", "start": 59310, "dur": 200 },
+      { "text": "want", "start": 59610, "dur": 300 },
+      { "text": "all", "start": 60010, "dur": 200 },
+      { "text": "of", "start": 60310, "dur": 200 },
+      { "text": "your", "start": 60610, "dur": 200 },
+      { "text": "complicated", "start": 60910, "dur": 400 }
+    ]
+  },
+  {
+    "id": 14,
+    "words": [
+      { "text": "Give", "start": 64070, "dur": 200 },
+      { "text": "me", "start": 64370, "dur": 200 },
+      { "text": "hell", "start": 64670, "dur": 300 },
+      { "text": "and", "start": 65070, "dur": 200 },
+      { "text": "all", "start": 65370, "dur": 200 },
+      { "text": "of", "start": 65670, "dur": 200 },
+      { "text": "your", "start": 65970, "dur": 200 },
+      { "text": "worst", "start": 66270, "dur": 400 }
+    ]
+  },
+  {
+    "id": 15,
+    "words": [
+      { "text": "When", "start": 69020, "dur": 200 },
+      { "text": "the", "start": 69320, "dur": 200 },
+      { "text": "party's", "start": 69620, "dur": 300 },
+      { "text": "over,", "start": 70020, "dur": 300 },
+      { "text": "and", "start": 70420, "dur": 200 },
+      { "text": "I'm", "start": 70720, "dur": 200 },
+      { "text": "screamin',", "start": 71020, "dur": 400 },
+      { "text": "\"I", "start": 71520, "dur": 200 },
+      { "text": "hate", "start": 71820, "dur": 200 },
+      { "text": "it\"", "start": 72120, "dur": 400 }
+    ]
+  },
+  {
+    "id": 16,
+    "words": [
+      { "text": "How", "start": 74020, "dur": 300 },
+      { "text": "bad", "start": 74420, "dur": 300 },
+      { "text": "could", "start": 74820, "dur": 200 },
+      { "text": "it", "start": 75120, "dur": 200 },
+      { "text": "really", "start": 75420, "dur": 300 },
+      { "text": "hurt", "start": 75820, "dur": 400 }
+    ]
+  },
+  {
+    "id": 17,
+    "words": [
+      { "text": "If", "start": 78940, "dur": 200 },
+      { "text": "tonight", "start": 79240, "dur": 300 },
+      { "text": "we", "start": 79640, "dur": 200 },
+      { "text": "just", "start": 79940, "dur": 200 },
+      { "text": "let", "start": 80240, "dur": 200 },
+      { "text": "it", "start": 80540, "dur": 200 },
+      { "text": "burn?", "start": 80840, "dur": 400 }
+    ]
+  },
+  {
+    "id": 18,
+    "words": [
+      { "text": "So", "start": 82760, "dur": 200 },
+      { "text": "baby,", "start": 83060, "dur": 300 },
+      { "text": "let's", "start": 83460, "dur": 200 },
+      { "text": "get", "start": 83760, "dur": 200 },
+      { "text": "messy,", "start": 84060, "dur": 300 },
+      { "text": "let's", "start": 84460, "dur": 200 },
+      { "text": "get", "start": 84760, "dur": 200 },
+      { "text": "all", "start": 85060, "dur": 200 },
+      { "text": "the", "start": 85360, "dur": 200 },
+      { "text": "way", "start": 85660, "dur": 200 },
+      { "text": "undone", "start": 85960, "dur": 400 }
+    ]
+  },
+  {
+    "id": 19,
+    "words": [
+      { "text": "Come", "start": 87970, "dur": 200 },
+      { "text": "over,", "start": 88270, "dur": 300 },
+      { "text": "undress", "start": 88670, "dur": 300 },
+      { "text": "me", "start": 89070, "dur": 200 },
+      { "text": "just", "start": 89370, "dur": 200 },
+      { "text": "like", "start": 89670, "dur": 200 },
+      { "text": "I've", "start": 89970, "dur": 200 },
+      { "text": "never", "start": 90270, "dur": 300 },
+      { "text": "been", "start": 90670, "dur": 200 },
+      { "text": "touched", "start": 90970, "dur": 400 }
+    ]
+  },
+  {
+    "id": 20,
+    "words": [
+      { "text": "Baby,", "start": 92990, "dur": 300 },
+      { "text": "I'm", "start": 93390, "dur": 200 },
+      { "text": "obsessed", "start": 93690, "dur": 300 },
+      { "text": "with", "start": 94090, "dur": 200 },
+      { "text": "you,", "start": 94390, "dur": 300 },
+      { "text": "and", "start": 94790, "dur": 200 },
+      { "text": "there's", "start": 95090, "dur": 300 },
+      { "text": "no", "start": 95490, "dur": 200 },
+      { "text": "replica", "start": 95790, "dur": 400 }
+    ]
+  },
+  {
+    "id": 21,
+    "words": [
+      { "text": "Maybe", "start": 97880, "dur": 200 },
+      { "text": "if", "start": 98180, "dur": 200 },
+      { "text": "it's", "start": 98480, "dur": 200 },
+      { "text": "messy,", "start": 98780, "dur": 300 },
+      { "text": "if", "start": 99180, "dur": 200 },
+      { "text": "it's", "start": 99480, "dur": 200 },
+      { "text": "messy,", "start": 99780, "dur": 300 },
+      { "text": "if", "start": 100180, "dur": 200 },
+      { "text": "it's", "start": 100480, "dur": 200 },
+      { "text": "messy", "start": 100780, "dur": 400 }
+    ]
+  },
+  {
+    "id": 22,
+    "words": [
+      { "text": "Then", "start": 102320, "dur": 300 },
+      { "text": "you", "start": 102720, "dur": 200 },
+      { "text": "know", "start": 103020, "dur": 300 },
+      { "text": "it's", "start": 103420, "dur": 200 },
+      { "text": "really", "start": 103720, "dur": 300 },
+      { "text": "love", "start": 104120, "dur": 5000 }
+    ]
+  },
+  {
+    "id": 23,
+    "words": [
+      { "text": "Love", "start": 109120, "dur": 5160 }
+    ]
+  },
+  {
+    "id": 24,
+    "words": [
+      { "text": "You're", "start": 114280, "dur": 200 },
+      { "text": "pulling", "start": 114580, "dur": 300 },
+      { "text": "back,", "start": 114980, "dur": 300 },
+      { "text": "and", "start": 115380, "dur": 200 },
+      { "text": "I'm", "start": 115680, "dur": 200 },
+      { "text": "running", "start": 115980, "dur": 300 },
+      { "text": "for", "start": 116380, "dur": 200 },
+      { "text": "the", "start": 116680, "dur": 200 },
+      { "text": "door", "start": 116980, "dur": 400 }
+    ]
+  },
+  {
+    "id": 25,
+    "words": [
+      { "text": "You're", "start": 117880, "dur": 200 },
+      { "text": "saying", "start": 118180, "dur": 300 },
+      { "text": "those", "start": 118580, "dur": 200 },
+      { "text": "words,", "start": 118880, "dur": 300 },
+      { "text": "and", "start": 119280, "dur": 200 },
+      { "text": "it", "start": 119580, "dur": 200 },
+      { "text": "just", "start": 119880, "dur": 200 },
+      { "text": "makes", "start": 120180, "dur": 200 },
+      { "text": "me", "start": 120480, "dur": 200 },
+      { "text": "want", "start": 120780, "dur": 200 },
+      { "text": "you", "start": 121080, "dur": 200 },
+      { "text": "more", "start": 121380, "dur": 400 }
+    ]
+  },
+  {
+    "id": 26,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 122000, "dur": 1500 }
+    ]
+  },
+  {
+    "id": 27,
+    "words": [
+      { "text": "A", "start": 124100, "dur": 200 },
+      { "text": "second", "start": 124400, "dur": 300 },
+      { "text": "chance", "start": 124800, "dur": 300 },
+      { "text": "with", "start": 125200, "dur": 200 },
+      { "text": "our", "start": 125500, "dur": 200 },
+      { "text": "hearts", "start": 125800, "dur": 300 },
+      { "text": "on", "start": 126200, "dur": 200 },
+      { "text": "the", "start": 126500, "dur": 200 },
+      { "text": "floor", "start": 126800, "dur": 400 }
+    ]
+  },
+  {
+    "id": 28,
+    "words": [
+      { "text": "Guess", "start": 128110, "dur": 300 },
+      { "text": "it's", "start": 128510, "dur": 300 },
+      { "text": "love", "start": 128910, "dur": 400 }
+    ]
+  },
+  {
+    "id": 29,
+    "words": [
+      { "text": "So", "start": 132160, "dur": 200 },
+      { "text": "baby,", "start": 132460, "dur": 300 },
+      { "text": "let's", "start": 132860, "dur": 200 },
+      { "text": "get", "start": 133160, "dur": 200 },
+      { "text": "messy,", "start": 133460, "dur": 300 },
+      { "text": "let's", "start": 133860, "dur": 200 },
+      { "text": "get", "start": 134160, "dur": 200 },
+      { "text": "all", "start": 134460, "dur": 200 },
+      { "text": "the", "start": 134760, "dur": 200 },
+      { "text": "way", "start": 135060, "dur": 200 },
+      { "text": "undone", "start": 135360, "dur": 400 }
+    ]
+  },
+  {
+    "id": 30,
+    "words": [
+      { "text": "Come", "start": 137330, "dur": 200 },
+      { "text": "over,", "start": 137630, "dur": 300 },
+      { "text": "undress", "start": 138030, "dur": 300 },
+      { "text": "me", "start": 138430, "dur": 200 },
+      { "text": "just", "start": 138730, "dur": 200 },
+      { "text": "like", "start": 139030, "dur": 200 },
+      { "text": "I've", "start": 139330, "dur": 200 },
+      { "text": "never", "start": 139630, "dur": 300 },
+      { "text": "been", "start": 140030, "dur": 200 },
+      { "text": "touched", "start": 140330, "dur": 400 }
+    ]
+  },
+  {
+    "id": 31,
+    "words": [
+      { "text": "Baby,", "start": 142260, "dur": 300 },
+      { "text": "I'm", "start": 142660, "dur": 200 },
+      { "text": "obsessed", "start": 142960, "dur": 300 },
+      { "text": "with", "start": 143360, "dur": 200 },
+      { "text": "you,", "start": 143660, "dur": 300 },
+      { "text": "and", "start": 144060, "dur": 200 },
+      { "text": "there's", "start": 144360, "dur": 300 },
+      { "text": "no", "start": 144760, "dur": 200 },
+      { "text": "replica", "start": 145060, "dur": 400 }
+    ]
+  },
+  {
+    "id": 32,
+    "words": [
+      { "text": "Maybe", "start": 147320, "dur": 200 },
+      { "text": "if", "start": 147620, "dur": 200 },
+      { "text": "it's", "start": 147920, "dur": 200 },
+      { "text": "messy,", "start": 148220, "dur": 300 },
+      { "text": "if", "start": 148620, "dur": 200 },
+      { "text": "it's", "start": 148920, "dur": 200 },
+      { "text": "messy,", "start": 149220, "dur": 300 },
+      { "text": "if", "start": 149620, "dur": 200 },
+      { "text": "it's", "start": 149920, "dur": 200 },
+      { "text": "messy", "start": 150220, "dur": 400 }
+    ]
+  },
+  {
+    "id": 33,
+    "words": [
+      { "text": "Then", "start": 151750, "dur": 300 },
+      { "text": "you", "start": 152150, "dur": 200 },
+      { "text": "know", "start": 152450, "dur": 300 },
+      { "text": "it's", "start": 152850, "dur": 200 },
+      { "text": "really", "start": 153150, "dur": 300 },
+      { "text": "love", "start": 153550, "dur": 5200 }
+    ]
+  },
+  {
+    "id": 34,
+    "words": [
+      { "text": "Love", "start": 158750, "dur": 2830 }
+    ]
+  },
+  {
+    "id": 35,
+    "words": [
+      { "text": "Then", "start": 161580, "dur": 300 },
+      { "text": "you", "start": 161980, "dur": 200 },
+      { "text": "know", "start": 162280, "dur": 300 },
+      { "text": "it's", "start": 162680, "dur": 200 },
+      { "text": "really", "start": 162980, "dur": 300 },
+      { "text": "love", "start": 163380, "dur": 1120 }
+    ]
+  },
+  {
+    "id": 36,
+    "words": [
+      { "text": "Love", "start": 168570, "dur": 2890 }
+    ]
+  },
+  {
+    "id": 37,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 171460, "dur": 3000 }
+    ]
+  }
 ]
