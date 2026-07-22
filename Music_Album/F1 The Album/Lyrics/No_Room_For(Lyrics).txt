@@ -172,7 +172,7 @@
   {
     "id": 14,
     "words": [
-      { "text": "Faith", "start": 47170, "dur": 1000 }
+      { "text": "Faith", "start": 47170, "dur": 5610 }
     ]
   },
   {
@@ -190,7 +190,7 @@
   {
     "id": 16,
     "words": [
-      { "text": "Faith", "start": 54300, "dur": 1000 }
+      { "text": "Faith", "start": 54300, "dur": 5160 }
     ]
   },
   {
@@ -334,7 +334,7 @@
   {
     "id": 27,
     "words": [
-      { "text": "Faith", "start": 105100, "dur": 1000 }
+      { "text": "Faith", "start": 105100, "dur": 5660 }
     ]
   },
   {
@@ -352,7 +352,7 @@
   {
     "id": 29,
     "words": [
-      { "text": "Faith", "start": 112630, "dur": 1000 }
+      { "text": "Faith", "start": 112630, "dur": 5110 }
     ]
   },
   {
@@ -538,7 +538,7 @@
   {
     "id": 43,
     "words": [
-      { "text": "Faith", "start": 199420, "dur": 1000 }
+      { "text": "Faith", "start": 199420, "dur": 5600 }
     ]
   },
   {
@@ -556,7 +556,7 @@
   {
     "id": 45,
     "words": [
-      { "text": "Faith", "start": 206880, "dur": 1000 }
+      { "text": "Faith", "start": 206880, "dur": 5290 }
     ]
   },
   {
