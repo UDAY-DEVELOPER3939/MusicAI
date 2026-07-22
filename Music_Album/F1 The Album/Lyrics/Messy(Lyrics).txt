@@ -278,31 +278,17 @@
       { "text": "know", "start": 103020, "dur": 300 },
       { "text": "it's", "start": 103420, "dur": 200 },
       { "text": "really", "start": 103720, "dur": 300 },
-      { "text": "love", "start": 104120, "dur": 400 }
+      { "text": "love", "start": 104120, "dur": 5000 }
     ]
   },
   {
     "id": 23,
-    "isTune": true,
     "words": [
-      { "text": "♪  ♫  ♪", "start": 105500, "dur": 3000 }
+      { "text": "Love", "start": 109120, "dur": 5160 }
     ]
   },
   {
     "id": 24,
-    "words": [
-      { "text": "Love", "start": 109120, "dur": 1500 }
-    ]
-  },
-  {
-    "id": 25,
-    "isTune": true,
-    "words": [
-      { "text": "♪  ♫  ♪", "start": 111000, "dur": 2500 }
-    ]
-  },
-  {
-    "id": 26,
     "words": [
       { "text": "You're", "start": 114280, "dur": 200 },
       { "text": "pulling", "start": 114580, "dur": 300 },
@@ -316,7 +302,7 @@
     ]
   },
   {
-    "id": 27,
+    "id": 25,
     "words": [
       { "text": "You're", "start": 117880, "dur": 200 },
       { "text": "saying", "start": 118180, "dur": 300 },
@@ -333,14 +319,14 @@
     ]
   },
   {
-    "id": 28,
+    "id": 26,
     "isTune": true,
     "words": [
       { "text": "♪  ♫  ♪", "start": 122000, "dur": 1500 }
     ]
   },
   {
-    "id": 29,
+    "id": 27,
     "words": [
       { "text": "A", "start": 124100, "dur": 200 },
       { "text": "second", "start": 124400, "dur": 300 },
@@ -354,7 +340,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 28,
     "words": [
       { "text": "Guess", "start": 128110, "dur": 300 },
       { "text": "it's", "start": 128510, "dur": 300 },
@@ -362,7 +348,7 @@
     ]
   },
   {
-    "id": 31,
+    "id": 29,
     "words": [
       { "text": "So", "start": 132160, "dur": 200 },
       { "text": "baby,", "start": 132460, "dur": 300 },
@@ -378,7 +364,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 30,
     "words": [
       { "text": "Come", "start": 137330, "dur": 200 },
       { "text": "over,", "start": 137630, "dur": 300 },
@@ -393,7 +379,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 31,
     "words": [
       { "text": "Baby,", "start": 142260, "dur": 300 },
       { "text": "I'm", "start": 142660, "dur": 200 },
@@ -407,7 +393,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 32,
     "words": [
       { "text": "Maybe", "start": 147320, "dur": 200 },
       { "text": "if", "start": 147620, "dur": 200 },
@@ -422,55 +408,41 @@
     ]
   },
   {
-    "id": 35,
+    "id": 33,
     "words": [
       { "text": "Then", "start": 151750, "dur": 300 },
       { "text": "you", "start": 152150, "dur": 200 },
       { "text": "know", "start": 152450, "dur": 300 },
       { "text": "it's", "start": 152850, "dur": 200 },
       { "text": "really", "start": 153150, "dur": 300 },
-      { "text": "love", "start": 153550, "dur": 400 }
+      { "text": "love", "start": 153550, "dur": 5200 }
     ]
   },
   {
-    "id": 36,
-    "isTune": true,
+    "id": 34,
     "words": [
-      { "text": "♪  ♫  ♪", "start": 154500, "dur": 3500 }
+      { "text": "Love", "start": 158750, "dur": 2830 }
     ]
   },
   {
-    "id": 37,
-    "words": [
-      { "text": "Love", "start": 158750, "dur": 1500 }
-    ]
-  },
-  {
-    "id": 38,
+    "id": 35,
     "words": [
       { "text": "Then", "start": 161580, "dur": 300 },
       { "text": "you", "start": 161980, "dur": 200 },
       { "text": "know", "start": 162280, "dur": 300 },
       { "text": "it's", "start": 162680, "dur": 200 },
       { "text": "really", "start": 162980, "dur": 300 },
-      { "text": "love", "start": 163380, "dur": 400 }
+      { "text": "love", "start": 163380, "dur": 1120 }
     ]
   },
   {
-    "id": 39,
-    "isTune": true,
+    "id": 36,
     "words": [
-      { "text": "♪  ♫  ♪", "start": 164500, "dur": 3500 }
+      { "text": "Love", "start": 168570, "dur": 2890 }
     ]
   },
   {
-    "id": 40,
-    "words": [
-      { "text": "Love", "start": 168570, "dur": 2000 }
-    ]
-  },
-  {
-    "id": 41,
+    "id": 37,
     "isTune": true,
     "words": [
       { "text": "♪  ♫  ♪", "start": 171460, "dur": 3000 }
