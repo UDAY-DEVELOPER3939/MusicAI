@@ -1,6 +1,13 @@
 [
   {
     "id": 1,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 0, "dur": 3000 }
+    ]
+  },
+  {
+    "id": 2,
     "words": [
       { "text": "Like", "start": 3830, "dur": 300 },
       { "text": "an", "start": 4130, "dur": 200 },
@@ -13,7 +20,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "words": [
       { "text": "My", "start": 7540, "dur": 200 },
       { "text": "brain", "start": 7740, "dur": 300 },
@@ -30,7 +37,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "words": [
       { "text": "I", "start": 11230, "dur": 200 },
       { "text": "said", "start": 11430, "dur": 300 },
@@ -47,7 +54,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "words": [
       { "text": "But", "start": 14990, "dur": 200 },
       { "text": "it", "start": 15190, "dur": 200 },
@@ -60,7 +67,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "words": [
       { "text": "Like", "start": 18490, "dur": 300 },
       { "text": "an", "start": 18790, "dur": 200 },
@@ -73,7 +80,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "words": [
       { "text": "For", "start": 21890, "dur": 200 },
       { "text": "a", "start": 22090, "dur": 200 },
@@ -92,7 +99,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "words": [
       { "text": "Said", "start": 25960, "dur": 300 },
       { "text": "the", "start": 26260, "dur": 200 },
@@ -107,7 +114,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "words": [
       { "text": "Ain't", "start": 29860, "dur": 300 },
       { "text": "no", "start": 30160, "dur": 300 },
@@ -119,7 +126,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 10,
     "words": [
       { "text": "Ain't", "start": 33140, "dur": 300 },
       { "text": "no", "start": 33440, "dur": 300 },
@@ -130,7 +137,7 @@
     ]
   },
   {
-    "id": 10,
+    "id": 11,
     "words": [
       { "text": "Ain't", "start": 36540, "dur": 300 },
       { "text": "no", "start": 36840, "dur": 300 },
@@ -141,7 +148,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 12,
     "words": [
       { "text": "Ain't", "start": 40040, "dur": 300 },
       { "text": "no", "start": 40340, "dur": 300 },
@@ -152,7 +159,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 13,
     "words": [
       { "text": "Ain't", "start": 43720, "dur": 300 },
       { "text": "no", "start": 44020, "dur": 300 },
@@ -163,13 +170,13 @@
     ]
   },
   {
-    "id": 13,
+    "id": 14,
     "words": [
       { "text": "Faith", "start": 47170, "dur": 1000 }
     ]
   },
   {
-    "id": 14,
+    "id": 15,
     "words": [
       { "text": "You", "start": 52780, "dur": 300 },
       { "text": "see", "start": 53080, "dur": 300 },
@@ -181,13 +188,13 @@
     ]
   },
   {
-    "id": 15,
+    "id": 16,
     "words": [
       { "text": "Faith", "start": 54300, "dur": 1000 }
     ]
   },
   {
-    "id": 16,
+    "id": 17,
     "words": [
       { "text": "You", "start": 59740, "dur": 300 },
       { "text": "see", "start": 60040, "dur": 300 },
@@ -199,7 +206,14 @@
     ]
   },
   {
-    "id": 17,
+    "id": 18,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 63000, "dur": 12000 }
+    ]
+  },
+  {
+    "id": 19,
     "words": [
       { "text": "Like", "start": 76600, "dur": 300 },
       { "text": "an", "start": 76900, "dur": 200 },
@@ -212,7 +226,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": 20,
     "words": [
       { "text": "My", "start": 80070, "dur": 200 },
       { "text": "brain", "start": 80270, "dur": 300 },
@@ -229,7 +243,7 @@
     ]
   },
   {
-    "id": 19,
+    "id": 21,
     "words": [
       { "text": "I", "start": 83760, "dur": 200 },
       { "text": "said", "start": 83960, "dur": 300 },
@@ -246,7 +260,7 @@
     ]
   },
   {
-    "id": 20,
+    "id": 22,
     "words": [
       { "text": "But", "start": 87470, "dur": 200 },
       { "text": "it", "start": 87670, "dur": 200 },
@@ -259,7 +273,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 23,
     "words": [
       { "text": "Like", "start": 91070, "dur": 300 },
       { "text": "an", "start": 91370, "dur": 200 },
@@ -272,7 +286,7 @@
     ]
   },
   {
-    "id": 22,
+    "id": 24,
     "words": [
       { "text": "For", "start": 94530, "dur": 200 },
       { "text": "a", "start": 94730, "dur": 200 },
@@ -291,7 +305,7 @@
     ]
   },
   {
-    "id": 23,
+    "id": 25,
     "words": [
       { "text": "Said", "start": 98300, "dur": 300 },
       { "text": "the", "start": 98600, "dur": 200 },
@@ -306,7 +320,7 @@
     ]
   },
   {
-    "id": 24,
+    "id": 26,
     "words": [
       { "text": "Ain't", "start": 102130, "dur": 300 },
       { "text": "no", "start": 102430, "dur": 300 },
@@ -318,13 +332,13 @@
     ]
   },
   {
-    "id": 25,
+    "id": 27,
     "words": [
       { "text": "Faith", "start": 105100, "dur": 1000 }
     ]
   },
   {
-    "id": 26,
+    "id": 28,
     "words": [
       { "text": "You", "start": 110820, "dur": 300 },
       { "text": "see", "start": 111120, "dur": 300 },
@@ -336,13 +350,13 @@
     ]
   },
   {
-    "id": 27,
+    "id": 29,
     "words": [
       { "text": "Faith", "start": 112630, "dur": 1000 }
     ]
   },
   {
-    "id": 28,
+    "id": 30,
     "words": [
       { "text": "You", "start": 117740, "dur": 300 },
       { "text": "see", "start": 118040, "dur": 300 },
@@ -354,7 +368,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 31,
     "words": [
       { "text": "History", "start": 120040, "dur": 400 },
       { "text": "is", "start": 120440, "dur": 200 },
@@ -373,7 +387,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 32,
     "words": [
       { "text": "Don't", "start": 127210, "dur": 400 },
       { "text": "believe", "start": 127610, "dur": 400 },
@@ -390,7 +404,14 @@
     ]
   },
   {
-    "id": 31,
+    "id": 33,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 133000, "dur": 23000 }
+    ]
+  },
+  {
+    "id": 34,
     "words": [
       { "text": "Like", "start": 158360, "dur": 300 },
       { "text": "an", "start": 158660, "dur": 200 },
@@ -403,7 +424,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 35,
     "words": [
       { "text": "For", "start": 160190, "dur": 200 },
       { "text": "a", "start": 160390, "dur": 200 },
@@ -422,7 +443,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 36,
     "words": [
       { "text": "Said", "start": 163760, "dur": 300 },
       { "text": "the", "start": 164060, "dur": 200 },
@@ -437,7 +458,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 37,
     "words": [
       { "text": "Ain't", "start": 167290, "dur": 300 },
       { "text": "no", "start": 167590, "dur": 300 },
@@ -449,7 +470,14 @@
     ]
   },
   {
-    "id": 35,
+    "id": 38,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 171000, "dur": 13000 }
+    ]
+  },
+  {
+    "id": 39,
     "words": [
       { "text": "Like", "start": 185870, "dur": 300 },
       { "text": "an", "start": 186170, "dur": 200 },
@@ -462,7 +490,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 40,
     "words": [
       { "text": "For", "start": 189050, "dur": 200 },
       { "text": "a", "start": 189250, "dur": 200 },
@@ -481,7 +509,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 41,
     "words": [
       { "text": "Said", "start": 192980, "dur": 300 },
       { "text": "the", "start": 193280, "dur": 200 },
@@ -496,7 +524,7 @@
     ]
   },
   {
-    "id": 38,
+    "id": 42,
     "words": [
       { "text": "Ain't", "start": 196340, "dur": 300 },
       { "text": "no", "start": 196640, "dur": 300 },
@@ -508,13 +536,13 @@
     ]
   },
   {
-    "id": 39,
+    "id": 43,
     "words": [
       { "text": "Faith", "start": 199420, "dur": 1000 }
     ]
   },
   {
-    "id": 40,
+    "id": 44,
     "words": [
       { "text": "You", "start": 205020, "dur": 300 },
       { "text": "see", "start": 205320, "dur": 300 },
@@ -526,13 +554,13 @@
     ]
   },
   {
-    "id": 41,
+    "id": 45,
     "words": [
       { "text": "Faith", "start": 206880, "dur": 1000 }
     ]
   },
   {
-    "id": 42,
+    "id": 46,
     "words": [
       { "text": "You", "start": 212170, "dur": 300 },
       { "text": "see", "start": 212470, "dur": 300 },
@@ -544,7 +572,7 @@
     ]
   },
   {
-    "id": 43,
+    "id": 47,
     "words": [
       { "text": "History", "start": 214440, "dur": 400 },
       { "text": "is", "start": 214840, "dur": 200 },
@@ -563,7 +591,7 @@
     ]
   },
   {
-    "id": 44,
+    "id": 48,
     "words": [
       { "text": "Don't", "start": 221260, "dur": 400 },
       { "text": "believe", "start": 221660, "dur": 400 },
