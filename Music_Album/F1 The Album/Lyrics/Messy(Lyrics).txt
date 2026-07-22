@@ -138,18 +138,11 @@
       { "text": "know", "start": 53540, "dur": 300 },
       { "text": "it's", "start": 53940, "dur": 200 },
       { "text": "really", "start": 54240, "dur": 300 },
-      { "text": "love", "start": 54640, "dur": 400 }
+      { "text": "love", "start": 54640, "dur": 4670 }
     ]
   },
   {
     "id": 12,
-    "isTune": true,
-    "words": [
-      { "text": "♪  ♫  ♪", "start": 55500, "dur": 3000 }
-    ]
-  },
-  {
-    "id": 13,
     "words": [
       { "text": "I", "start": 59310, "dur": 200 },
       { "text": "want", "start": 59610, "dur": 300 },
@@ -160,7 +153,7 @@
     ]
   },
   {
-    "id": 14,
+    "id": 13,
     "words": [
       { "text": "Give", "start": 64070, "dur": 200 },
       { "text": "me", "start": 64370, "dur": 200 },
@@ -173,7 +166,7 @@
     ]
   },
   {
-    "id": 15,
+    "id": 14,
     "words": [
       { "text": "When", "start": 69020, "dur": 200 },
       { "text": "the", "start": 69320, "dur": 200 },
@@ -188,7 +181,7 @@
     ]
   },
   {
-    "id": 16,
+    "id": 15,
     "words": [
       { "text": "How", "start": 74020, "dur": 300 },
       { "text": "bad", "start": 74420, "dur": 300 },
@@ -199,7 +192,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": 16,
     "words": [
       { "text": "If", "start": 78940, "dur": 200 },
       { "text": "tonight", "start": 79240, "dur": 300 },
@@ -211,7 +204,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": 17,
     "words": [
       { "text": "So", "start": 82760, "dur": 200 },
       { "text": "baby,", "start": 83060, "dur": 300 },
@@ -227,7 +220,7 @@
     ]
   },
   {
-    "id": 19,
+    "id": 18,
     "words": [
       { "text": "Come", "start": 87970, "dur": 200 },
       { "text": "over,", "start": 88270, "dur": 300 },
@@ -242,7 +235,7 @@
     ]
   },
   {
-    "id": 20,
+    "id": 19,
     "words": [
       { "text": "Baby,", "start": 92990, "dur": 300 },
       { "text": "I'm", "start": 93390, "dur": 200 },
@@ -256,7 +249,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 20,
     "words": [
       { "text": "Maybe", "start": 97880, "dur": 200 },
       { "text": "if", "start": 98180, "dur": 200 },
@@ -271,7 +264,7 @@
     ]
   },
   {
-    "id": 22,
+    "id": 21,
     "words": [
       { "text": "Then", "start": 102320, "dur": 300 },
       { "text": "you", "start": 102720, "dur": 200 },
@@ -282,13 +275,13 @@
     ]
   },
   {
-    "id": 23,
+    "id": 22,
     "words": [
       { "text": "Love", "start": 109120, "dur": 5160 }
     ]
   },
   {
-    "id": 24,
+    "id": 23,
     "words": [
       { "text": "You're", "start": 114280, "dur": 200 },
       { "text": "pulling", "start": 114580, "dur": 300 },
@@ -302,7 +295,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 24,
     "words": [
       { "text": "You're", "start": 117880, "dur": 200 },
       { "text": "saying", "start": 118180, "dur": 300 },
@@ -319,14 +312,14 @@
     ]
   },
   {
-    "id": 26,
+    "id": 25,
     "isTune": true,
     "words": [
       { "text": "♪  ♫  ♪", "start": 122000, "dur": 1500 }
     ]
   },
   {
-    "id": 27,
+    "id": 26,
     "words": [
       { "text": "A", "start": 124100, "dur": 200 },
       { "text": "second", "start": 124400, "dur": 300 },
@@ -340,7 +333,7 @@
     ]
   },
   {
-    "id": 28,
+    "id": 27,
     "words": [
       { "text": "Guess", "start": 128110, "dur": 300 },
       { "text": "it's", "start": 128510, "dur": 300 },
@@ -348,7 +341,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 28,
     "words": [
       { "text": "So", "start": 132160, "dur": 200 },
       { "text": "baby,", "start": 132460, "dur": 300 },
@@ -364,7 +357,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 29,
     "words": [
       { "text": "Come", "start": 137330, "dur": 200 },
       { "text": "over,", "start": 137630, "dur": 300 },
@@ -379,7 +372,7 @@
     ]
   },
   {
-    "id": 31,
+    "id": 30,
     "words": [
       { "text": "Baby,", "start": 142260, "dur": 300 },
       { "text": "I'm", "start": 142660, "dur": 200 },
@@ -393,7 +386,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 31,
     "words": [
       { "text": "Maybe", "start": 147320, "dur": 200 },
       { "text": "if", "start": 147620, "dur": 200 },
@@ -408,7 +401,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 32,
     "words": [
       { "text": "Then", "start": 151750, "dur": 300 },
       { "text": "you", "start": 152150, "dur": 200 },
@@ -419,13 +412,13 @@
     ]
   },
   {
-    "id": 34,
+    "id": 33,
     "words": [
       { "text": "Love", "start": 158750, "dur": 2830 }
     ]
   },
   {
-    "id": 35,
+    "id": 34,
     "words": [
       { "text": "Then", "start": 161580, "dur": 300 },
       { "text": "you", "start": 161980, "dur": 200 },
@@ -436,13 +429,13 @@
     ]
   },
   {
-    "id": 36,
+    "id": 35,
     "words": [
       { "text": "Love", "start": 168570, "dur": 2890 }
     ]
   },
   {
-    "id": 37,
+    "id": 36,
     "isTune": true,
     "words": [
       { "text": "♪  ♫  ♪", "start": 171460, "dur": 3000 }
