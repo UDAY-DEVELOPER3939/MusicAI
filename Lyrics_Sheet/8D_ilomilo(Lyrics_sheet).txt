@@ -4,7 +4,7 @@
     "isTune": true,
     "words": [
       {
-        "text": "🎵 ⚪️⚪️⚪️ 🎵",
+        "text": "♪  ♫  ♪",
         "start": 11000,
         "dur": 5000
       }
@@ -15,7 +15,7 @@
     "isTune": true,
     "words": [
       {
-        "text": "🎵",
+        "text": "𝄞",
         "start": 16000,
         "dur": 31000
       }
