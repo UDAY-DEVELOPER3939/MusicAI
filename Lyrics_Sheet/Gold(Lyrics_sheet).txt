@@ -1,1 +1,576 @@
+[
+  {
+    "id": 1,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 0, "dur": 9560 }
+    ]
+  },
+  {
+    "id": 2,
+    "words": [
+      { "text": "Sunlight", "start": 9560, "dur": 760 },
+      { "text": "dancing", "start": 10320, "dur": 760 },
+      { "text": "on", "start": 11080, "dur": 400 },
+      { "text": "your", "start": 11480, "dur": 260 },
+      { "text": "face", "start": 11740, "dur": 500 }
+    ]
+  },
+  {
+    "id": 3,
+    "words": [
+      { "text": "Time", "start": 12240, "dur": 340 },
+      { "text": "slows", "start": 12580, "dur": 220 },
+      { "text": "down", "start": 12800, "dur": 500 },
+      { "text": "in", "start": 13300, "dur": 220 },
+      { "text": "your", "start": 13520, "dur": 220 },
+      { "text": "embrace", "start": 13740, "dur": 640 }
+    ]
+  },
+  {
+    "id": 4,
+    "words": [
+      { "text": "City", "start": 14380, "dur": 520 },
+      { "text": "noise", "start": 14900, "dur": 460 },
+      { "text": "just", "start": 15360, "dur": 380 },
+      { "text": "fades", "start": 15740, "dur": 300 },
+      { "text": "away", "start": 16040, "dur": 340 }
+    ]
+  },
+  {
+    "id": 5,
+    "words": [
+      { "text": "When", "start": 16380, "dur": 400 },
+      { "text": "you", "start": 16780, "dur": 120 },
+      { "text": "look", "start": 16900, "dur": 220 },
+      { "text": "at", "start": 17120, "dur": 160 },
+      { "text": "me", "start": 17280, "dur": 200 },
+      { "text": "that", "start": 17480, "dur": 260 },
+      { "text": "way", "start": 17740, "dur": 260 }
+    ]
+  },
+  {
+    "id": 6,
+    "words": [
+      { "text": "Heartbeat", "start": 18000, "dur": 1520 },
+      { "text": "syncing,", "start": 19520, "dur": 520 },
+      { "text": "left", "start": 20040, "dur": 440 },
+      { "text": "and", "start": 20480, "dur": 260 },
+      { "text": "right", "start": 20740, "dur": 380 }
+    ]
+  },
+  {
+    "id": 7,
+    "words": [
+      { "text": "Everything", "start": 21120, "dur": 700 },
+      { "text": "just", "start": 21820, "dur": 580 },
+      { "text": "feels", "start": 22400, "dur": 380 },
+      { "text": "so", "start": 22780, "dur": 180 },
+      { "text": "light", "start": 22960, "dur": 360 }
+    ]
+  },
+  {
+    "id": 8,
+    "words": [
+      { "text": "We", "start": 23320, "dur": 520 },
+      { "text": "don't", "start": 23840, "dur": 260 },
+      { "text": "need", "start": 24100, "dur": 100 },
+      { "text": "a", "start": 24200, "dur": 440 },
+      { "text": "reason", "start": 24640, "dur": 400 },
+      { "text": "why", "start": 25040, "dur": 340 }
+    ]
+  },
+  {
+    "id": 9,
+    "words": [
+      { "text": "We're", "start": 25380, "dur": 400 },
+      { "text": "just", "start": 25780, "dur": 120 },
+      { "text": "living", "start": 25900, "dur": 260 },
+      { "text": "in", "start": 26160, "dur": 380 },
+      { "text": "the", "start": 26540, "dur": 100 },
+      { "text": "sky", "start": 26640, "dur": 300 }
+    ]
+  },
+  {
+    "id": 10,
+    "words": [
+      { "text": "No", "start": 26940, "dur": 1820 },
+      { "text": "more", "start": 28760, "dur": 300 },
+      { "text": "waiting,", "start": 29060, "dur": 720 }
+    ]
+  },
+  {
+    "id": 11,
+    "words": [
+      { "text": "no", "start": 29780, "dur": 1200 },
+      { "text": "more", "start": 30980, "dur": 320 },
+      { "text": "maybes", "start": 31300, "dur": 740 }
+    ]
+  },
+  {
+    "id": 12,
+    "words": [
+      { "text": "You", "start": 32040, "dur": 760 },
+      { "text": "and", "start": 32800, "dur": 720 },
+      { "text": "me —", "start": 33520, "dur": 380 },
+      { "text": "we're", "start": 33900, "dur": 400 },
+      { "text": "going", "start": 34300, "dur": 240 },
+      { "text": "crazy", "start": 34540, "dur": 640 }
+    ]
+  },
+  {
+    "id": 13,
+    "words": [
+      { "text": "It's", "start": 35180, "dur": 1860 },
+      { "text": "golden,", "start": 37040, "dur": 480 },
+      { "text": "golden", "start": 37520, "dur": 920 },
+      { "text": "in", "start": 38440, "dur": 540 },
+      { "text": "the", "start": 38980, "dur": 220 },
+      { "text": "air", "start": 39200, "dur": 400 }
+    ]
+  },
+  {
+    "id": 14,
+    "words": [
+      { "text": "Hands", "start": 39600, "dur": 460 },
+      { "text": "up", "start": 40060, "dur": 220 },
+      { "text": "like", "start": 40280, "dur": 200 },
+      { "text": "we", "start": 40480, "dur": 340 },
+      { "text": "just", "start": 40820, "dur": 260 },
+      { "text": "don't", "start": 41080, "dur": 520 },
+      { "text": "care", "start": 41600, "dur": 200 }
+    ]
+  },
+  {
+    "id": 15,
+    "words": [
+      { "text": "Round", "start": 41800, "dur": 480 },
+      { "text": "and", "start": 42280, "dur": 160 },
+      { "text": "round,", "start": 42440, "dur": 340 },
+      { "text": "we're", "start": 42780, "dur": 280 },
+      { "text": "floating", "start": 43060, "dur": 440 },
+      { "text": "free", "start": 43500, "dur": 420 }
+    ]
+  },
+  {
+    "id": 16,
+    "words": [
+      { "text": "Right", "start": 43920, "dur": 560 },
+      { "text": "where", "start": 44480, "dur": 220 },
+      { "text": "we're", "start": 44700, "dur": 320 },
+      { "text": "supposed", "start": 45020, "dur": 360 },
+      { "text": "to", "start": 45380, "dur": 560 },
+      { "text": "be", "start": 45940, "dur": 340 }
+    ]
+  },
+  {
+    "id": 17,
+    "words": [
+      { "text": "Golden,", "start": 46280, "dur": 720 },
+      { "text": "golden —", "start": 47000, "dur": 520 },
+      { "text": "don't", "start": 47520, "dur": 420 },
+      { "text": "come", "start": 47940, "dur": 140 },
+      { "text": "down", "start": 48080, "dur": 320 }
+    ]
+  },
+  {
+    "id": 18,
+    "words": [
+      { "text": "Lost", "start": 48400, "dur": 500 },
+      { "text": "but", "start": 48900, "dur": 680 },
+      { "text": "baby", "start": 49580, "dur": 380 },
+      { "text": "we", "start": 49960, "dur": 300 },
+      { "text": "feel", "start": 50260, "dur": 300 },
+      { "text": "found", "start": 50560, "dur": 800 }
+    ]
+  },
+  {
+    "id": 19,
+    "words": [
+      { "text": "If", "start": 51360, "dur": 440 },
+      { "text": "this", "start": 51800, "dur": 220 },
+      { "text": "dream", "start": 52020, "dur": 320 },
+      { "text": "is", "start": 52340, "dur": 540 },
+      { "text": "playing", "start": 52880, "dur": 500 },
+      { "text": "fair", "start": 53380, "dur": 280 }
+    ]
+  },
+  {
+    "id": 20,
+    "words": [
+      { "text": "Keep", "start": 53660, "dur": 560 },
+      { "text": "me", "start": 54220, "dur": 400 },
+      { "text": "golden", "start": 54620, "dur": 260 },
+      { "text": "in", "start": 54880, "dur": 540 },
+      { "text": "the", "start": 55420, "dur": 380 },
+      { "text": "air", "start": 55800, "dur": 1000 }
+    ]
+  },
+  {
+    "id": 21,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 56800, "dur": 6780 }
+    ]
+  },
+  {
+    "id": 22,
+    "words": [
+      { "text": "Windows", "start": 63580, "dur": 760 },
+      { "text": "down,", "start": 64340, "dur": 480 },
+      { "text": "we", "start": 64820, "dur": 260 },
+      { "text": "chase", "start": 65080, "dur": 260 },
+      { "text": "the", "start": 65340, "dur": 260 },
+      { "text": "night", "start": 65600, "dur": 340 }
+    ]
+  },
+  {
+    "id": 23,
+    "words": [
+      { "text": "Streetlights", "start": 65940, "dur": 800 },
+      { "text": "blur", "start": 66740, "dur": 320 },
+      { "text": "in", "start": 67060, "dur": 260 },
+      { "text": "yellow", "start": 67320, "dur": 300 },
+      { "text": "lines", "start": 67620, "dur": 640 }
+    ]
+  },
+  {
+    "id": 24,
+    "words": [
+      { "text": "Every", "start": 68260, "dur": 520 },
+      { "text": "laugh,", "start": 68780, "dur": 440 },
+      { "text": "electric", "start": 69220, "dur": 520 },
+      { "text": "spark", "start": 69740, "dur": 500 }
+    ]
+  },
+  {
+    "id": 25,
+    "words": [
+      { "text": "You're", "start": 70240, "dur": 440 },
+      { "text": "the", "start": 70680, "dur": 20 },
+      { "text": "fire", "start": 70700, "dur": 360 },
+      { "text": "in", "start": 71060, "dur": 320 },
+      { "text": "the", "start": 71380, "dur": 140 },
+      { "text": "dark", "start": 71520, "dur": 400 }
+    ]
+  },
+  {
+    "id": 26,
+    "words": [
+      { "text": "No", "start": 71920, "dur": 1180 },
+      { "text": "more", "start": 73100, "dur": 300 },
+      { "text": "shadows", "start": 73400, "dur": 520 },
+      { "text": "pulling", "start": 73920, "dur": 440 },
+      { "text": "back", "start": 74360, "dur": 520 }
+    ]
+  },
+  {
+    "id": 27,
+    "words": [
+      { "text": "We're", "start": 74880, "dur": 820 },
+      { "text": "too", "start": 75700, "dur": 160 },
+      { "text": "far", "start": 75860, "dur": 400 },
+      { "text": "off", "start": 76260, "dur": 340 },
+      { "text": "this", "start": 76600, "dur": 220 },
+      { "text": "track", "start": 76820, "dur": 380 }
+    ]
+  },
+  {
+    "id": 28,
+    "words": [
+      { "text": "Every", "start": 77200, "dur": 560 },
+      { "text": "second,", "start": 77760, "dur": 380 },
+      { "text": "crystal", "start": 78140, "dur": 600 },
+      { "text": "clear", "start": 78740, "dur": 480 }
+    ]
+  },
+  {
+    "id": 29,
+    "words": [
+      { "text": "Best", "start": 79220, "dur": 360 },
+      { "text": "thing", "start": 79580, "dur": 160 },
+      { "text": "ever", "start": 79740, "dur": 240 },
+      { "text": "brought", "start": 79980, "dur": 300 },
+      { "text": "me", "start": 80280, "dur": 260 },
+      { "text": "here", "start": 80540, "dur": 340 }
+    ]
+  },
+  {
+    "id": 30,
+    "words": [
+      { "text": "No", "start": 81720, "dur": 760 },
+      { "text": "more", "start": 82480, "dur": 340 },
+      { "text": "waiting,", "start": 83920, "dur": 800 }
+    ]
+  },
+  {
+    "id": 31,
+    "words": [
+      { "text": "no", "start": 84720, "dur": 400 },
+      { "text": "more", "start": 85120, "dur": 820 },
+      { "text": "maybes", "start": 85940, "dur": 700 }
+    ]
+  },
+  {
+    "id": 32,
+    "words": [
+      { "text": "You", "start": 86640, "dur": 740 },
+      { "text": "and", "start": 87380, "dur": 340 },
+      { "text": "me —", "start": 87720, "dur": 400 },
+      { "text": "we're", "start": 88120, "dur": 300 },
+      { "text": "going", "start": 88420, "dur": 700 },
+      { "text": "crazy", "start": 89120, "dur": 960 }
+    ]
+  },
+  {
+    "id": 33,
+    "words": [
+      { "text": "It's", "start": 90080, "dur": 800 },
+      { "text": "golden,", "start": 90880, "dur": 540 },
+      { "text": "golden", "start": 91420, "dur": 800 },
+      { "text": "in", "start": 92220, "dur": 580 },
+      { "text": "the", "start": 92800, "dur": 220 },
+      { "text": "air", "start": 93020, "dur": 460 }
+    ]
+  },
+  {
+    "id": 34,
+    "words": [
+      { "text": "Hands", "start": 93480, "dur": 520 },
+      { "text": "up", "start": 94000, "dur": 80 },
+      { "text": "like", "start": 94080, "dur": 320 },
+      { "text": "we", "start": 94400, "dur": 240 },
+      { "text": "just", "start": 94640, "dur": 180 },
+      { "text": "don't", "start": 94820, "dur": 580 },
+      { "text": "care", "start": 95400, "dur": 280 }
+    ]
+  },
+  {
+    "id": 35,
+    "words": [
+      { "text": "Round", "start": 95680, "dur": 460 },
+      { "text": "and", "start": 96140, "dur": 180 },
+      { "text": "round,", "start": 96320, "dur": 300 },
+      { "text": "we're", "start": 96620, "dur": 340 },
+      { "text": "floating", "start": 96960, "dur": 220 },
+      { "text": "free", "start": 97180, "dur": 560 }
+    ]
+  },
+  {
+    "id": 36,
+    "words": [
+      { "text": "Right", "start": 97740, "dur": 560 },
+      { "text": "where", "start": 98300, "dur": 240 },
+      { "text": "we're", "start": 98540, "dur": 320 },
+      { "text": "supposed", "start": 98860, "dur": 360 },
+      { "text": "to", "start": 99220, "dur": 540 },
+      { "text": "be", "start": 99760, "dur": 360 }
+    ]
+  },
+  {
+    "id": 37,
+    "words": [
+      { "text": "Golden,", "start": 100120, "dur": 760 },
+      { "text": "golden —", "start": 100880, "dur": 460 },
+      { "text": "don't", "start": 101340, "dur": 420 },
+      { "text": "come", "start": 101760, "dur": 160 },
+      { "text": "down", "start": 101920, "dur": 400 }
+    ]
+  },
+  {
+    "id": 38,
+    "words": [
+      { "text": "Lost", "start": 102320, "dur": 380 },
+      { "text": "but", "start": 102700, "dur": 700 },
+      { "text": "baby", "start": 103400, "dur": 400 },
+      { "text": "we", "start": 103800, "dur": 360 },
+      { "text": "feel", "start": 104160, "dur": 500 },
+      { "text": "found", "start": 104660, "dur": 360 }
+    ]
+  },
+  {
+    "id": 39,
+    "words": [
+      { "text": "If", "start": 105020, "dur": 160 },
+      { "text": "this", "start": 105180, "dur": 460 },
+      { "text": "dream", "start": 105640, "dur": 220 },
+      { "text": "is", "start": 105860, "dur": 360 },
+      { "text": "playing", "start": 106220, "dur": 480 },
+      { "text": "fair", "start": 106700, "dur": 560 }
+    ]
+  },
+  {
+    "id": 40,
+    "words": [
+      { "text": "Keep", "start": 107260, "dur": 260 },
+      { "text": "me", "start": 107520, "dur": 480 },
+      { "text": "golden", "start": 108000, "dur": 420 },
+      { "text": "in", "start": 108420, "dur": 260 },
+      { "text": "the", "start": 108680, "dur": 480 },
+      { "text": "air", "start": 109160, "dur": 1000 }
+    ]
+  },
+  {
+    "id": 41,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 110160, "dur": 15840 }
+    ]
+  },
+  {
+    "id": 42,
+    "words": [
+      { "text": "Oh-oh-oh-oh-oh,", "start": 126000, "dur": 2000 }
+    ]
+  },
+  {
+    "id": 43,
+    "words": [
+      { "text": "don't", "start": 128920, "dur": 180 },
+      { "text": "let", "start": 129100, "dur": 240 },
+      { "text": "the", "start": 129340, "dur": 460 },
+      { "text": "feeling", "start": 129800, "dur": 520 },
+      { "text": "fade", "start": 130320, "dur": 680 }
+    ]
+  },
+  {
+    "id": 44,
+    "words": [
+      { "text": "Oh-oh-oh-oh-oh,", "start": 131000, "dur": 1760 }
+    ]
+  },
+  {
+    "id": 45,
+    "words": [
+      { "text": "best", "start": 132760, "dur": 1320 },
+      { "text": "mistake", "start": 134080, "dur": 380 },
+      { "text": "we", "start": 134460, "dur": 340 },
+      { "text": "made", "start": 134800, "dur": 1060 }
+    ]
+  },
+  {
+    "id": 46,
+    "words": [
+      { "text": "Hold", "start": 135860, "dur": 760 },
+      { "text": "tight,", "start": 136620, "dur": 1940 }
+    ]
+  },
+  {
+    "id": 47,
+    "words": [
+      { "text": "don't", "start": 138560, "dur": 520 },
+      { "text": "disappear", "start": 139080, "dur": 1520 }
+    ]
+  },
+  {
+    "id": 48,
+    "words": [
+      { "text": "We're", "start": 140600, "dur": 780 },
+      { "text": "forever", "start": 141380, "dur": 1860 },
+      { "text": "living", "start": 143240, "dur": 420 },
+      { "text": "here", "start": 143660, "dur": 1040 }
+    ]
+  },
+  {
+    "id": 49,
+    "words": [
+      { "text": "It's", "start": 144700, "dur": 680 },
+      { "text": "golden,", "start": 145560, "dur": 480 },
+      { "text": "golden", "start": 146040, "dur": 580 },
+      { "text": "in", "start": 146620, "dur": 220 },
+      { "text": "the", "start": 146840, "dur": 420 },
+      { "text": "air", "start": 147260, "dur": 580 }
+    ]
+  },
+  {
+    "id": 50,
+    "words": [
+      { "text": "Hands", "start": 147840, "dur": 100 },
+      { "text": "up", "start": 147940, "dur": 240 },
+      { "text": "like", "start": 148180, "dur": 240 },
+      { "text": "we", "start": 148420, "dur": 320 },
+      { "text": "just", "start": 148740, "dur": 440 },
+      { "text": "don't", "start": 149180, "dur": 300 },
+      { "text": "care", "start": 149480, "dur": 500 }
+    ]
+  },
+  {
+    "id": 51,
+    "words": [
+      { "text": "Round", "start": 149980, "dur": 140 },
+      { "text": "and", "start": 150120, "dur": 360 },
+      { "text": "round,", "start": 150480, "dur": 260 },
+      { "text": "we're", "start": 150740, "dur": 440 },
+      { "text": "floating", "start": 151180, "dur": 440 },
+      { "text": "free", "start": 151620, "dur": 520 }
+    ]
+  },
+  {
+    "id": 52,
+    "words": [
+      { "text": "Right", "start": 152140, "dur": 220 },
+      { "text": "where", "start": 152360, "dur": 320 },
+      { "text": "we're", "start": 152680, "dur": 400 },
+      { "text": "supposed", "start": 153080, "dur": 540 },
+      { "text": "to", "start": 153620, "dur": 300 },
+      { "text": "be", "start": 153920, "dur": 800 }
+    ]
+  },
+  {
+    "id": 53,
+    "words": [
+      { "text": "Golden,", "start": 154760, "dur": 500 },
+      { "text": "golden —", "start": 155260, "dur": 260 },
+      { "text": "don't", "start": 155520, "dur": 220 },
+      { "text": "come", "start": 155740, "dur": 340 },
+      { "text": "down", "start": 156080, "dur": 460 }
+    ]
+  },
+  {
+    "id": 54,
+    "words": [
+      { "text": "Lost", "start": 156540, "dur": 340 },
+      { "text": "but", "start": 156880, "dur": 400 },
+      { "text": "baby", "start": 157280, "dur": 380 },
+      { "text": "we", "start": 157660, "dur": 280 },
+      { "text": "feel", "start": 157940, "dur": 460 },
+      { "text": "found", "start": 158400, "dur": 460 }
+    ]
+  },
+  {
+    "id": 55,
+    "words": [
+      { "text": "If", "start": 158860, "dur": 260 },
+      { "text": "this", "start": 159120, "dur": 360 },
+      { "text": "dream", "start": 159480, "dur": 220 },
+      { "text": "is", "start": 159700, "dur": 300 },
+      { "text": "playing", "start": 160000, "dur": 560 },
+      { "text": "fair", "start": 160560, "dur": 500 }
+    ]
+  },
+  {
+    "id": 56,
+    "words": [
+      { "text": "Keep", "start": 161060, "dur": 240 },
+      { "text": "me", "start": 161300, "dur": 540 },
+      { "text": "golden", "start": 161840, "dur": 400 },
+      { "text": "in", "start": 162240, "dur": 320 },
+      { "text": "the", "start": 162560, "dur": 540 },
+      { "text": "air", "start": 163100, "dur": 1000 }
+    ]
+  },
+  {
+    "id": 57,
+    "words": [
+      { "text": "Oh-oh-oh-oh-oh", "start": 164100, "dur": 3000 }
+    ]
+  },
+  {
+    "id": 58,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 167100, "dur": 10000 }
+    ]
+  }
+]
 
