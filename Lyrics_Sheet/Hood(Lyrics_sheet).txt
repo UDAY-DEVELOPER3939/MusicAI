@@ -1,1 +1,626 @@
-
+[
+  {
+    "id": 1,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 0, "dur": 14920 }
+    ]
+  },
+  {
+    "id": 2,
+    "words": [
+      { "text": "Down", "start": 14920, "dur": 480 },
+      { "text": "south", "start": 15400, "dur": 480 }
+    ]
+  },
+  {
+    "id": 3,
+    "words": [
+      { "text": "Hood", "start": 15880, "dur": 770 },
+      { "text": "baby", "start": 16650, "dur": 770 }
+    ]
+  },
+  {
+    "id": 4,
+    "words": [
+      { "text": "Make", "start": 17420, "dur": 350 },
+      { "text": "all", "start": 17770, "dur": 360 },
+      { "text": "the", "start": 18130, "dur": 360 },
+      { "text": "girls", "start": 18490, "dur": 360 },
+      { "text": "go", "start": 18850, "dur": 360 },
+      { "text": "crazy", "start": 19210, "dur": 360 }
+    ]
+  },
+  {
+    "id": 5,
+    "words": [
+      { "text": "Look", "start": 19570, "dur": 310 },
+      { "text": "up", "start": 19880, "dur": 320 },
+      { "text": "down", "start": 20200, "dur": 320 },
+      { "text": "to", "start": 20520, "dur": 320 },
+      { "text": "the", "start": 20840, "dur": 320 },
+      { "text": "side", "start": 21160, "dur": 320 }
+    ]
+  },
+  {
+    "id": 6,
+    "words": [
+      { "text": "Wok", "start": 21480, "dur": 310 },
+      { "text": "got", "start": 21790, "dur": 320 },
+      { "text": "me", "start": 22110, "dur": 320 },
+      { "text": "feeling", "start": 22430, "dur": 320 },
+      { "text": "lil'", "start": 22750, "dur": 320 },
+      { "text": "lazy", "start": 23070, "dur": 320 }
+    ]
+  },
+  {
+    "id": 7,
+    "words": [
+      { "text": "Shuffle", "start": 23390, "dur": 780 }
+    ]
+  },
+  {
+    "id": 8,
+    "words": [
+      { "text": "Shuffle", "start": 24170, "dur": 840 }
+    ]
+  },
+  {
+    "id": 9,
+    "words": [
+      { "text": "Flex", "start": 25010, "dur": 320 },
+      { "text": "one", "start": 25330, "dur": 320 },
+      { "text": "hand,", "start": 25650, "dur": 320 },
+      { "text": "show", "start": 25970, "dur": 320 },
+      { "text": "the", "start": 26290, "dur": 320 },
+      { "text": "muscle", "start": 26610, "dur": 330 }
+    ]
+  },
+  {
+    "id": 10,
+    "words": [
+      { "text": "Bring", "start": 26940, "dur": 210 },
+      { "text": "it", "start": 27150, "dur": 220 },
+      { "text": "'round", "start": 27370, "dur": 220 },
+      { "text": "town", "start": 27590, "dur": 220 }
+    ]
+  },
+  {
+    "id": 11,
+    "words": [
+      { "text": "Hit", "start": 27810, "dur": 240 },
+      { "text": "it", "start": 28050, "dur": 240 },
+      { "text": "out", "start": 28290, "dur": 240 },
+      { "text": "the", "start": 28530, "dur": 240 },
+      { "text": "park", "start": 28770, "dur": 250 }
+    ]
+  },
+  {
+    "id": 12,
+    "words": [
+      { "text": "Two", "start": 29020, "dur": 170 },
+      { "text": "hands", "start": 29190, "dur": 170 },
+      { "text": "on", "start": 29360, "dur": 170 },
+      { "text": "her", "start": 29530, "dur": 170 },
+      { "text": "mouth", "start": 29700, "dur": 170 },
+      { "text": "like", "start": 29870, "dur": 170 },
+      { "text": "a", "start": 30040, "dur": 170 },
+      { "text": "muzzle", "start": 30210, "dur": 180 }
+    ]
+  },
+  {
+    "id": 13,
+    "words": [
+      { "text": "Down", "start": 30390, "dur": 360 },
+      { "text": "south", "start": 30750, "dur": 360 }
+    ]
+  },
+  {
+    "id": 14,
+    "words": [
+      { "text": "Hood", "start": 31110, "dur": 720 },
+      { "text": "baby", "start": 31830, "dur": 730 }
+    ]
+  },
+  {
+    "id": 15,
+    "words": [
+      { "text": "Make", "start": 32560, "dur": 330 },
+      { "text": "all", "start": 32890, "dur": 330 },
+      { "text": "the", "start": 33220, "dur": 330 },
+      { "text": "girls", "start": 33550, "dur": 330 },
+      { "text": "go", "start": 33880, "dur": 330 },
+      { "text": "crazy", "start": 34210, "dur": 340 }
+    ]
+  },
+  {
+    "id": 16,
+    "words": [
+      { "text": "Look", "start": 34550, "dur": 310 },
+      { "text": "up", "start": 34860, "dur": 320 },
+      { "text": "down", "start": 35180, "dur": 320 },
+      { "text": "to", "start": 35500, "dur": 320 },
+      { "text": "the", "start": 35820, "dur": 320 },
+      { "text": "side", "start": 36140, "dur": 320 }
+    ]
+  },
+  {
+    "id": 17,
+    "words": [
+      { "text": "Wok", "start": 36460, "dur": 310 },
+      { "text": "got", "start": 36770, "dur": 310 },
+      { "text": "me", "start": 37080, "dur": 320 },
+      { "text": "feeling", "start": 37400, "dur": 320 },
+      { "text": "lil'", "start": 37720, "dur": 320 },
+      { "text": "lazy", "start": 38040, "dur": 320 }
+    ]
+  },
+  {
+    "id": 18,
+    "words": [
+      { "text": "Shuffle", "start": 38360, "dur": 1120 }
+    ]
+  },
+  {
+    "id": 19,
+    "words": [
+      { "text": "Shuffle", "start": 39480, "dur": 840 }
+    ]
+  },
+  {
+    "id": 20,
+    "words": [
+      { "text": "Flex", "start": 40320, "dur": 310 },
+      { "text": "one", "start": 40630, "dur": 310 },
+      { "text": "hand,", "start": 40940, "dur": 320 },
+      { "text": "show", "start": 41260, "dur": 320 },
+      { "text": "the", "start": 41580, "dur": 320 },
+      { "text": "muscle", "start": 41900, "dur": 320 }
+    ]
+  },
+  {
+    "id": 21,
+    "words": [
+      { "text": "Bring", "start": 42220, "dur": 250 },
+      { "text": "it", "start": 42470, "dur": 250 },
+      { "text": "'round", "start": 42720, "dur": 250 },
+      { "text": "town", "start": 42970, "dur": 260 }
+    ]
+  },
+  {
+    "id": 22,
+    "words": [
+      { "text": "Hit", "start": 43230, "dur": 190 },
+      { "text": "it", "start": 43420, "dur": 190 },
+      { "text": "out", "start": 43610, "dur": 190 },
+      { "text": "the", "start": 43800, "dur": 190 },
+      { "text": "park", "start": 43990, "dur": 190 }
+    ]
+  },
+  {
+    "id": 23,
+    "words": [
+      { "text": "Two", "start": 44180, "dur": 260 },
+      { "text": "hands", "start": 44440, "dur": 270 },
+      { "text": "on", "start": 44710, "dur": 270 },
+      { "text": "her", "start": 44980, "dur": 270 },
+      { "text": "mouth", "start": 45250, "dur": 270 },
+      { "text": "like", "start": 45520, "dur": 270 },
+      { "text": "a", "start": 45790, "dur": 270 },
+      { "text": "muzzle", "start": 46060, "dur": 270 }
+    ]
+  },
+  {
+    "id": 24,
+    "words": [
+      { "text": "Two", "start": 46330, "dur": 200 },
+      { "text": "hands", "start": 46530, "dur": 210 },
+      { "text": "on", "start": 46740, "dur": 210 },
+      { "text": "her", "start": 46950, "dur": 210 },
+      { "text": "mouth", "start": 47160, "dur": 210 },
+      { "text": "like", "start": 47370, "dur": 210 },
+      { "text": "a", "start": 47580, "dur": 210 },
+      { "text": "muzzle", "start": 47790, "dur": 210 }
+    ]
+  },
+  {
+    "id": 25,
+    "words": [
+      { "text": "Found", "start": 48000, "dur": 230 },
+      { "text": "all", "start": 48230, "dur": 230 },
+      { "text": "the", "start": 48460, "dur": 230 },
+      { "text": "pieces", "start": 48690, "dur": 230 },
+      { "text": "to", "start": 48920, "dur": 230 },
+      { "text": "the", "start": 49150, "dur": 230 },
+      { "text": "puzzle", "start": 49380, "dur": 240 }
+    ]
+  },
+  {
+    "id": 26,
+    "words": [
+      { "text": "Niggas", "start": 49620, "dur": 300 },
+      { "text": "think", "start": 49920, "dur": 300 },
+      { "text": "it's", "start": 50220, "dur": 300 },
+      { "text": "nothing", "start": 50520, "dur": 310 }
+    ]
+  },
+  {
+    "id": 27,
+    "words": [
+      { "text": "Niggas", "start": 50830, "dur": 210 },
+      { "text": "think", "start": 51040, "dur": 210 },
+      { "text": "it's", "start": 51250, "dur": 220 },
+      { "text": "easy", "start": 51470, "dur": 220 }
+    ]
+  },
+  {
+    "id": 28,
+    "words": [
+      { "text": "They", "start": 51690, "dur": 280 },
+      { "text": "don't", "start": 51970, "dur": 280 },
+      { "text": "really", "start": 52250, "dur": 280 },
+      { "text": "know", "start": 52530, "dur": 280 },
+      { "text": "about", "start": 52810, "dur": 280 },
+      { "text": "the", "start": 53090, "dur": 290 },
+      { "text": "hustle", "start": 53380, "dur": 290 }
+    ]
+  },
+  {
+    "id": 29,
+    "words": [
+      { "text": "Henny", "start": 53670, "dur": 590 },
+      { "text": "Dusse", "start": 54260, "dur": 590 },
+      { "text": "1942", "start": 54850, "dur": 600 }
+    ]
+  },
+  {
+    "id": 30,
+    "words": [
+      { "text": "Now", "start": 55450, "dur": 290 },
+      { "text": "she", "start": 55740, "dur": 290 },
+      { "text": "wanna", "start": 56030, "dur": 290 },
+      { "text": "do", "start": 56320, "dur": 290 },
+      { "text": "more", "start": 56610, "dur": 290 },
+      { "text": "than", "start": 56900, "dur": 290 },
+      { "text": "cuddle", "start": 57190, "dur": 300 }
+    ]
+  },
+  {
+    "id": 31,
+    "words": [
+      { "text": "She", "start": 57490, "dur": 200 },
+      { "text": "want", "start": 57690, "dur": 200 },
+      { "text": "me", "start": 57890, "dur": 200 },
+      { "text": "to", "start": 58090, "dur": 200 },
+      { "text": "pull", "start": 58290, "dur": 210 },
+      { "text": "up,", "start": 58500, "dur": 210 },
+      { "text": "just", "start": 58710, "dur": 210 },
+      { "text": "fuck", "start": 58920, "dur": 210 },
+      { "text": "her", "start": 59130, "dur": 210 }
+    ]
+  },
+  {
+    "id": 32,
+    "words": [
+      { "text": "Spend", "start": 59340, "dur": 190 },
+      { "text": "a", "start": 59530, "dur": 190 },
+      { "text": "few", "start": 59720, "dur": 190 },
+      { "text": "hundred", "start": 59910, "dur": 190 },
+      { "text": "on", "start": 60100, "dur": 190 },
+      { "text": "bundles", "start": 60290, "dur": 190 }
+    ]
+  },
+  {
+    "id": 33,
+    "words": [
+      { "text": "She", "start": 60480, "dur": 240 },
+      { "text": "gon'", "start": 60720, "dur": 240 },
+      { "text": "spend", "start": 60960, "dur": 240 },
+      { "text": "some", "start": 61200, "dur": 240 },
+      { "text": "time", "start": 61440, "dur": 240 },
+      { "text": "with", "start": 61680, "dur": 240 },
+      { "text": "me", "start": 61920, "dur": 240 },
+      { "text": "and", "start": 62160, "dur": 240 },
+      { "text": "some", "start": 62400, "dur": 240 },
+      { "text": "of", "start": 62640, "dur": 240 },
+      { "text": "the", "start": 62880, "dur": 240 },
+      { "text": "bros", "start": 63120, "dur": 250 }
+    ]
+  },
+  {
+    "id": 34,
+    "words": [
+      { "text": "Then", "start": 63370, "dur": 250 },
+      { "text": "we", "start": 63620, "dur": 250 },
+      { "text": "give", "start": 63870, "dur": 260 },
+      { "text": "her", "start": 64130, "dur": 260 },
+      { "text": "back", "start": 64390, "dur": 260 }
+    ]
+  },
+  {
+    "id": 35,
+    "words": [
+      { "text": "Sike", "start": 64650, "dur": 250 },
+      { "text": "we", "start": 64900, "dur": 250 },
+      { "text": "don't", "start": 65150, "dur": 250 },
+      { "text": "even", "start": 65400, "dur": 250 },
+      { "text": "give", "start": 65650, "dur": 260 },
+      { "text": "her", "start": 65910, "dur": 260 },
+      { "text": "back", "start": 66170, "dur": 260 }
+    ]
+  },
+  {
+    "id": 36,
+    "words": [
+      { "text": "We", "start": 66430, "dur": 280 },
+      { "text": "ain't", "start": 66710, "dur": 290 },
+      { "text": "even", "start": 67000, "dur": 290 },
+      { "text": "really", "start": 67290, "dur": 290 },
+      { "text": "getting", "start": 67580, "dur": 290 },
+      { "text": "into", "start": 67870, "dur": 290 },
+      { "text": "that", "start": 68160, "dur": 290 }
+    ]
+  },
+  {
+    "id": 37,
+    "words": [
+      { "text": "Tax", "start": 68450, "dur": 240 },
+      { "text": "a", "start": 68690, "dur": 240 },
+      { "text": "verse", "start": 68930, "dur": 240 },
+      { "text": "for", "start": 69170, "dur": 240 },
+      { "text": "a", "start": 69410, "dur": 240 },
+      { "text": "nigga", "start": 69650, "dur": 240 },
+      { "text": "then", "start": 69890, "dur": 240 },
+      { "text": "tell", "start": 70130, "dur": 240 },
+      { "text": "my", "start": 70370, "dur": 240 },
+      { "text": "label", "start": 70610, "dur": 240 },
+      { "text": "don't", "start": 70850, "dur": 240 },
+      { "text": "even", "start": 71090, "dur": 250 },
+      { "text": "go", "start": 71340, "dur": 250 },
+      { "text": "clear", "start": 71590, "dur": 250 },
+      { "text": "the", "start": 71840, "dur": 250 },
+      { "text": "track", "start": 72090, "dur": 250 }
+    ]
+  },
+  {
+    "id": 38,
+    "words": [
+      { "text": "I", "start": 72340, "dur": 200 },
+      { "text": "fuck", "start": 72540, "dur": 200 },
+      { "text": "her", "start": 72740, "dur": 200 },
+      { "text": "good,", "start": 72940, "dur": 200 },
+      { "text": "knock", "start": 73140, "dur": 210 },
+      { "text": "her", "start": 73350, "dur": 210 },
+      { "text": "out", "start": 73560, "dur": 210 },
+      { "text": "of", "start": 73770, "dur": 210 },
+      { "text": "the", "start": 73980, "dur": 210 },
+      { "text": "park", "start": 74190, "dur": 210 }
+    ]
+  },
+  {
+    "id": 39,
+    "words": [
+      { "text": "Now", "start": 74400, "dur": 160 },
+      { "text": "when", "start": 74560, "dur": 160 },
+      { "text": "she", "start": 74720, "dur": 160 },
+      { "text": "come,", "start": 74880, "dur": 160 },
+      { "text": "she", "start": 75040, "dur": 160 },
+      { "text": "gon'", "start": 75200, "dur": 160 },
+      { "text": "feel", "start": 75360, "dur": 160 },
+      { "text": "the", "start": 75520, "dur": 170 },
+      { "text": "bat", "start": 75690, "dur": 170 }
+    ]
+  },
+  {
+    "id": 40,
+    "words": [
+      { "text": "Down", "start": 75860, "dur": 550 },
+      { "text": "south", "start": 76410, "dur": 560 }
+    ]
+  },
+  {
+    "id": 41,
+    "words": [
+      { "text": "Hood", "start": 76970, "dur": 670 },
+      { "text": "baby", "start": 77640, "dur": 670 }
+    ]
+  },
+  {
+    "id": 42,
+    "words": [
+      { "text": "Make", "start": 78310, "dur": 340 },
+      { "text": "all", "start": 78650, "dur": 340 },
+      { "text": "the", "start": 78990, "dur": 340 },
+      { "text": "girls", "start": 79330, "dur": 350 },
+      { "text": "go", "start": 79680, "dur": 350 },
+      { "text": "crazy", "start": 80030, "dur": 350 }
+    ]
+  },
+  {
+    "id": 43,
+    "words": [
+      { "text": "Look", "start": 80380, "dur": 310 },
+      { "text": "up", "start": 80690, "dur": 310 },
+      { "text": "down", "start": 81000, "dur": 310 },
+      { "text": "to", "start": 81310, "dur": 310 },
+      { "text": "the", "start": 81620, "dur": 310 },
+      { "text": "side", "start": 81930, "dur": 320 }
+    ]
+  },
+  {
+    "id": 44,
+    "words": [
+      { "text": "Wok", "start": 82250, "dur": 310 },
+      { "text": "got", "start": 82560, "dur": 310 },
+      { "text": "me", "start": 82870, "dur": 310 },
+      { "text": "feeling", "start": 83180, "dur": 310 },
+      { "text": "lil'", "start": 83490, "dur": 310 },
+      { "text": "lazy", "start": 83800, "dur": 310 }
+    ]
+  },
+  {
+    "id": 45,
+    "words": [
+      { "text": "Shuffle", "start": 84110, "dur": 1030 }
+    ]
+  },
+  {
+    "id": 46,
+    "words": [
+      { "text": "Shuffle", "start": 85140, "dur": 880 }
+    ]
+  },
+  {
+    "id": 47,
+    "words": [
+      { "text": "Flex", "start": 86020, "dur": 310 },
+      { "text": "one", "start": 86330, "dur": 310 },
+      { "text": "hand,", "start": 86640, "dur": 310 },
+      { "text": "show", "start": 86950, "dur": 310 },
+      { "text": "the", "start": 87260, "dur": 310 },
+      { "text": "muscle", "start": 87570, "dur": 310 }
+    ]
+  },
+  {
+    "id": 48,
+    "words": [
+      { "text": "Bring", "start": 87880, "dur": 250 },
+      { "text": "it", "start": 88130, "dur": 250 },
+      { "text": "'round", "start": 88380, "dur": 250 },
+      { "text": "town", "start": 88630, "dur": 260 }
+    ]
+  },
+  {
+    "id": 49,
+    "words": [
+      { "text": "Hit", "start": 88890, "dur": 200 },
+      { "text": "it", "start": 89090, "dur": 200 },
+      { "text": "out", "start": 89290, "dur": 200 },
+      { "text": "the", "start": 89490, "dur": 200 },
+      { "text": "park", "start": 89690, "dur": 210 }
+    ]
+  },
+  {
+    "id": 50,
+    "words": [
+      { "text": "Two", "start": 89900, "dur": 180 },
+      { "text": "hands", "start": 90080, "dur": 180 },
+      { "text": "on", "start": 90260, "dur": 180 },
+      { "text": "her", "start": 90440, "dur": 180 },
+      { "text": "mouth", "start": 90620, "dur": 190 },
+      { "text": "like", "start": 90810, "dur": 190 },
+      { "text": "a", "start": 91000, "dur": 190 },
+      { "text": "muzzle", "start": 91190, "dur": 200 }
+    ]
+  },
+  {
+    "id": 51,
+    "words": [
+      { "text": "Down", "start": 91390, "dur": 370 },
+      { "text": "south", "start": 91760, "dur": 370 }
+    ]
+  },
+  {
+    "id": 52,
+    "words": [
+      { "text": "Hood", "start": 92130, "dur": 600 },
+      { "text": "baby", "start": 92730, "dur": 600 }
+    ]
+  },
+  {
+    "id": 53,
+    "words": [
+      { "text": "Make", "start": 93330, "dur": 350 },
+      { "text": "all", "start": 93680, "dur": 360 },
+      { "text": "the", "start": 94040, "dur": 360 },
+      { "text": "girls", "start": 94400, "dur": 360 },
+      { "text": "go", "start": 94760, "dur": 360 },
+      { "text": "crazy", "start": 95120, "dur": 360 }
+    ]
+  },
+  {
+    "id": 54,
+    "words": [
+      { "text": "Look", "start": 95480, "dur": 330 },
+      { "text": "up", "start": 95810, "dur": 330 },
+      { "text": "down", "start": 96140, "dur": 330 },
+      { "text": "to", "start": 96470, "dur": 330 },
+      { "text": "the", "start": 96800, "dur": 330 },
+      { "text": "side", "start": 97130, "dur": 330 }
+    ]
+  },
+  {
+    "id": 55,
+    "words": [
+      { "text": "Wok", "start": 97460, "dur": 290 },
+      { "text": "got", "start": 97750, "dur": 300 },
+      { "text": "me", "start": 98050, "dur": 300 },
+      { "text": "feeling", "start": 98350, "dur": 300 },
+      { "text": "lil'", "start": 98650, "dur": 300 },
+      { "text": "lazy", "start": 98950, "dur": 300 }
+    ]
+  },
+  {
+    "id": 56,
+    "words": [
+      { "text": "Shuffle", "start": 99250, "dur": 950 }
+    ]
+  },
+  {
+    "id": 57,
+    "words": [
+      { "text": "Shuffle", "start": 100200, "dur": 990 }
+    ]
+  },
+  {
+    "id": 58,
+    "words": [
+      { "text": "Flex", "start": 101190, "dur": 300 },
+      { "text": "one", "start": 101490, "dur": 300 },
+      { "text": "hand,", "start": 101790, "dur": 310 },
+      { "text": "show", "start": 102100, "dur": 310 },
+      { "text": "the", "start": 102410, "dur": 310 },
+      { "text": "muscle", "start": 102720, "dur": 310 }
+    ]
+  },
+  {
+    "id": 59,
+    "words": [
+      { "text": "Bring", "start": 103030, "dur": 260 },
+      { "text": "it", "start": 103290, "dur": 260 },
+      { "text": "'round", "start": 103550, "dur": 260 },
+      { "text": "town", "start": 103810, "dur": 270 }
+    ]
+  },
+  {
+    "id": 60,
+    "words": [
+      { "text": "Hit", "start": 104080, "dur": 170 },
+      { "text": "it", "start": 104250, "dur": 170 },
+      { "text": "out", "start": 104420, "dur": 170 },
+      { "text": "the", "start": 104590, "dur": 180 },
+      { "text": "park", "start": 104770, "dur": 180 }
+    ]
+  },
+  {
+    "id": 61,
+    "words": [
+      { "text": "Two", "start": 104950, "dur": 180 },
+      { "text": "hands", "start": 105130, "dur": 180 },
+      { "text": "on", "start": 105310, "dur": 180 },
+      { "text": "her", "start": 105490, "dur": 180 },
+      { "text": "mouth", "start": 105670, "dur": 180 },
+      { "text": "like", "start": 105850, "dur": 190 },
+      { "text": "a", "start": 106040, "dur": 190 },
+      { "text": "muzzle", "start": 106230, "dur": 190 }
+    ]
+  },
+  {
+    "id": 62,
+    "words": [
+      { "text": "(Like", "start": 106420, "dur": 140 },
+      { "text": "a", "start": 106560, "dur": 140 },
+      { "text": "muzzle!)", "start": 106700, "dur": 140 }
+    ]
+  }
+]
