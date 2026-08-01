@@ -1,1 +1,500 @@
-
+[
+  {
+    "id": 1,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 0, "dur": 12060 }
+    ]
+  },
+  {
+    "id": 2,
+    "words": [
+      { "text": "I've", "start": 12060, "dur": 640 },
+      { "text": "been", "start": 12700, "dur": 120 },
+      { "text": "crawling", "start": 12820, "dur": 300 },
+      { "text": "through", "start": 13120, "dur": 340 },
+      { "text": "the", "start": 13460, "dur": 180 },
+      { "text": "shadows,", "start": 13640, "dur": 860 },
+      { "text": "you", "start": 14500, "dur": 1260 },
+      { "text": "don't", "start": 15760, "dur": 320 },
+      { "text": "dare", "start": 16080, "dur": 260 },
+      { "text": "to", "start": 16340, "dur": 480 },
+      { "text": "see", "start": 16820, "dur": 1480 }
+    ]
+  },
+  {
+    "id": 3,
+    "words": [
+      { "text": "Every", "start": 18300, "dur": 640 },
+      { "text": "whisper", "start": 18940, "dur": 640 },
+      { "text": "in", "start": 19580, "dur": 320 },
+      { "text": "the", "start": 19900, "dur": 100 },
+      { "text": "dark", "start": 20000, "dur": 400 },
+      { "text": "keeps", "start": 20400, "dur": 360 },
+      { "text": "pulling", "start": 20760, "dur": 400 },
+      { "text": "out", "start": 21160, "dur": 340 },
+      { "text": "the", "start": 21500, "dur": 120 },
+      { "text": "worst", "start": 21620, "dur": 400 },
+      { "text": "in", "start": 22020, "dur": 280 },
+      { "text": "me", "start": 22300, "dur": 2200 }
+    ]
+  },
+  {
+    "id": 4,
+    "words": [
+      { "text": "I", "start": 24500, "dur": 640 },
+      { "text": "tried", "start": 25140, "dur": 180 },
+      { "text": "to", "start": 25320, "dur": 340 },
+      { "text": "keep", "start": 25660, "dur": 240 },
+      { "text": "my", "start": 25900, "dur": 360 },
+      { "text": "foot", "start": 26260, "dur": 460 },
+      { "text": "in", "start": 26720, "dur": 460 },
+      { "text": "when", "start": 27180, "dur": 640 },
+      { "text": "the", "start": 27820, "dur": 220 },
+      { "text": "ground", "start": 28040, "dur": 280 },
+      { "text": "began", "start": 28320, "dur": 260 },
+      { "text": "to", "start": 28580, "dur": 280 },
+      { "text": "slide", "start": 28860, "dur": 1940 }
+    ]
+  },
+  {
+    "id": 5,
+    "words": [
+      { "text": "But", "start": 30800, "dur": 780 },
+      { "text": "every", "start": 31580, "dur": 380 },
+      { "text": "truth", "start": 31960, "dur": 300 },
+      { "text": "I", "start": 32260, "dur": 240 },
+      { "text": "held", "start": 32500, "dur": 320 },
+      { "text": "on", "start": 32820, "dur": 380 },
+      { "text": "to", "start": 33200, "dur": 220 },
+      { "text": "just", "start": 33420, "dur": 200 },
+      { "text": "crumbled", "start": 33620, "dur": 600 },
+      { "text": "from", "start": 34220, "dur": 280 },
+      { "text": "inside", "start": 34500, "dur": 2640 }
+    ]
+  },
+  {
+    "id": 6,
+    "words": [
+      { "text": "And", "start": 37140, "dur": 780 },
+      { "text": "I", "start": 37920, "dur": 320 },
+      { "text": "swear", "start": 38240, "dur": 440 },
+      { "text": "I've", "start": 38680, "dur": 540 },
+      { "text": "carried", "start": 39220, "dur": 380 },
+      { "text": "weight", "start": 39600, "dur": 660 },
+      { "text": "that", "start": 40260, "dur": 440 },
+      { "text": "never", "start": 40700, "dur": 420 },
+      { "text": "should've", "start": 41120, "dur": 1160 },
+      { "text": "been", "start": 42280, "dur": 420 },
+      { "text": "mine", "start": 42700, "dur": 460 }
+    ]
+  },
+  {
+    "id": 7,
+    "words": [
+      { "text": "But", "start": 43160, "dur": 1140 },
+      { "text": "you", "start": 44300, "dur": 280 },
+      { "text": "don't", "start": 44580, "dur": 660 },
+      { "text": "get", "start": 45240, "dur": 220 },
+      { "text": "to", "start": 45460, "dur": 200 },
+      { "text": "break", "start": 45660, "dur": 240 },
+      { "text": "me", "start": 45900, "dur": 380 },
+      { "text": "twice,", "start": 46280, "dur": 780 },
+      { "text": "I'm", "start": 47060, "dur": 920 },
+      { "text": "drawing", "start": 47980, "dur": 380 },
+      { "text": "a", "start": 48360, "dur": 720 },
+      { "text": "line", "start": 49080, "dur": 1190 }
+    ]
+  },
+  {
+    "id": 8,
+    "words": [
+      { "text": "Through", "start": 50270, "dur": 390 },
+      { "text": "the", "start": 50660, "dur": 340 },
+      { "text": "shadows,", "start": 51000, "dur": 1000 },
+      { "text": "through", "start": 52000, "dur": 240 },
+      { "text": "the", "start": 52240, "dur": 380 },
+      { "text": "noise,", "start": 52620, "dur": 1020 },
+      { "text": "I'm", "start": 53640, "dur": 320 },
+      { "text": "still", "start": 53960, "dur": 340 },
+      { "text": "standing", "start": 54300, "dur": 700 },
+      { "text": "on", "start": 55000, "dur": 320 },
+      { "text": "my", "start": 55320, "dur": 340 },
+      { "text": "own", "start": 55660, "dur": 1100 }
+    ]
+  },
+  {
+    "id": 9,
+    "words": [
+      { "text": "Every", "start": 56760, "dur": 400 },
+      { "text": "star", "start": 57160, "dur": 700 },
+      { "text": "became", "start": 57860, "dur": 580 },
+      { "text": "a", "start": 58440, "dur": 600 },
+      { "text": "wound", "start": 59040, "dur": 140 }
+    ]
+  },
+  {
+    "id": 10,
+    "words": [
+      { "text": "The", "start": 59180, "dur": 320 },
+      { "text": "reason", "start": 59500, "dur": 300 },
+      { "text": "I", "start": 59800, "dur": 560 },
+      { "text": "won't", "start": 60360, "dur": 480 },
+      { "text": "turn", "start": 60840, "dur": 260 },
+      { "text": "back,", "start": 61100, "dur": 540 },
+      { "text": "I", "start": 61640, "dur": 240 },
+      { "text": "won't", "start": 61880, "dur": 380 },
+      { "text": "fall", "start": 62260, "dur": 340 }
+    ]
+  },
+  {
+    "id": 11,
+    "words": [
+      { "text": "If", "start": 62600, "dur": 820 },
+      { "text": "the", "start": 63420, "dur": 220 },
+      { "text": "world", "start": 63640, "dur": 620 },
+      { "text": "wants", "start": 64260, "dur": 580 },
+      { "text": "me", "start": 64840, "dur": 240 },
+      { "text": "to", "start": 65080, "dur": 200 },
+      { "text": "fall,", "start": 65280, "dur": 900 },
+      { "text": "let", "start": 66180, "dur": 460 },
+      { "text": "it", "start": 66640, "dur": 320 },
+      { "text": "try,", "start": 66960, "dur": 900 },
+      { "text": "let", "start": 67860, "dur": 380 },
+      { "text": "it", "start": 68240, "dur": 340 },
+      { "text": "try", "start": 68580, "dur": 340 }
+    ]
+  },
+  {
+    "id": 12,
+    "words": [
+      { "text": "I'm", "start": 68920, "dur": 680 },
+      { "text": "walking", "start": 69600, "dur": 580 },
+      { "text": "forward", "start": 70180, "dur": 780 },
+      { "text": "through", "start": 70960, "dur": 460 },
+      { "text": "the", "start": 71420, "dur": 480 },
+      { "text": "shadows,", "start": 71900, "dur": 940 },
+      { "text": "not", "start": 72840, "dur": 200 },
+      { "text": "another", "start": 73040, "dur": 720 },
+      { "text": "step", "start": 73760, "dur": 840 },
+      { "text": "behind", "start": 74600, "dur": 820 }
+    ]
+  },
+  {
+    "id": 13,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 75420, "dur": 6900 }
+    ]
+  },
+  {
+    "id": 14,
+    "words": [
+      { "text": "I've", "start": 82320, "dur": 800 },
+      { "text": "been", "start": 83120, "dur": 120 },
+      { "text": "bleeding", "start": 83240, "dur": 380 },
+      { "text": "out", "start": 83620, "dur": 280 },
+      { "text": "the", "start": 83900, "dur": 100 },
+      { "text": "moments", "start": 84000, "dur": 620 },
+      { "text": "that", "start": 84620, "dur": 840 },
+      { "text": "were", "start": 85460, "dur": 140 },
+      { "text": "poison", "start": 85600, "dur": 420 },
+      { "text": "at", "start": 86020, "dur": 260 },
+      { "text": "the", "start": 86280, "dur": 140 },
+      { "text": "start", "start": 86420, "dur": 2760 }
+    ]
+  },
+  {
+    "id": 15,
+    "words": [
+      { "text": "Trying", "start": 89180, "dur": 380 },
+      { "text": "not", "start": 89560, "dur": 340 },
+      { "text": "to", "start": 89900, "dur": 140 },
+      { "text": "lose", "start": 90040, "dur": 300 },
+      { "text": "the", "start": 90340, "dur": 100 },
+      { "text": "last", "start": 90440, "dur": 360 },
+      { "text": "pieces", "start": 90800, "dur": 380 },
+      { "text": "left", "start": 91180, "dur": 320 },
+      { "text": "inside", "start": 91500, "dur": 540 },
+      { "text": "my", "start": 92040, "dur": 380 },
+      { "text": "heart", "start": 92420, "dur": 2160 }
+    ]
+  },
+  {
+    "id": 16,
+    "words": [
+      { "text": "You", "start": 94580, "dur": 800 },
+      { "text": "said", "start": 95380, "dur": 480 },
+      { "text": "the", "start": 95860, "dur": 200 },
+      { "text": "darkness", "start": 96060, "dur": 480 },
+      { "text": "made", "start": 96540, "dur": 380 },
+      { "text": "me", "start": 96920, "dur": 340 },
+      { "text": "strong,", "start": 97260, "dur": 700 },
+      { "text": "yeah,", "start": 97960, "dur": 420 },
+      { "text": "maybe", "start": 98380, "dur": 380 },
+      { "text": "that's", "start": 98760, "dur": 460 },
+      { "text": "true", "start": 99220, "dur": 2340 }
+    ]
+  },
+  {
+    "id": 17,
+    "words": [
+      { "text": "But", "start": 101560, "dur": 800 },
+      { "text": "strength", "start": 102360, "dur": 440 },
+      { "text": "don't", "start": 102800, "dur": 420 },
+      { "text": "mean", "start": 103220, "dur": 300 },
+      { "text": "forgiveness,", "start": 103520, "dur": 1160 },
+      { "text": "especially", "start": 104680, "dur": 380 },
+      { "text": "not", "start": 105060, "dur": 600 },
+      { "text": "for", "start": 105660, "dur": 340 },
+      { "text": "you", "start": 106000, "dur": 1440 }
+    ]
+  },
+  {
+    "id": 18,
+    "words": [
+      { "text": "I", "start": 107440, "dur": 800 },
+      { "text": "won't", "start": 108240, "dur": 580 },
+      { "text": "carry", "start": 108820, "dur": 340 },
+      { "text": "what", "start": 109160, "dur": 680 },
+      { "text": "you", "start": 109840, "dur": 380 },
+      { "text": "gave", "start": 110220, "dur": 460 },
+      { "text": "me,", "start": 110680, "dur": 500 },
+      { "text": "I'm", "start": 111180, "dur": 400 },
+      { "text": "done", "start": 111580, "dur": 320 },
+      { "text": "holding", "start": 111900, "dur": 660 },
+      { "text": "your", "start": 112560, "dur": 500 },
+      { "text": "mistakes", "start": 113060, "dur": 720 }
+    ]
+  },
+  {
+    "id": 19,
+    "words": [
+      { "text": "I've", "start": 113780, "dur": 680 },
+      { "text": "learned", "start": 114460, "dur": 360 },
+      { "text": "the", "start": 114820, "dur": 280 },
+      { "text": "fire", "start": 115100, "dur": 680 },
+      { "text": "in", "start": 115780, "dur": 640 },
+      { "text": "my", "start": 116420, "dur": 300 },
+      { "text": "chest", "start": 116720, "dur": 440 },
+      { "text": "burns", "start": 117160, "dur": 920 },
+      { "text": "bright", "start": 118080, "dur": 680 },
+      { "text": "away", "start": 118760, "dur": 420 }
+    ]
+  },
+  {
+    "id": 20,
+    "words": [
+      { "text": "When", "start": 119180, "dur": 380 },
+      { "text": "it", "start": 119560, "dur": 100 },
+      { "text": "breaks", "start": 119660, "dur": 920 }
+    ]
+  },
+  {
+    "id": 21,
+    "words": [
+      { "text": "Through", "start": 120580, "dur": 480 },
+      { "text": "the", "start": 121060, "dur": 380 },
+      { "text": "shadows,", "start": 121440, "dur": 1000 },
+      { "text": "through", "start": 122440, "dur": 180 },
+      { "text": "the", "start": 122620, "dur": 480 },
+      { "text": "noise,", "start": 123100, "dur": 980 },
+      { "text": "I'm", "start": 124080, "dur": 260 },
+      { "text": "still", "start": 124340, "dur": 340 },
+      { "text": "standing", "start": 124680, "dur": 620 },
+      { "text": "on", "start": 125300, "dur": 480 },
+      { "text": "my", "start": 125780, "dur": 340 },
+      { "text": "own", "start": 126120, "dur": 1020 }
+    ]
+  },
+  {
+    "id": 22,
+    "words": [
+      { "text": "Every", "start": 127140, "dur": 480 },
+      { "text": "star", "start": 127620, "dur": 640 },
+      { "text": "became", "start": 128260, "dur": 580 },
+      { "text": "a", "start": 128840, "dur": 620 },
+      { "text": "reason,", "start": 129460, "dur": 900 },
+      { "text": "I", "start": 130360, "dur": 320 },
+      { "text": "won't", "start": 130680, "dur": 620 },
+      { "text": "turn", "start": 131300, "dur": 240 },
+      { "text": "back,", "start": 131540, "dur": 500 },
+      { "text": "I", "start": 132040, "dur": 280 },
+      { "text": "won't", "start": 132320, "dur": 340 },
+      { "text": "fall", "start": 132660, "dur": 240 }
+    ]
+  },
+  {
+    "id": 23,
+    "words": [
+      { "text": "If", "start": 132900, "dur": 940 },
+      { "text": "the", "start": 133840, "dur": 180 },
+      { "text": "world", "start": 134020, "dur": 640 },
+      { "text": "wants", "start": 134660, "dur": 560 },
+      { "text": "me", "start": 135220, "dur": 240 },
+      { "text": "to", "start": 135460, "dur": 240 },
+      { "text": "fall,", "start": 135700, "dur": 880 },
+      { "text": "let", "start": 136580, "dur": 500 },
+      { "text": "it", "start": 137080, "dur": 280 },
+      { "text": "try,", "start": 137360, "dur": 860 },
+      { "text": "let", "start": 138220, "dur": 500 },
+      { "text": "it", "start": 138720, "dur": 260 },
+      { "text": "try", "start": 138980, "dur": 340 }
+    ]
+  },
+  {
+    "id": 24,
+    "words": [
+      { "text": "I'm", "start": 139320, "dur": 700 },
+      { "text": "walking", "start": 140020, "dur": 500 },
+      { "text": "forward", "start": 140520, "dur": 720 },
+      { "text": "through", "start": 141240, "dur": 600 },
+      { "text": "the", "start": 141840, "dur": 440 },
+      { "text": "shadows,", "start": 142280, "dur": 1000 },
+      { "text": "not", "start": 143280, "dur": 200 },
+      { "text": "another", "start": 143480, "dur": 720 },
+      { "text": "step", "start": 144200, "dur": 820 },
+      { "text": "behind", "start": 145020, "dur": 3660 }
+    ]
+  },
+  {
+    "id": 25,
+    "words": [
+      { "text": "I'm", "start": 149180, "dur": 200 },
+      { "text": "running", "start": 149380, "dur": 180 },
+      { "text": "for", "start": 149560, "dur": 180 },
+      { "text": "a", "start": 149740, "dur": 500 },
+      { "text": "truth", "start": 150240, "dur": 500 },
+      { "text": "that", "start": 150740, "dur": 480 },
+      { "text": "you", "start": 151220, "dur": 220 },
+      { "text": "could", "start": 151440, "dur": 600 },
+      { "text": "never", "start": 152040, "dur": 400 },
+      { "text": "face", "start": 152440, "dur": 1340 }
+    ]
+  },
+  {
+    "id": 26,
+    "words": [
+      { "text": "I'm", "start": 153780, "dur": 980 },
+      { "text": "done", "start": 154760, "dur": 320 },
+      { "text": "running", "start": 155080, "dur": 740 },
+      { "text": "from", "start": 155820, "dur": 420 },
+      { "text": "the", "start": 156240, "dur": 440 },
+      { "text": "ghosts", "start": 156680, "dur": 740 },
+      { "text": "that", "start": 157420, "dur": 240 },
+      { "text": "you", "start": 157660, "dur": 140 },
+      { "text": "refuse", "start": 157800, "dur": 740 },
+      { "text": "to", "start": 158540, "dur": 640 },
+      { "text": "chase", "start": 159180, "dur": 1060 }
+    ]
+  },
+  {
+    "id": 27,
+    "words": [
+      { "text": "If", "start": 160240, "dur": 860 },
+      { "text": "redemption", "start": 161100, "dur": 760 },
+      { "text": "ever", "start": 161860, "dur": 960 },
+      { "text": "calls,", "start": 162820, "dur": 1160 },
+      { "text": "it", "start": 163980, "dur": 220 },
+      { "text": "won't", "start": 164200, "dur": 480 },
+      { "text": "be", "start": 164680, "dur": 160 },
+      { "text": "calling", "start": 164840, "dur": 440 },
+      { "text": "for", "start": 165280, "dur": 380 },
+      { "text": "you", "start": 165660, "dur": 460 }
+    ]
+  },
+  {
+    "id": 28,
+    "words": [
+      { "text": "I'm", "start": 166120, "dur": 1440 },
+      { "text": "rebuilding", "start": 167560, "dur": 720 },
+      { "text": "from", "start": 168280, "dur": 800 },
+      { "text": "the", "start": 169080, "dur": 440 },
+      { "text": "ashes", "start": 169520, "dur": 680 },
+      { "text": "with", "start": 170200, "dur": 720 },
+      { "text": "a", "start": 170920, "dur": 240 },
+      { "text": "fire", "start": 171160, "dur": 640 },
+      { "text": "that's", "start": 171800, "dur": 480 },
+      { "text": "brand", "start": 172280, "dur": 260 },
+      { "text": "new", "start": 172540, "dur": 1940 }
+    ]
+  },
+  {
+    "id": 29,
+    "words": [
+      { "text": "Through", "start": 174480, "dur": 960 },
+      { "text": "the", "start": 175440, "dur": 380 },
+      { "text": "shadows,", "start": 175820, "dur": 960 },
+      { "text": "through", "start": 176780, "dur": 240 },
+      { "text": "the", "start": 177020, "dur": 480 },
+      { "text": "pain", "start": 177500, "dur": 480 }
+    ]
+  },
+  {
+    "id": 30,
+    "words": [
+      { "text": "Reclaiming", "start": 177980, "dur": 2300 },
+      { "text": "every", "start": 180280, "dur": 880 },
+      { "text": "part,", "start": 181160, "dur": 900 },
+      { "text": "every", "start": 182060, "dur": 900 },
+      { "text": "fracture", "start": 182960, "dur": 520 },
+      { "text": "in", "start": 183480, "dur": 360 },
+      { "text": "my", "start": 183840, "dur": 640 },
+      { "text": "voice", "start": 184480, "dur": 420 }
+    ]
+  },
+  {
+    "id": 31,
+    "words": [
+      { "text": "It's", "start": 184900, "dur": 320 },
+      { "text": "just", "start": 185220, "dur": 200 },
+      { "text": "the", "start": 185420, "dur": 780 },
+      { "text": "anthem", "start": 186200, "dur": 340 },
+      { "text": "of", "start": 186540, "dur": 360 },
+      { "text": "my", "start": 186900, "dur": 660 },
+      { "text": "heart", "start": 187560, "dur": 320 }
+    ]
+  },
+  {
+    "id": 32,
+    "words": [
+      { "text": "If", "start": 187880, "dur": 420 },
+      { "text": "the", "start": 188300, "dur": 160 },
+      { "text": "world", "start": 188460, "dur": 400 },
+      { "text": "wants", "start": 188860, "dur": 780 },
+      { "text": "me", "start": 189640, "dur": 180 },
+      { "text": "to", "start": 189820, "dur": 260 },
+      { "text": "fall,", "start": 190080, "dur": 960 },
+      { "text": "let", "start": 191040, "dur": 440 },
+      { "text": "it", "start": 191480, "dur": 300 },
+      { "text": "try,", "start": 191780, "dur": 880 },
+      { "text": "let", "start": 192660, "dur": 400 },
+      { "text": "it", "start": 193060, "dur": 320 },
+      { "text": "try", "start": 193380, "dur": 360 }
+    ]
+  },
+  {
+    "id": 33,
+    "words": [
+      { "text": "I'm", "start": 193740, "dur": 660 },
+      { "text": "rising", "start": 194400, "dur": 620 },
+      { "text": "higher", "start": 195020, "dur": 560 },
+      { "text": "through", "start": 195580, "dur": 680 },
+      { "text": "the", "start": 196260, "dur": 460 },
+      { "text": "shadows,", "start": 196720, "dur": 940 },
+      { "text": "watch", "start": 197660, "dur": 320 },
+      { "text": "me", "start": 197980, "dur": 260 },
+      { "text": "cut", "start": 198240, "dur": 420 },
+      { "text": "through", "start": 198660, "dur": 540 },
+      { "text": "the", "start": 199200, "dur": 460 },
+      { "text": "sky", "start": 199660, "dur": 3400 }
+    ]
+  },
+  {
+    "id": 34,
+    "isTune": true,
+    "words": [
+      { "text": "♪  ♫  ♪", "start": 203300, "dur": 11520 }
+    ]
+  }
+]
