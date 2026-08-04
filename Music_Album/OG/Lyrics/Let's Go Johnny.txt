@@ -1,0 +1,432 @@
+[
+  {
+    "id": 1,
+    "words": [
+      {
+        "text": "Let's",
+        "start": 0,
+        "dur": 1646
+      },
+      {
+        "text": "go",
+        "start": 1656,
+        "dur": 658
+      },
+      {
+        "text": "johnny",
+        "start": 2314,
+        "dur": 1976
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "words": [
+      {
+        "text": "Let's",
+        "start": 4290,
+        "dur": 1631
+      },
+      {
+        "text": "go",
+        "start": 5921,
+        "dur": 652
+      },
+      {
+        "text": "johnny",
+        "start": 6573,
+        "dur": 1957
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "words": [
+      {
+        "text": "Let's",
+        "start": 8530,
+        "dur": 1650
+      },
+      {
+        "text": "go",
+        "start": 10180,
+        "dur": 660
+      },
+      {
+        "text": "johnny",
+        "start": 10840,
+        "dur": 1980
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "words": [
+      {
+        "text": "Let's",
+        "start": 12820,
+        "dur": 2288
+      },
+      {
+        "text": "go",
+        "start": 15108,
+        "dur": 915
+      },
+      {
+        "text": "johnny",
+        "start": 16023,
+        "dur": 2747
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "words": [
+      {
+        "text": "Look",
+        "start": 18770,
+        "dur": 924
+      },
+      {
+        "text": "at",
+        "start": 19694,
+        "dur": 462
+      },
+      {
+        "text": "my",
+        "start": 20156,
+        "dur": 462
+      },
+      {
+        "text": "face",
+        "start": 20618,
+        "dur": 924
+      },
+      {
+        "text": "in",
+        "start": 21542,
+        "dur": 462
+      },
+      {
+        "text": "a",
+        "start": 22004,
+        "dur": 231
+      },
+      {
+        "text": "mirror",
+        "start": 22235,
+        "dur": 1385
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "words": [
+      {
+        "text": "And",
+        "start": 23620,
+        "dur": 668
+      },
+      {
+        "text": "I",
+        "start": 24288,
+        "dur": 223
+      },
+      {
+        "text": "wonder",
+        "start": 24511,
+        "dur": 1337
+      },
+      {
+        "text": "what",
+        "start": 25848,
+        "dur": 891
+      },
+      {
+        "text": "I",
+        "start": 26739,
+        "dur": 223
+      },
+      {
+        "text": "see",
+        "start": 26962,
+        "dur": 668
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "words": [
+      {
+        "text": "I'm",
+        "start": 27630,
+        "dur": 589
+      },
+      {
+        "text": "just",
+        "start": 28219,
+        "dur": 786
+      },
+      {
+        "text": "a",
+        "start": 29005,
+        "dur": 196
+      },
+      {
+        "text": "travelling",
+        "start": 29201,
+        "dur": 1964
+      },
+      {
+        "text": "soldier",
+        "start": 31165,
+        "dur": 1375
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "words": [
+      {
+        "text": "And",
+        "start": 32540,
+        "dur": 517
+      },
+      {
+        "text": "I'll",
+        "start": 33057,
+        "dur": 689
+      },
+      {
+        "text": "be",
+        "start": 33746,
+        "dur": 344
+      },
+      {
+        "text": "all",
+        "start": 34090,
+        "dur": 517
+      },
+      {
+        "text": "I",
+        "start": 34607,
+        "dur": 172
+      },
+      {
+        "text": "can",
+        "start": 34779,
+        "dur": 517
+      },
+      {
+        "text": "be",
+        "start": 35296,
+        "dur": 344
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "words": [
+      {
+        "text": "Alright",
+        "start": 35640,
+        "dur": 1575
+      },
+      {
+        "text": "now",
+        "start": 37215,
+        "dur": 675
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "words": [
+      {
+        "text": "I",
+        "start": 37890,
+        "dur": 181
+      },
+      {
+        "text": "just",
+        "start": 38071,
+        "dur": 725
+      },
+      {
+        "text": "wanna",
+        "start": 38796,
+        "dur": 906
+      },
+      {
+        "text": "be",
+        "start": 39702,
+        "dur": 362
+      },
+      {
+        "text": "free",
+        "start": 40064,
+        "dur": 726
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "words": [
+      {
+        "text": "I",
+        "start": 40790,
+        "dur": 212
+      },
+      {
+        "text": "wanna",
+        "start": 41002,
+        "dur": 1059
+      },
+      {
+        "text": "be",
+        "start": 42061,
+        "dur": 424
+      },
+      {
+        "text": "all",
+        "start": 42485,
+        "dur": 635
+      },
+      {
+        "text": "I",
+        "start": 43120,
+        "dur": 212
+      },
+      {
+        "text": "can",
+        "start": 43332,
+        "dur": 635
+      },
+      {
+        "text": "be",
+        "start": 43967,
+        "dur": 423
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "words": [
+      {
+        "text": "Alright",
+        "start": 44390,
+        "dur": 1519
+      },
+      {
+        "text": "now",
+        "start": 45909,
+        "dur": 651
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "words": [
+      {
+        "text": "I",
+        "start": 46560,
+        "dur": 206
+      },
+      {
+        "text": "just",
+        "start": 46766,
+        "dur": 825
+      },
+      {
+        "text": "wanna",
+        "start": 47591,
+        "dur": 1031
+      },
+      {
+        "text": "be",
+        "start": 48622,
+        "dur": 412
+      },
+      {
+        "text": "free",
+        "start": 49034,
+        "dur": 826
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "words": [
+      {
+        "text": "I",
+        "start": 49860,
+        "dur": 192
+      },
+      {
+        "text": "wanna",
+        "start": 50052,
+        "dur": 962
+      },
+      {
+        "text": "be",
+        "start": 51014,
+        "dur": 385
+      },
+      {
+        "text": "all",
+        "start": 51399,
+        "dur": 577
+      },
+      {
+        "text": "I",
+        "start": 51976,
+        "dur": 192
+      },
+      {
+        "text": "can",
+        "start": 52168,
+        "dur": 577
+      },
+      {
+        "text": "be",
+        "start": 52745,
+        "dur": 385
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "words": [
+      {
+        "text": "Let's",
+        "start": 53130,
+        "dur": 735
+      },
+      {
+        "text": "go",
+        "start": 53865,
+        "dur": 294
+      },
+      {
+        "text": "johnny",
+        "start": 54159,
+        "dur": 881
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "words": [
+      {
+        "text": "Johnny",
+        "start": 55040,
+        "dur": 600
+      },
+      {
+        "text": "johnny",
+        "start": 55640,
+        "dur": 600
+      }
+    ]
+  }
+]
