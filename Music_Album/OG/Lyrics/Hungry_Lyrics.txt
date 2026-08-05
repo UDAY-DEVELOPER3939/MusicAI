@@ -1,0 +1,401 @@
+[
+  {
+    "id": 1,
+    "words": [
+      {
+        "text": "Killin",
+        "start": 640,
+        "dur": 654
+      },
+      {
+        "text": "it",
+        "start": 1294,
+        "dur": 218
+      },
+      {
+        "text": "up",
+        "start": 1512,
+        "dur": 218
+      },
+      {
+        "text": "brutal",
+        "start": 1730,
+        "dur": 654
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "words": [
+      {
+        "text": "Livin",
+        "start": 10100,
+        "dur": 545
+      },
+      {
+        "text": "it",
+        "start": 10645,
+        "dur": 218
+      },
+      {
+        "text": "immortal",
+        "start": 10863,
+        "dur": 872
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "isTune": true,
+    "words": [
+      {
+        "text": "♪  ♫  ♪",
+        "start": 11735,
+        "dur": 19135
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "words": [
+      {
+        "text": "Killin",
+        "start": 30870,
+        "dur": 654
+      },
+      {
+        "text": "it",
+        "start": 31524,
+        "dur": 218
+      },
+      {
+        "text": "up",
+        "start": 31742,
+        "dur": 218
+      },
+      {
+        "text": "brutal",
+        "start": 31960,
+        "dur": 654
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "words": [
+      {
+        "text": "Livin",
+        "start": 40660,
+        "dur": 545
+      },
+      {
+        "text": "it",
+        "start": 41205,
+        "dur": 218
+      },
+      {
+        "text": "immortal",
+        "start": 41423,
+        "dur": 872
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "isTune": true,
+    "words": [
+      {
+        "text": "♪  ♫  ♪",
+        "start": 42295,
+        "dur": 20475
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "words": [
+      {
+        "text": "అలాంటోడు",
+        "start": 62770,
+        "dur": 812
+      },
+      {
+        "text": "మళ్ళీ",
+        "start": 63582,
+        "dur": 508
+      },
+      {
+        "text": "తిరిగొస్తున్నాడు",
+        "start": 64090,
+        "dur": 1624
+      },
+      {
+        "text": "అంటే",
+        "start": 65714,
+        "dur": 406
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "isTune": true,
+    "words": [
+      {
+        "text": "♪  ♫  ♪",
+        "start": 66120,
+        "dur": 9950
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "words": [
+      {
+        "text": "నెత్తురుకు",
+        "start": 76070,
+        "dur": 779
+      },
+      {
+        "text": "మరిగిన",
+        "start": 76849,
+        "dur": 468
+      },
+      {
+        "text": "hungry",
+        "start": 77317,
+        "dur": 468
+      },
+      {
+        "text": "cheetah",
+        "start": 77785,
+        "dur": 545
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "words": [
+      {
+        "text": "శత్రువును",
+        "start": 78330,
+        "dur": 1006
+      },
+      {
+        "text": "ఎంచితే",
+        "start": 79336,
+        "dur": 670
+      },
+      {
+        "text": "మొదలు",
+        "start": 80006,
+        "dur": 559
+      },
+      {
+        "text": "వేట",
+        "start": 80565,
+        "dur": 335
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "words": [
+      {
+        "text": "చూపుగాని",
+        "start": 80900,
+        "dur": 926
+      },
+      {
+        "text": "విసిరితే",
+        "start": 81826,
+        "dur": 926
+      },
+      {
+        "text": "ఓర",
+        "start": 82752,
+        "dur": 231
+      },
+      {
+        "text": "కంట",
+        "start": 82983,
+        "dur": 347
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "words": [
+      {
+        "text": "Death",
+        "start": 83330,
+        "dur": 642
+      },
+      {
+        "text": "quota",
+        "start": 83972,
+        "dur": 642
+      },
+      {
+        "text": "confirm",
+        "start": 84614,
+        "dur": 899
+      },
+      {
+        "text": "అంట",
+        "start": 85513,
+        "dur": 387
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "words": [
+      {
+        "text": "ఎవ్వరికి",
+        "start": 85900,
+        "dur": 916
+      },
+      {
+        "text": "అందదు",
+        "start": 86816,
+        "dur": 573
+      },
+      {
+        "text": "అతని",
+        "start": 87389,
+        "dur": 458
+      },
+      {
+        "text": "range",
+        "start": 87847,
+        "dur": 573
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "words": [
+      {
+        "text": "రెప్ప",
+        "start": 88420,
+        "dur": 522
+      },
+      {
+        "text": "తెరిచేను",
+        "start": 88942,
+        "dur": 835
+      },
+      {
+        "text": "రగిలే",
+        "start": 89777,
+        "dur": 522
+      },
+      {
+        "text": "revenge",
+        "start": 90299,
+        "dur": 731
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "words": [
+      {
+        "text": "పవర్",
+        "start": 91030,
+        "dur": 402
+      },
+      {
+        "text": "and",
+        "start": 91432,
+        "dur": 301
+      },
+      {
+        "text": "పొగరు",
+        "start": 91733,
+        "dur": 502
+      },
+      {
+        "text": "on",
+        "start": 92235,
+        "dur": 201
+      },
+      {
+        "text": "the",
+        "start": 92436,
+        "dur": 301
+      },
+      {
+        "text": "same",
+        "start": 92737,
+        "dur": 402
+      },
+      {
+        "text": "page",
+        "start": 93139,
+        "dur": 401
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "words": [
+      {
+        "text": "Fire",
+        "start": 93540,
+        "dur": 531
+      },
+      {
+        "text": "storm",
+        "start": 94071,
+        "dur": 664
+      },
+      {
+        "text": "లాంటి",
+        "start": 94735,
+        "dur": 664
+      },
+      {
+        "text": "rage",
+        "start": 95399,
+        "dur": 531
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "isTune": true,
+    "words": [
+      {
+        "text": "♪  ♫  ♪",
+        "start": 95930,
+        "dur": 11610
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "words": [
+      {
+        "text": "Killin",
+        "start": 107540,
+        "dur": 776
+      },
+      {
+        "text": "it",
+        "start": 108316,
+        "dur": 259
+      },
+      {
+        "text": "up",
+        "start": 108575,
+        "dur": 259
+      },
+      {
+        "text": "brutal",
+        "start": 108834,
+        "dur": 776
+      }
+    ]
+  }
+]

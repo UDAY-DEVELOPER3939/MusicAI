@@ -1,0 +1,365 @@
+[
+  {
+    "id": 1,
+    "isTune": true,
+    "words": [
+      {
+        "text": "♪  ♫  ♪",
+        "start": 0,
+        "dur": 19140
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "words": [
+      {
+        "text": "In",
+        "start": 19140,
+        "dur": 210
+      },
+      {
+        "text": "the",
+        "start": 19350,
+        "dur": 315
+      },
+      {
+        "text": "streets",
+        "start": 19665,
+        "dur": 735
+      },
+      {
+        "text": "of",
+        "start": 20400,
+        "dur": 210
+      },
+      {
+        "text": "fire",
+        "start": 20610,
+        "dur": 420
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "words": [
+      {
+        "text": "Where",
+        "start": 21030,
+        "dur": 934
+      },
+      {
+        "text": "shadows",
+        "start": 21964,
+        "dur": 1308
+      },
+      {
+        "text": "play",
+        "start": 23272,
+        "dur": 748
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "words": [
+      {
+        "text": "He",
+        "start": 24020,
+        "dur": 264
+      },
+      {
+        "text": "rose",
+        "start": 24284,
+        "dur": 528
+      },
+      {
+        "text": "to",
+        "start": 24812,
+        "dur": 264
+      },
+      {
+        "text": "the",
+        "start": 25076,
+        "dur": 396
+      },
+      {
+        "text": "power",
+        "start": 25472,
+        "dur": 658
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "words": [
+      {
+        "text": "Against",
+        "start": 26130,
+        "dur": 1465
+      },
+      {
+        "text": "the",
+        "start": 27595,
+        "dur": 628
+      },
+      {
+        "text": "grey",
+        "start": 28223,
+        "dur": 837
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "words": [
+      {
+        "text": "He",
+        "start": 29060,
+        "dur": 275
+      },
+      {
+        "text": "spoke",
+        "start": 29335,
+        "dur": 687
+      },
+      {
+        "text": "his",
+        "start": 30022,
+        "dur": 412
+      },
+      {
+        "text": "truth",
+        "start": 30434,
+        "dur": 686
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "words": [
+      {
+        "text": "And",
+        "start": 31120,
+        "dur": 636
+      },
+      {
+        "text": "lived",
+        "start": 31756,
+        "dur": 1061
+      },
+      {
+        "text": "his",
+        "start": 32817,
+        "dur": 636
+      },
+      {
+        "text": "way",
+        "start": 33453,
+        "dur": 637
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "words": [
+      {
+        "text": "A",
+        "start": 34090,
+        "dur": 135
+      },
+      {
+        "text": "name",
+        "start": 34225,
+        "dur": 541
+      },
+      {
+        "text": "that's",
+        "start": 34766,
+        "dur": 812
+      },
+      {
+        "text": "feared",
+        "start": 35578,
+        "dur": 812
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "words": [
+      {
+        "text": "Among",
+        "start": 36390,
+        "dur": 1107
+      },
+      {
+        "text": "the",
+        "start": 37497,
+        "dur": 664
+      },
+      {
+        "text": "greats",
+        "start": 38161,
+        "dur": 1329
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "isTune": true,
+    "words": [
+      {
+        "text": "♪  ♫  ♪",
+        "start": 39490,
+        "dur": 11500
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "words": [
+      {
+        "text": "Rise",
+        "start": 50990,
+        "dur": 588
+      },
+      {
+        "text": "for",
+        "start": 51578,
+        "dur": 441
+      },
+      {
+        "text": "the",
+        "start": 52019,
+        "dur": 441
+      },
+      {
+        "text": "warrior",
+        "start": 52460,
+        "dur": 1030
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "words": [
+      {
+        "text": "Bow",
+        "start": 53490,
+        "dur": 527
+      },
+      {
+        "text": "to",
+        "start": 54017,
+        "dur": 351
+      },
+      {
+        "text": "the",
+        "start": 54368,
+        "dur": 527
+      },
+      {
+        "text": "savior",
+        "start": 54895,
+        "dur": 1055
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "words": [
+      {
+        "text": "Leader,",
+        "start": 55950,
+        "dur": 442
+      },
+      {
+        "text": "the",
+        "start": 56392,
+        "dur": 189
+      },
+      {
+        "text": "conqueror",
+        "start": 56581,
+        "dur": 569
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "isTune": true,
+    "words": [
+      {
+        "text": "♪  ♫  ♪",
+        "start": 57150,
+        "dur": 43170
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "words": [
+      {
+        "text": "Rise",
+        "start": 100320,
+        "dur": 619
+      },
+      {
+        "text": "for",
+        "start": 100939,
+        "dur": 464
+      },
+      {
+        "text": "the",
+        "start": 101403,
+        "dur": 464
+      },
+      {
+        "text": "warrior",
+        "start": 101867,
+        "dur": 1083
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "words": [
+      {
+        "text": "Bow",
+        "start": 102950,
+        "dur": 294
+      },
+      {
+        "text": "to",
+        "start": 103244,
+        "dur": 196
+      },
+      {
+        "text": "the",
+        "start": 103440,
+        "dur": 294
+      },
+      {
+        "text": "savior",
+        "start": 103734,
+        "dur": 586
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "words": [
+      {
+        "text": "Savior",
+        "start": 104320,
+        "dur": 660
+      },
+      {
+        "text": "savior",
+        "start": 104980,
+        "dur": 660
+      }
+    ]
+  }
+]

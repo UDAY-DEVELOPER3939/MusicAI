@@ -1,0 +1,2356 @@
+[
+  {
+    "id": 1,
+    "isTune": true,
+    "words": [
+      {
+        "text": "♪ ♫ ♪",
+        "start": 0,
+        "dur": 1250
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "words": [
+      {
+        "text": "Rise",
+        "start": 1250,
+        "dur": 550
+      },
+      {
+        "text": "for",
+        "start": 1800,
+        "dur": 400
+      },
+      {
+        "text": "the",
+        "start": 2200,
+        "dur": 350
+      },
+      {
+        "text": "warrior",
+        "start": 2550,
+        "dur": 1500
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "words": [
+      {
+        "text": "Bow",
+        "start": 4050,
+        "dur": 500
+      },
+      {
+        "text": "to",
+        "start": 4550,
+        "dur": 350
+      },
+      {
+        "text": "the",
+        "start": 4900,
+        "dur": 350
+      },
+      {
+        "text": "savior",
+        "start": 5250,
+        "dur": 1530
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "words": [
+      {
+        "text": "Leader",
+        "start": 6780,
+        "dur": 620
+      },
+      {
+        "text": "he",
+        "start": 7400,
+        "dur": 300
+      },
+      {
+        "text": "conqueror",
+        "start": 7700,
+        "dur": 1620
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "words": [
+      {
+        "text": "King",
+        "start": 9320,
+        "dur": 530
+      },
+      {
+        "text": "and",
+        "start": 9850,
+        "dur": 400
+      },
+      {
+        "text": "the",
+        "start": 10250,
+        "dur": 300
+      },
+      {
+        "text": "lord",
+        "start": 10550,
+        "dur": 1370
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "words": [
+      {
+        "text": "Rise",
+        "start": 11920,
+        "dur": 530
+      },
+      {
+        "text": "for",
+        "start": 12450,
+        "dur": 400
+      },
+      {
+        "text": "the",
+        "start": 12850,
+        "dur": 350
+      },
+      {
+        "text": "warrior",
+        "start": 13200,
+        "dur": 1230
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "words": [
+      {
+        "text": "Bow",
+        "start": 14430,
+        "dur": 520
+      },
+      {
+        "text": "to",
+        "start": 14950,
+        "dur": 350
+      },
+      {
+        "text": "the",
+        "start": 15300,
+        "dur": 350
+      },
+      {
+        "text": "savior",
+        "start": 15650,
+        "dur": 1330
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "words": [
+      {
+        "text": "Leader",
+        "start": 16980,
+        "dur": 620
+      },
+      {
+        "text": "he",
+        "start": 17600,
+        "dur": 300
+      },
+      {
+        "text": "conqueror",
+        "start": 17900,
+        "dur": 1630
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "words": [
+      {
+        "text": "King",
+        "start": 19530,
+        "dur": 570
+      },
+      {
+        "text": "and",
+        "start": 20100,
+        "dur": 400
+      },
+      {
+        "text": "the",
+        "start": 20500,
+        "dur": 300
+      },
+      {
+        "text": "lord",
+        "start": 20800,
+        "dur": 1200
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "isTune": true,
+    "words": [
+      {
+        "text": "♪ ♫ ♪",
+        "start": 22000,
+        "dur": 10600
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "words": [
+      {
+        "text": "Rise",
+        "start": 32600,
+        "dur": 550
+      },
+      {
+        "text": "for",
+        "start": 33150,
+        "dur": 400
+      },
+      {
+        "text": "the",
+        "start": 33550,
+        "dur": 350
+      },
+      {
+        "text": "warrior",
+        "start": 33900,
+        "dur": 1120
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "words": [
+      {
+        "text": "Bow",
+        "start": 35020,
+        "dur": 530
+      },
+      {
+        "text": "to",
+        "start": 35550,
+        "dur": 350
+      },
+      {
+        "text": "the",
+        "start": 35900,
+        "dur": 350
+      },
+      {
+        "text": "savior",
+        "start": 36250,
+        "dur": 1280
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "words": [
+      {
+        "text": "Leader",
+        "start": 37530,
+        "dur": 620
+      },
+      {
+        "text": "he",
+        "start": 38150,
+        "dur": 300
+      },
+      {
+        "text": "conqueror",
+        "start": 38450,
+        "dur": 1740
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "words": [
+      {
+        "text": "King",
+        "start": 40190,
+        "dur": 560
+      },
+      {
+        "text": "and",
+        "start": 40750,
+        "dur": 400
+      },
+      {
+        "text": "the",
+        "start": 41150,
+        "dur": 300
+      },
+      {
+        "text": "lord",
+        "start": 41450,
+        "dur": 1420
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "words": [
+      {
+        "text": "Rise",
+        "start": 42870,
+        "dur": 530
+      },
+      {
+        "text": "for",
+        "start": 43400,
+        "dur": 400
+      },
+      {
+        "text": "the",
+        "start": 43800,
+        "dur": 350
+      },
+      {
+        "text": "warrior",
+        "start": 44150,
+        "dur": 1100
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "words": [
+      {
+        "text": "Bow",
+        "start": 45250,
+        "dur": 550
+      },
+      {
+        "text": "to",
+        "start": 45800,
+        "dur": 350
+      },
+      {
+        "text": "the",
+        "start": 46150,
+        "dur": 350
+      },
+      {
+        "text": "savior",
+        "start": 46500,
+        "dur": 1290
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "words": [
+      {
+        "text": "Leader",
+        "start": 47790,
+        "dur": 610
+      },
+      {
+        "text": "he",
+        "start": 48400,
+        "dur": 300
+      },
+      {
+        "text": "conqueror",
+        "start": 48700,
+        "dur": 1740
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "words": [
+      {
+        "text": "King",
+        "start": 50430,
+        "dur": 420
+      },
+      {
+        "text": "and",
+        "start": 50850,
+        "dur": 300
+      },
+      {
+        "text": "the",
+        "start": 51150,
+        "dur": 250
+      },
+      {
+        "text": "lord",
+        "start": 51400,
+        "dur": 370
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "words": [
+      {
+        "text": "He",
+        "start": 51770,
+        "dur": 380
+      },
+      {
+        "text": "not",
+        "start": 52150,
+        "dur": 350
+      },
+      {
+        "text": "on",
+        "start": 52500,
+        "dur": 300
+      },
+      {
+        "text": "the",
+        "start": 52800,
+        "dur": 300
+      },
+      {
+        "text": "flame",
+        "start": 53100,
+        "dur": 1260
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "words": [
+      {
+        "text": "Burning",
+        "start": 54360,
+        "dur": 640
+      },
+      {
+        "text": "through",
+        "start": 55000,
+        "dur": 450
+      },
+      {
+        "text": "the",
+        "start": 55450,
+        "dur": 300
+      },
+      {
+        "text": "blame",
+        "start": 55750,
+        "dur": 1300
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "words": [
+      {
+        "text": "Raining",
+        "start": 57050,
+        "dur": 650
+      },
+      {
+        "text": "on",
+        "start": 57700,
+        "dur": 350
+      },
+      {
+        "text": "flame",
+        "start": 58050,
+        "dur": 1380
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "words": [
+      {
+        "text": "Winner",
+        "start": 59430,
+        "dur": 670
+      },
+      {
+        "text": "in",
+        "start": 60100,
+        "dur": 300
+      },
+      {
+        "text": "the",
+        "start": 60400,
+        "dur": 300
+      },
+      {
+        "text": "game",
+        "start": 60700,
+        "dur": 1050
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "words": [
+      {
+        "text": "(Guns",
+        "start": 61750,
+        "dur": 300
+      },
+      {
+        "text": "and",
+        "start": 62050,
+        "dur": 200
+      },
+      {
+        "text": "roses)",
+        "start": 62250,
+        "dur": 290
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "words": [
+      {
+        "text": "(They",
+        "start": 62540,
+        "dur": 260
+      },
+      {
+        "text": "gonna",
+        "start": 62800,
+        "dur": 300
+      },
+      {
+        "text": "be",
+        "start": 63100,
+        "dur": 200
+      },
+      {
+        "text": "vicious)",
+        "start": 63300,
+        "dur": 500
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "words": [
+      {
+        "text": "(The",
+        "start": 63800,
+        "dur": 200
+      },
+      {
+        "text": "devil-colored",
+        "start": 64000,
+        "dur": 500
+      },
+      {
+        "text": "glasses)",
+        "start": 64500,
+        "dur": 360
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "words": [
+      {
+        "text": "(Oh",
+        "start": 64860,
+        "dur": 290
+      },
+      {
+        "text": "they",
+        "start": 65150,
+        "dur": 250
+      },
+      {
+        "text": "show",
+        "start": 65400,
+        "dur": 250
+      },
+      {
+        "text": "you",
+        "start": 65650,
+        "dur": 250
+      },
+      {
+        "text": "the",
+        "start": 65900,
+        "dur": 250
+      },
+      {
+        "text": "bruises)",
+        "start": 66150,
+        "dur": 620
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "words": [
+      {
+        "text": "(Guns",
+        "start": 66770,
+        "dur": 330
+      },
+      {
+        "text": "n'",
+        "start": 67100,
+        "dur": 150
+      },
+      {
+        "text": "roses,",
+        "start": 67250,
+        "dur": 350
+      },
+      {
+        "text": "we",
+        "start": 67600,
+        "dur": 200
+      },
+      {
+        "text": "got",
+        "start": 67800,
+        "dur": 250
+      },
+      {
+        "text": "the",
+        "start": 68050,
+        "dur": 200
+      },
+      {
+        "text": "uzis))",
+        "start": 68250,
+        "dur": 660
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "words": [
+      {
+        "text": "(Gangsta",
+        "start": 68910,
+        "dur": 390
+      },
+      {
+        "text": "(gangster)",
+        "start": 69300,
+        "dur": 400
+      },
+      {
+        "text": "coming",
+        "start": 69700,
+        "dur": 250
+      },
+      {
+        "text": "walk",
+        "start": 69950,
+        "dur": 200
+      },
+      {
+        "text": "in",
+        "start": 70150,
+        "dur": 150
+      },
+      {
+        "text": "through)",
+        "start": 70300,
+        "dur": 180
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "words": [
+      {
+        "text": "(The",
+        "start": 70480,
+        "dur": 220
+      },
+      {
+        "text": "firestorm,",
+        "start": 70700,
+        "dur": 600
+      },
+      {
+        "text": "rages)",
+        "start": 71300,
+        "dur": 550
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "words": [
+      {
+        "text": "(Guns",
+        "start": 71850,
+        "dur": 300
+      },
+      {
+        "text": "and",
+        "start": 72150,
+        "dur": 250
+      },
+      {
+        "text": "roses)",
+        "start": 72400,
+        "dur": 620
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "words": [
+      {
+        "text": "(Kicking",
+        "start": 73020,
+        "dur": 430
+      },
+      {
+        "text": "the",
+        "start": 73450,
+        "dur": 200
+      },
+      {
+        "text": "asses)",
+        "start": 73650,
+        "dur": 580
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "words": [
+      {
+        "text": "(Rebel",
+        "start": 74230,
+        "dur": 370
+      },
+      {
+        "text": "in",
+        "start": 74600,
+        "dur": 200
+      },
+      {
+        "text": "the",
+        "start": 74800,
+        "dur": 200
+      },
+      {
+        "text": "black",
+        "start": 75000,
+        "dur": 300
+      },
+      {
+        "text": "tie)",
+        "start": 75300,
+        "dur": 410
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "words": [
+      {
+        "text": "(Rebel",
+        "start": 75710,
+        "dur": 440
+      },
+      {
+        "text": "and",
+        "start": 76150,
+        "dur": 250
+      },
+      {
+        "text": "roses)",
+        "start": 76400,
+        "dur": 670
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "words": [
+      {
+        "text": "(Guns",
+        "start": 77070,
+        "dur": 330
+      },
+      {
+        "text": "and",
+        "start": 77400,
+        "dur": 200
+      },
+      {
+        "text": "roses",
+        "start": 77600,
+        "dur": 400
+      },
+      {
+        "text": "wreckin",
+        "start": 78000,
+        "dur": 450
+      },
+      {
+        "text": "posers)",
+        "start": 78450,
+        "dur": 1140
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "words": [
+      {
+        "text": "(Better",
+        "start": 79590,
+        "dur": 310
+      },
+      {
+        "text": "get",
+        "start": 79900,
+        "dur": 200
+      },
+      {
+        "text": "you",
+        "start": 80100,
+        "dur": 200
+      },
+      {
+        "text": "runnin)",
+        "start": 80300,
+        "dur": 290
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "words": [
+      {
+        "text": "(Cause",
+        "start": 80590,
+        "dur": 310
+      },
+      {
+        "text": "the",
+        "start": 80900,
+        "dur": 200
+      },
+      {
+        "text": "gangster",
+        "start": 81100,
+        "dur": 500
+      },
+      {
+        "text": "chases)",
+        "start": 81600,
+        "dur": 690
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "words": [
+      {
+        "text": "And",
+        "start": 82290,
+        "dur": 210
+      },
+      {
+        "text": "by",
+        "start": 82500,
+        "dur": 200
+      },
+      {
+        "text": "the",
+        "start": 82700,
+        "dur": 200
+      },
+      {
+        "text": "way",
+        "start": 82900,
+        "dur": 250
+      },
+      {
+        "text": "get",
+        "start": 83150,
+        "dur": 200
+      },
+      {
+        "text": "away",
+        "start": 83350,
+        "dur": 270
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "words": [
+      {
+        "text": "Far",
+        "start": 83620,
+        "dur": 280
+      },
+      {
+        "text": "away",
+        "start": 83900,
+        "dur": 300
+      },
+      {
+        "text": "from",
+        "start": 84200,
+        "dur": 250
+      },
+      {
+        "text": "the",
+        "start": 84450,
+        "dur": 200
+      },
+      {
+        "text": "way",
+        "start": 84650,
+        "dur": 280
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "words": [
+      {
+        "text": "On",
+        "start": 84930,
+        "dur": 220
+      },
+      {
+        "text": "your",
+        "start": 85150,
+        "dur": 250
+      },
+      {
+        "text": "toes",
+        "start": 85400,
+        "dur": 300
+      },
+      {
+        "text": "turning",
+        "start": 85700,
+        "dur": 450
+      },
+      {
+        "text": "to",
+        "start": 86150,
+        "dur": 250
+      },
+      {
+        "text": "decay",
+        "start": 86400,
+        "dur": 880
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "words": [
+      {
+        "text": "You",
+        "start": 87280,
+        "dur": 220
+      },
+      {
+        "text": "better",
+        "start": 87500,
+        "dur": 350
+      },
+      {
+        "text": "pray",
+        "start": 87850,
+        "dur": 300
+      },
+      {
+        "text": "right",
+        "start": 88150,
+        "dur": 250
+      },
+      {
+        "text": "away",
+        "start": 88400,
+        "dur": 350
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "words": [
+      {
+        "text": "He",
+        "start": 88750,
+        "dur": 200
+      },
+      {
+        "text": "don't",
+        "start": 88950,
+        "dur": 250
+      },
+      {
+        "text": "play",
+        "start": 89200,
+        "dur": 250
+      },
+      {
+        "text": "and",
+        "start": 89450,
+        "dur": 200
+      },
+      {
+        "text": "no",
+        "start": 89650,
+        "dur": 200
+      },
+      {
+        "text": "way",
+        "start": 89850,
+        "dur": 190
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "words": [
+      {
+        "text": "Cross",
+        "start": 90040,
+        "dur": 310
+      },
+      {
+        "text": "the",
+        "start": 90350,
+        "dur": 200
+      },
+      {
+        "text": "line",
+        "start": 90550,
+        "dur": 300
+      },
+      {
+        "text": "gets",
+        "start": 90850,
+        "dur": 300
+      },
+      {
+        "text": "you",
+        "start": 91150,
+        "dur": 250
+      },
+      {
+        "text": "death",
+        "start": 91400,
+        "dur": 400
+      },
+      {
+        "text": "today",
+        "start": 91800,
+        "dur": 600
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "words": [
+      {
+        "text": "Do",
+        "start": 92400,
+        "dur": 200
+      },
+      {
+        "text": "not",
+        "start": 92600,
+        "dur": 250
+      },
+      {
+        "text": "delay",
+        "start": 92850,
+        "dur": 400
+      },
+      {
+        "text": "he",
+        "start": 93250,
+        "dur": 200
+      },
+      {
+        "text": "don't",
+        "start": 93450,
+        "dur": 250
+      },
+      {
+        "text": "play",
+        "start": 93700,
+        "dur": 390
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "words": [
+      {
+        "text": "Turn",
+        "start": 94090,
+        "dur": 260
+      },
+      {
+        "text": "away",
+        "start": 94350,
+        "dur": 350
+      },
+      {
+        "text": "runaway",
+        "start": 94700,
+        "dur": 620
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "words": [
+      {
+        "text": "Gotta",
+        "start": 95320,
+        "dur": 330
+      },
+      {
+        "text": "pay",
+        "start": 95650,
+        "dur": 300
+      },
+      {
+        "text": "when",
+        "start": 95950,
+        "dur": 300
+      },
+      {
+        "text": "the",
+        "start": 96250,
+        "dur": 200
+      },
+      {
+        "text": "trigger",
+        "start": 96450,
+        "dur": 500
+      },
+      {
+        "text": "say",
+        "start": 96950,
+        "dur": 630
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "words": [
+      {
+        "text": "Call",
+        "start": 97580,
+        "dur": 270
+      },
+      {
+        "text": "it",
+        "start": 97850,
+        "dur": 200
+      },
+      {
+        "text": "a",
+        "start": 98050,
+        "dur": 150
+      },
+      {
+        "text": "day",
+        "start": 98200,
+        "dur": 300
+      },
+      {
+        "text": "by",
+        "start": 98500,
+        "dur": 200
+      },
+      {
+        "text": "the",
+        "start": 98700,
+        "dur": 200
+      },
+      {
+        "text": "gang",
+        "start": 98900,
+        "dur": 350
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "words": [
+      {
+        "text": "In",
+        "start": 99250,
+        "dur": 200
+      },
+      {
+        "text": "the",
+        "start": 99450,
+        "dur": 200
+      },
+      {
+        "text": "war",
+        "start": 99650,
+        "dur": 300
+      },
+      {
+        "text": "that's",
+        "start": 99950,
+        "dur": 350
+      },
+      {
+        "text": "the",
+        "start": 100300,
+        "dur": 200
+      },
+      {
+        "text": "king",
+        "start": 100500,
+        "dur": 350
+      },
+      {
+        "text": "of",
+        "start": 100850,
+        "dur": 250
+      },
+      {
+        "text": "the",
+        "start": 101100,
+        "dur": 200
+      },
+      {
+        "text": "fray",
+        "start": 101300,
+        "dur": 1230
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "isTune": true,
+    "words": [
+      {
+        "text": "♪ ♫ ♪",
+        "start": 102530,
+        "dur": 31900
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "words": [
+      {
+        "text": "(Say",
+        "start": 134430,
+        "dur": 420
+      },
+      {
+        "text": "high)",
+        "start": 134850,
+        "dur": 860
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "words": [
+      {
+        "text": "(Oh",
+        "start": 135710,
+        "dur": 290
+      },
+      {
+        "text": "oh",
+        "start": 136000,
+        "dur": 250
+      },
+      {
+        "text": "oh",
+        "start": 136250,
+        "dur": 250
+      },
+      {
+        "text": "ohh)",
+        "start": 136500,
+        "dur": 520
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "words": [
+      {
+        "text": "(Say",
+        "start": 137020,
+        "dur": 430
+      },
+      {
+        "text": "high)",
+        "start": 137450,
+        "dur": 950
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "words": [
+      {
+        "text": "(Oh",
+        "start": 138400,
+        "dur": 300
+      },
+      {
+        "text": "oh",
+        "start": 138700,
+        "dur": 300
+      },
+      {
+        "text": "ohh)",
+        "start": 139000,
+        "dur": 570
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "words": [
+      {
+        "text": "(Say",
+        "start": 139570,
+        "dur": 430
+      },
+      {
+        "text": "high)",
+        "start": 140000,
+        "dur": 850
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "words": [
+      {
+        "text": "(Oh",
+        "start": 140850,
+        "dur": 300
+      },
+      {
+        "text": "oh",
+        "start": 141150,
+        "dur": 250
+      },
+      {
+        "text": "oh",
+        "start": 141400,
+        "dur": 300
+      },
+      {
+        "text": "ohh)",
+        "start": 141700,
+        "dur": 540
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "words": [
+      {
+        "text": "(Powerfull",
+        "start": 142240,
+        "dur": 960
+      },
+      {
+        "text": "powerfull)",
+        "start": 143200,
+        "dur": 1210
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "words": [
+      {
+        "text": "(Say",
+        "start": 144410,
+        "dur": 490
+      },
+      {
+        "text": "high)",
+        "start": 144900,
+        "dur": 1050
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "words": [
+      {
+        "text": "(Oh",
+        "start": 145950,
+        "dur": 300
+      },
+      {
+        "text": "oh",
+        "start": 146250,
+        "dur": 300
+      },
+      {
+        "text": "oh",
+        "start": 146550,
+        "dur": 300
+      },
+      {
+        "text": "ohh)",
+        "start": 146850,
+        "dur": 450
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "words": [
+      {
+        "text": "(Say",
+        "start": 147300,
+        "dur": 450
+      },
+      {
+        "text": "high)",
+        "start": 147750,
+        "dur": 830
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "words": [
+      {
+        "text": "(Oh",
+        "start": 148580,
+        "dur": 320
+      },
+      {
+        "text": "oh",
+        "start": 148900,
+        "dur": 300
+      },
+      {
+        "text": "oh",
+        "start": 149200,
+        "dur": 300
+      },
+      {
+        "text": "ohh)",
+        "start": 149500,
+        "dur": 360
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "words": [
+      {
+        "text": "(Say",
+        "start": 149860,
+        "dur": 440
+      },
+      {
+        "text": "high)",
+        "start": 150300,
+        "dur": 780
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "words": [
+      {
+        "text": "(Oh",
+        "start": 151080,
+        "dur": 420
+      },
+      {
+        "text": "oh",
+        "start": 151500,
+        "dur": 500
+      },
+      {
+        "text": "oh",
+        "start": 152000,
+        "dur": 600
+      },
+      {
+        "text": "ohh)",
+        "start": 152600,
+        "dur": 2440
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "words": [
+      {
+        "text": "పెళ",
+        "start": 155040,
+        "dur": 510
+      },
+      {
+        "text": "పెళ",
+        "start": 155550,
+        "dur": 550
+      },
+      {
+        "text": "వరస",
+        "start": 156100,
+        "dur": 600
+      },
+      {
+        "text": "ఊచకోత",
+        "start": 156700,
+        "dur": 880
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "words": [
+      {
+        "text": "వినపడే",
+        "start": 157580,
+        "dur": 670
+      },
+      {
+        "text": "బరిలో",
+        "start": 158250,
+        "dur": 650
+      },
+      {
+        "text": "చావుమోత",
+        "start": 158900,
+        "dur": 1220
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "words": [
+      {
+        "text": "మరిగెరో",
+        "start": 160120,
+        "dur": 730
+      },
+      {
+        "text": "నిబిడ",
+        "start": 160850,
+        "dur": 600
+      },
+      {
+        "text": "రక్తమంతా",
+        "start": 161450,
+        "dur": 1300
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "words": [
+      {
+        "text": "హుటాహుటీ",
+        "start": 162750,
+        "dur": 850
+      },
+      {
+        "text": "పరారత",
+        "start": 163600,
+        "dur": 750
+      },
+      {
+        "text": "అకత",
+        "start": 164350,
+        "dur": 1110
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "words": [
+      {
+        "text": "వధరిది",
+        "start": 165460,
+        "dur": 740
+      },
+      {
+        "text": "పోగరు",
+        "start": 166200,
+        "dur": 700
+      },
+      {
+        "text": "కారుకూత",
+        "start": 166900,
+        "dur": 1210
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "words": [
+      {
+        "text": "చనకుతూ",
+        "start": 168110,
+        "dur": 740
+      },
+      {
+        "text": "చేరిన",
+        "start": 168850,
+        "dur": 550
+      },
+      {
+        "text": "నుదుటి",
+        "start": 169400,
+        "dur": 550
+      },
+      {
+        "text": "రాత",
+        "start": 169950,
+        "dur": 600
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "words": [
+      {
+        "text": "ఒదగని",
+        "start": 170550,
+        "dur": 650
+      },
+      {
+        "text": "కథన",
+        "start": 171200,
+        "dur": 500
+      },
+      {
+        "text": "మేటు",
+        "start": 171700,
+        "dur": 550
+      },
+      {
+        "text": "జొథ",
+        "start": 172250,
+        "dur": 800
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "words": [
+      {
+        "text": "కఠారుల",
+        "start": 173050,
+        "dur": 750
+      },
+      {
+        "text": "కవాతులే",
+        "start": 173800,
+        "dur": 800
+      },
+      {
+        "text": "ఎదుట",
+        "start": 174600,
+        "dur": 1030
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "words": [
+      {
+        "text": "దద్దరిల్లే",
+        "start": 175630,
+        "dur": 670
+      },
+      {
+        "text": "దిక్కులంతా",
+        "start": 176300,
+        "dur": 780
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "words": [
+      {
+        "text": "పిక్కటిల్లే",
+        "start": 177080,
+        "dur": 570
+      },
+      {
+        "text": "రుక్కలంతా",
+        "start": 177650,
+        "dur": 590
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "words": [
+      {
+        "text": "కట్టగట్టి",
+        "start": 178240,
+        "dur": 760
+      },
+      {
+        "text": "మట్టబెట్టేదెవరటా",
+        "start": 179000,
+        "dur": 1790
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "words": [
+      {
+        "text": "రెచ్చగొట్టి",
+        "start": 180790,
+        "dur": 660
+      },
+      {
+        "text": "ముట్టడిస్తే",
+        "start": 181450,
+        "dur": 670
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "words": [
+      {
+        "text": "ఎట్టకేలా",
+        "start": 182120,
+        "dur": 630
+      },
+      {
+        "text": "కట్టడిస్తే",
+        "start": 182750,
+        "dur": 790
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "words": [
+      {
+        "text": "డొక్క",
+        "start": 183540,
+        "dur": 410
+      },
+      {
+        "text": "చీల్చి",
+        "start": 183950,
+        "dur": 450
+      },
+      {
+        "text": "డోలు",
+        "start": 184400,
+        "dur": 400
+      },
+      {
+        "text": "కట్టే",
+        "start": 184800,
+        "dur": 450
+      },
+      {
+        "text": "యముడటా",
+        "start": 185250,
+        "dur": 730
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "words": [
+      {
+        "text": "దద్దరిల్లే",
+        "start": 185980,
+        "dur": 670
+      },
+      {
+        "text": "దిక్కులంతా",
+        "start": 186650,
+        "dur": 800
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "words": [
+      {
+        "text": "పిక్కటిల్లే",
+        "start": 187450,
+        "dur": 600
+      },
+      {
+        "text": "రుక్కలంతా",
+        "start": 188050,
+        "dur": 580
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "words": [
+      {
+        "text": "కట్టగట్టి",
+        "start": 188630,
+        "dur": 770
+      },
+      {
+        "text": "మట్టబెట్టేదెవరటా",
+        "start": 189400,
+        "dur": 1630
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "words": [
+      {
+        "text": "రెచ్చగొట్టి",
+        "start": 191030,
+        "dur": 770
+      },
+      {
+        "text": "ముట్టడిస్తే",
+        "start": 191800,
+        "dur": 980
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "words": [
+      {
+        "text": "ఎట్టకేలా",
+        "start": 192780,
+        "dur": 470
+      },
+      {
+        "text": "కట్టడిస్తే",
+        "start": 193250,
+        "dur": 500
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "words": [
+      {
+        "text": "డొక్క",
+        "start": 193750,
+        "dur": 400
+      },
+      {
+        "text": "చీల్చి",
+        "start": 194150,
+        "dur": 450
+      },
+      {
+        "text": "డోలు",
+        "start": 194600,
+        "dur": 400
+      },
+      {
+        "text": "కట్టే",
+        "start": 195000,
+        "dur": 450
+      },
+      {
+        "text": "యముడటా",
+        "start": 195450,
+        "dur": 900
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "words": [
+      {
+        "text": "మొదలట",
+        "start": 196350,
+        "dur": 600
+      },
+      {
+        "text": "వేట",
+        "start": 196950,
+        "dur": 500
+      },
+      {
+        "text": "(హో",
+        "start": 197450,
+        "dur": 350
+      },
+      {
+        "text": "ఓ",
+        "start": 197800,
+        "dur": 400
+      },
+      {
+        "text": "ఓ)",
+        "start": 198200,
+        "dur": 670
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "words": [
+      {
+        "text": "అతనిది",
+        "start": 198870,
+        "dur": 630
+      },
+      {
+        "text": "కోట",
+        "start": 199500,
+        "dur": 500
+      },
+      {
+        "text": "(హో",
+        "start": 200000,
+        "dur": 350
+      },
+      {
+        "text": "ఓ",
+        "start": 200350,
+        "dur": 400
+      },
+      {
+        "text": "ఓ)",
+        "start": 200750,
+        "dur": 570
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "words": [
+      {
+        "text": "అతనొక",
+        "start": 201320,
+        "dur": 630
+      },
+      {
+        "text": "తుటా",
+        "start": 201950,
+        "dur": 500
+      },
+      {
+        "text": "(హో",
+        "start": 202450,
+        "dur": 350
+      },
+      {
+        "text": "ఓ",
+        "start": 202800,
+        "dur": 400
+      },
+      {
+        "text": "ఓ)",
+        "start": 203200,
+        "dur": 510
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "words": [
+      {
+        "text": "రెగ్గు",
+        "start": 203710,
+        "dur": 590
+      },
+      {
+        "text": "తేల్చే",
+        "start": 204300,
+        "dur": 600
+      },
+      {
+        "text": "అగ్గి",
+        "start": 204900,
+        "dur": 550
+      },
+      {
+        "text": "og",
+        "start": 205450,
+        "dur": 860
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "words": [
+      {
+        "text": "మొదలట",
+        "start": 206310,
+        "dur": 640
+      },
+      {
+        "text": "ఆట",
+        "start": 206950,
+        "dur": 500
+      },
+      {
+        "text": "(హో",
+        "start": 207450,
+        "dur": 400
+      },
+      {
+        "text": "ఓ",
+        "start": 207850,
+        "dur": 500
+      },
+      {
+        "text": "ఓ)",
+        "start": 208350,
+        "dur": 790
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "words": [
+      {
+        "text": "ఎడతెగ",
+        "start": 209140,
+        "dur": 610
+      },
+      {
+        "text": "వేట",
+        "start": 209750,
+        "dur": 500
+      },
+      {
+        "text": "(హో",
+        "start": 210250,
+        "dur": 300
+      },
+      {
+        "text": "ఓ",
+        "start": 210550,
+        "dur": 350
+      },
+      {
+        "text": "ఓ)",
+        "start": 210900,
+        "dur": 360
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "words": [
+      {
+        "text": "నరకపు",
+        "start": 211260,
+        "dur": 690
+      },
+      {
+        "text": "బాట",
+        "start": 211950,
+        "dur": 550
+      },
+      {
+        "text": "(హో",
+        "start": 212500,
+        "dur": 400
+      },
+      {
+        "text": "ఓ",
+        "start": 212900,
+        "dur": 500
+      },
+      {
+        "text": "ఓ)",
+        "start": 213400,
+        "dur": 920
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "words": [
+      {
+        "text": "పట్టు",
+        "start": 214320,
+        "dur": 680
+      },
+      {
+        "text": "పట్టి",
+        "start": 215000,
+        "dur": 600
+      },
+      {
+        "text": "కొడితే",
+        "start": 215600,
+        "dur": 900
+      },
+      {
+        "text": "og",
+        "start": 216500,
+        "dur": 800
+      },
+      {
+        "text": "ఆ",
+        "start": 217300,
+        "dur": 1920
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "words": [
+      {
+        "text": "నెత్తురుకు",
+        "start": 219220,
+        "dur": 730
+      },
+      {
+        "text": "మరిగిన",
+        "start": 219950,
+        "dur": 600
+      },
+      {
+        "text": "hungry",
+        "start": 220550,
+        "dur": 550
+      },
+      {
+        "text": "cheetah",
+        "start": 221100,
+        "dur": 830
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "words": [
+      {
+        "text": "శత్రువును",
+        "start": 221930,
+        "dur": 720
+      },
+      {
+        "text": "ఎంచితే",
+        "start": 222650,
+        "dur": 600
+      },
+      {
+        "text": "మొదలు",
+        "start": 223250,
+        "dur": 450
+      },
+      {
+        "text": "వేట",
+        "start": 223700,
+        "dur": 610
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "words": [
+      {
+        "text": "చూపు",
+        "start": 224310,
+        "dur": 540
+      },
+      {
+        "text": "గాని",
+        "start": 224850,
+        "dur": 450
+      },
+      {
+        "text": "విసిరితే",
+        "start": 225300,
+        "dur": 700
+      },
+      {
+        "text": "ఓరకంట",
+        "start": 226000,
+        "dur": 1170
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "words": [
+      {
+        "text": "Death",
+        "start": 227170,
+        "dur": 430
+      },
+      {
+        "text": "quota",
+        "start": 227600,
+        "dur": 500
+      },
+      {
+        "text": "confirm",
+        "start": 228100,
+        "dur": 600
+      },
+      {
+        "text": "అంట",
+        "start": 228700,
+        "dur": 920
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "words": [
+      {
+        "text": "ఎవ్వరికి",
+        "start": 229620,
+        "dur": 680
+      },
+      {
+        "text": "అందదు",
+        "start": 230300,
+        "dur": 600
+      },
+      {
+        "text": "అతని",
+        "start": 230900,
+        "dur": 500
+      },
+      {
+        "text": "range",
+        "start": 231400,
+        "dur": 930
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "words": [
+      {
+        "text": "రెప్ప",
+        "start": 232330,
+        "dur": 520
+      },
+      {
+        "text": "తెరిచెను",
+        "start": 232850,
+        "dur": 700
+      },
+      {
+        "text": "రగిలే",
+        "start": 233550,
+        "dur": 600
+      },
+      {
+        "text": "revenge",
+        "start": 234150,
+        "dur": 780
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "words": [
+      {
+        "text": "Power",
+        "start": 234930,
+        "dur": 470
+      },
+      {
+        "text": "and",
+        "start": 235400,
+        "dur": 250
+      },
+      {
+        "text": "పొగరు",
+        "start": 235650,
+        "dur": 600
+      },
+      {
+        "text": "on",
+        "start": 236250,
+        "dur": 250
+      },
+      {
+        "text": "the",
+        "start": 236500,
+        "dur": 250
+      },
+      {
+        "text": "same",
+        "start": 236750,
+        "dur": 300
+      },
+      {
+        "text": "page",
+        "start": 237050,
+        "dur": 430
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "words": [
+      {
+        "text": "Firestorm",
+        "start": 237480,
+        "dur": 820
+      },
+      {
+        "text": "లాంటి",
+        "start": 238300,
+        "dur": 700
+      },
+      {
+        "text": "rage",
+        "start": 239000,
+        "dur": 1450
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "isTune": true,
+    "words": [
+      {
+        "text": "♪ ♫ ♪",
+        "start": 240450,
+        "dur": 12370
+      }
+    ]
+  }
+]
