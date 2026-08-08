@@ -111,7 +111,7 @@
       { "text": "I", "start": 47350, "dur": 400 },
       { "text": "wait", "start": 47850, "dur": 400 },
       { "text": "for", "start": 48350, "dur": 400 },
-      { "text": "you", "start": 48850, "dur": 1000 }
+      { "text": "you", "start": 48850, "dur": 3100 }
     ]
   },
   {
