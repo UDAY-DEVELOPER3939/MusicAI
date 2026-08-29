@@ -1,6 +1,6 @@
 {
-  "versionCode": 76,
-  "versionName": "7.6",
+  "versionCode": 77,
+  "versionName": "7.7",
   "apkUrl": "https://github.com/UDAY-DEVELOPER3939/MusicAI/raw/main/App%20Updates/app-debug.apk",
   "releaseNotes": [
     "Fixed profile data saving issue",
