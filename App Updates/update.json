@@ -1,11 +1,11 @@
 {
-  "versionCode": 77,
-  "versionName": "7.7",
+  "versionCode": 78,
+  "versionName": "7.8",
   "apkUrl": "https://github.com/UDAY-DEVELOPER3939/MusicAI/raw/main/App%20Updates/app-debug.apk",
   "releaseNotes": [
-    "Fixed profile data saving issue",
-    "Improved update check reliability with cache-busting",
-    "Enabled TV app login with updated security rules",
-    "Added direct browser redirection for Feedback form"
+    "Fixed issues of Song Hunt",
+    "Improved best audio experiance",
+    "Enabled TV app to download in the settings",
+    "Added New Listening Activity page"
   ]
 }
