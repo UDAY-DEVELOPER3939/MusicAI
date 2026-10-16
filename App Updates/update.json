@@ -1,11 +1,5 @@
 {
-  "versionCode": 80,
-  "versionName": "8.0",
+  "versionCode": 82,
+  "versionName": "8.2",
   "apkUrl": "https://github.com/UDAY-DEVELOPER3939/MusicAI/raw/main/App%20Updates/app-debug.apk",
-  "releaseNotes": [
-    "Fixed issues of Song Hunt",
-    "Improved best audio experiance",
-    "Enabled TV app to download in the settings",
-    "Added New Listening Activity page"
-  ]
 }
