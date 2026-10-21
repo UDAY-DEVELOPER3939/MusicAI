@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "isTune": false,
+    "words": [
+      {
+        "text": "(हल्की लगन तेरे बिन अँखियों)",
+        "start": 1640,
+        "dur": 4420
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "isTune": false,
+    "words": [
+      {
+        "text": "(तेरे बिन अँखियों)",
+        "start": 6060,
+        "dur": 2810
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "isTune": false,
+    "words": [
+      {
+        "text": "(तेरे बिन अँखियों)",
+        "start": 8870,
+        "dur": 2620
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Ay (तेरे बिन)",
+        "start": 11490,
+        "dur": 1990
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "isTune": false,
+    "words": [
+      {
+        "text": "போர் தொடங்கிடும் ஓர் படை இறங்கிடும்",
+        "start": 13480,
+        "dur": 2540
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "isTune": false,
+    "words": [
+      {
+        "text": "ஓர் கொடி பறந்திடும், ஓர் கரம் உயர்ந்திடும்",
+        "start": 16020,
+        "dur": 2900
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "isTune": false,
+    "words": [
+      {
+        "text": "ஓர் பெரும் அரைச் சதம், ஓர் புகழ் சரித்திரம்",
+        "start": 18920,
+        "dur": 2860
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "isTune": false,
+    "words": [
+      {
+        "text": "ஓர் அறம் விதைத்திடும், ஓர் பெயர் நிலைத்திடுமே",
+        "start": 21780,
+        "dur": 4700
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "isTune": false,
+    "words": [
+      {
+        "text": "ஒரு நெரந்தர பேர்",
+        "start": 26480,
+        "dur": 2720
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "isTune": false,
+    "words": [
+      {
+        "text": "எவன் இவனுக்கு நேர்?",
+        "start": 29200,
+        "dur": 1400
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "isTune": false,
+    "words": [
+      {
+        "text": "ஒரு நெரந்தர பேர்",
+        "start": 30600,
+        "dur": 1560
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "isTune": false,
+    "words": [
+      {
+        "text": "எவன் இவனுக்கு நேர்?",
+        "start": 32160,
+        "dur": 1370
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "isTune": false,
+    "words": [
+      {
+        "text": "ஒரு பேர், இவன் பேர்",
+        "start": 33530,
+        "dur": 1630
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "isTune": false,
+    "words": [
+      {
+        "text": "तेरे नाम",
+        "start": 35160,
+        "dur": 5560
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "isTune": false,
+    "words": [
+      {
+        "text": "तेरे नाम",
+        "start": 40720,
+        "dur": 5330
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "isTune": false,
+    "words": [
+      {
+        "text": "ते-तेरे नाम",
+        "start": 46050,
+        "dur": 6200
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "isTune": false,
+    "words": [
+      {
+        "text": "तेरे नाम",
+        "start": 52250,
+        "dur": 5730
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "isTune": false,
+    "words": [
+      {
+        "text": "இன்னைக்கும் என்னென்னைக்கும் ஒரு தலைவன்தான்",
+        "start": 57980,
+        "dur": 9990
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "isTune": false,
+    "words": [
+      {
+        "text": "One sun, one moon",
+        "start": 67970,
+        "dur": 1290
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "isTune": false,
+    "words": [
+      {
+        "text": "பத்திக்கும் எட்டுத்திக்கும் அவன் பேர் சொன்னா (yeah)",
+        "start": 69260,
+        "dur": 10010
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "isTune": false,
+    "words": [
+      {
+        "text": "One sun, one moon and one",
+        "start": 79270,
+        "dur": 2830
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Yeah, 'cause I'mma step into the groove trigger",
+        "start": 91460,
+        "dur": 3460
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "isTune": false,
+    "words": [
+      {
+        "text": "I'mma make the whole room bigger",
+        "start": 94920,
+        "dur": 2990
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "isTune": false,
+    "words": [
+      {
+        "text": "I'mma make the whole crowd shiver",
+        "start": 97910,
+        "dur": 2640
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "isTune": false,
+    "words": [
+      {
+        "text": "'Cause ain't no fellow with my flow killer",
+        "start": 100550,
+        "dur": 2990
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "isTune": false,
+    "words": [
+      {
+        "text": "I just turned my pain to gold",
+        "start": 103540,
+        "dur": 1540
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Every lesson made me bold",
+        "start": 105080,
+        "dur": 1370
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Had to find my way alone",
+        "start": 106450,
+        "dur": 1340
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Now my story's being told",
+        "start": 107790,
+        "dur": 1330
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "isTune": false,
+    "words": [
+      {
+        "text": "I just turned the dark to light",
+        "start": 109120,
+        "dur": 1560
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Every wrong became my right",
+        "start": 110680,
+        "dur": 1550
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "isTune": false,
+    "words": [
+      {
+        "text": "I just fight, when you fight",
+        "start": 112230,
+        "dur": 1250
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "isTune": false,
+    "words": [
+      {
+        "text": "And now I'm shinin' through the night",
+        "start": 113480,
+        "dur": 1670
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "isTune": false,
+    "words": [
+      {
+        "text": "तेरे नाम (போர் தொடங்குது பார், படை இறங்குது பார்)",
+        "start": 115150,
+        "dur": 5680
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "isTune": false,
+    "words": [
+      {
+        "text": "तेरे नाम (கொடி பறக்குது பார், கரம் உயர்ந்தது பார்)",
+        "start": 120830,
+        "dur": 5240
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "isTune": false,
+    "words": [
+      {
+        "text": "ते-तेरे नाम (பெரும் அரைச் சதம் பார், புகழ் சரித்திரம் பார்)",
+        "start": 126070,
+        "dur": 6210
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "isTune": false,
+    "words": [
+      {
+        "text": "तेरे नाम (அறம் கிடைத்தது பார்)",
+        "start": 132280,
+        "dur": 3870
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "isTune": false,
+    "words": [
+      {
+        "text": "And now you know just what I mean",
+        "start": 136150,
+        "dur": 1720
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "isTune": false,
+    "words": [
+      {
+        "text": "இன்னைக்கும் என்னென்னைக்கும் ஒரு தலைவன்தான்",
+        "start": 137870,
+        "dur": 10090
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "isTune": false,
+    "words": [
+      {
+        "text": "One sun, one moon",
+        "start": 147960,
+        "dur": 1290
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "isTune": false,
+    "words": [
+      {
+        "text": "பத்திக்கும் எட்டுத்திக்கும் அவன் பேர் சொன்னா (yeah)",
+        "start": 149250,
+        "dur": 9920
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "isTune": false,
+    "words": [
+      {
+        "text": "One sun, one moon",
+        "start": 159170,
+        "dur": 1250
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "isTune": false,
+    "words": [
+      {
+        "text": "'Cause I'mma step into the groove trigger",
+        "start": 160420,
+        "dur": 3170
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "isTune": false,
+    "words": [
+      {
+        "text": "I'mma make the whole room bigger",
+        "start": 163590,
+        "dur": 2740
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "isTune": false,
+    "words": [
+      {
+        "text": "I'mma make the whole crowd shiver",
+        "start": 166330,
+        "dur": 2820
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "isTune": false,
+    "words": [
+      {
+        "text": "'Cause ain't no fellow with my flow killer",
+        "start": 169150,
+        "dur": 2890
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "isTune": false,
+    "words": [
+      {
+        "text": "I just turned my pain to gold",
+        "start": 172040,
+        "dur": 1640
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Every lesson made me bold",
+        "start": 173680,
+        "dur": 1450
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Had to find my way alone",
+        "start": 175130,
+        "dur": 1290
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Now my story's being told",
+        "start": 176420,
+        "dur": 1320
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "isTune": false,
+    "words": [
+      {
+        "text": "I just turned the dark to light",
+        "start": 177740,
+        "dur": 1360
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Every wrong became my right",
+        "start": 179100,
+        "dur": 1580
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "isTune": false,
+    "words": [
+      {
+        "text": "I just fight, when you fight",
+        "start": 180680,
+        "dur": 1290
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "isTune": false,
+    "words": [
+      {
+        "text": "And now I'm shinin' through the night",
+        "start": 181970,
+        "dur": 1850
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "isTune": false,
+    "words": [
+      {
+        "text": "(ஏய்)",
+        "start": 183820,
+        "dur": 8610
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "isTune": false,
+    "words": [
+      {
+        "text": "(ஏய்)",
+        "start": 192430,
+        "dur": 990
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "isTune": false,
+    "words": [
+      {
+        "text": "One sun, one moon and one",
+        "start": 193420,
+        "dur": 4690
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "isTune": false,
+    "words": [
+      {
+        "text": "(ஏய்)",
+        "start": 198110,
+        "dur": 5780
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "isTune": false,
+    "words": [
+      {
+        "text": "(ஏய்)",
+        "start": 203890,
+        "dur": 1020
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "isTune": false,
+    "words": [
+      {
+        "text": "One sun, one moon and one",
+        "start": 204910,
+        "dur": 2620
+      }
+    ]
+  }
+]

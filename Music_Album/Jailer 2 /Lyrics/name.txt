@@ -1,0 +1,1113 @@
+[
+  {
+    "id": 1,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Sera, se cos'era",
+        "start": 10910,
+        "dur": 5390
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Sera, se cos'era",
+        "start": 16300,
+        "dur": 5090
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Sera, se cos'era",
+        "start": 21390,
+        "dur": 1780
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "isTune": false,
+    "words": [
+      {
+        "text": "era, se cos'era",
+        "start": 23170,
+        "dur": 1400
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "isTune": false,
+    "words": [
+      {
+        "text": "era, se cos'era, se cos'era",
+        "start": 24570,
+        "dur": 1340
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "isTune": false,
+    "words": [
+      {
+        "text": "se spariva",
+        "start": 25910,
+        "dur": 800
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Sera, se cos'era",
+        "start": 26710,
+        "dur": 1570
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "isTune": false,
+    "words": [
+      {
+        "text": "era, se cos'era",
+        "start": 28280,
+        "dur": 1540
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "isTune": false,
+    "words": [
+      {
+        "text": "era, se cos'era",
+        "start": 29820,
+        "dur": 710
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "isTune": false,
+    "words": [
+      {
+        "text": "se cos'era",
+        "start": 30530,
+        "dur": 680
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "isTune": false,
+    "words": [
+      {
+        "text": "se spariva",
+        "start": 31210,
+        "dur": 730
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Boom",
+        "start": 31940,
+        "dur": 690
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "isTune": false,
+    "words": [
+      {
+        "text": "paraiyadhi sevulak kizhikkidhaa?",
+        "start": 32630,
+        "dur": 2330
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "isTune": false,
+    "words": [
+      {
+        "text": "saravedi tharaiyap polakkudhaa?",
+        "start": 34960,
+        "dur": 2610
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "isTune": false,
+    "words": [
+      {
+        "text": "orutthanath theraiyil paakkath thaan",
+        "start": 37570,
+        "dur": 2000
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "isTune": false,
+    "words": [
+      {
+        "text": "thannaala FOMO undaaqudhaa?",
+        "start": 39570,
+        "dur": 2700
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Bang!",
+        "start": 42270,
+        "dur": 760
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Ara sadham",
+        "start": 43030,
+        "dur": 560
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Kadandha Aalu Daa!",
+        "start": 43590,
+        "dur": 2010
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Saritthirak",
+        "start": 45600,
+        "dur": 570
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Karupputh Tholu Daa!",
+        "start": 46170,
+        "dur": 2040
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Legacy-a",
+        "start": 48210,
+        "dur": 640
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Alasip Paatthutta",
+        "start": 48850,
+        "dur": 1250
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Phenomena Dhaan Da",
+        "start": 50100,
+        "dur": 1710
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Hate-lauyum neruppaa Chediyaa molaccha",
+        "start": 51810,
+        "dur": 2650
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Maas-u Dhaan",
+        "start": 54460,
+        "dur": 960
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Thalaivan Biology",
+        "start": 55420,
+        "dur": 1720
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Gate Ellaam",
+        "start": 57140,
+        "dur": 890
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Thavudaa Podiyaa odacchu",
+        "start": 58030,
+        "dur": 1710
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Nikkrraan",
+        "start": 59740,
+        "dur": 750
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Frame a Paarunga Ji!",
+        "start": 60490,
+        "dur": 1830
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "isTune": false,
+    "words": [
+      {
+        "text": "ucchak katta",
+        "start": 62320,
+        "dur": 830
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "isTune": false,
+    "words": [
+      {
+        "text": "AURA",
+        "start": 63150,
+        "dur": 690
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Aruvadaiya Paar Raa",
+        "start": 63840,
+        "dur": 1200
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "isTune": false,
+    "words": [
+      {
+        "text": "ottha Dinosaur Raa!",
+        "start": 65040,
+        "dur": 1190
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Edhira Nikka?",
+        "start": 66230,
+        "dur": 770
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Yaa Raa?",
+        "start": 67000,
+        "dur": 590
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "isTune": false,
+    "words": [
+      {
+        "text": "yerangittaa",
+        "start": 67590,
+        "dur": 720
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Unstoppable",
+        "start": 68310,
+        "dur": 1420
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Unbreakable",
+        "start": 69730,
+        "dur": 1140
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Thalaivan Nerandharam",
+        "start": 70870,
+        "dur": 1780
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "isTune": false,
+    "words": [
+      {
+        "text": "MVP",
+        "start": 72650,
+        "dur": 830
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "isTune": false,
+    "words": [
+      {
+        "text": "One Name to Rule the Game!",
+        "start": 73480,
+        "dur": 5060
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "isTune": false,
+    "words": [
+      {
+        "text": "He's got that fire, got the flame",
+        "start": 78540,
+        "dur": 5390
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Sera, se cos'era",
+        "start": 83930,
+        "dur": 1830
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "isTune": false,
+    "words": [
+      {
+        "text": "era, se cos'era",
+        "start": 85760,
+        "dur": 1250
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "isTune": false,
+    "words": [
+      {
+        "text": "era, se cos'era, se cos'era",
+        "start": 87010,
+        "dur": 1580
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "isTune": false,
+    "words": [
+      {
+        "text": "se spariva",
+        "start": 88590,
+        "dur": 510
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Sera ,se cos'era",
+        "start": 89100,
+        "dur": 1550
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "isTune": false,
+    "words": [
+      {
+        "text": "era, se cos'era",
+        "start": 90650,
+        "dur": 1600
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "isTune": false,
+    "words": [
+      {
+        "text": "era, se cos'era, se cos'era",
+        "start": 92250,
+        "dur": 1390
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "isTune": false,
+    "words": [
+      {
+        "text": "se spariva",
+        "start": 93640,
+        "dur": 840
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Sera, se cos'era",
+        "start": 94480,
+        "dur": 2080
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "isTune": false,
+    "words": [
+      {
+        "text": "♪ ♫ ♪",
+        "start": 96560,
+        "dur": 27360
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "isTune": false,
+    "words": [
+      {
+        "text": "adhiradi",
+        "start": 123920,
+        "dur": 620
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "isTune": false,
+    "words": [
+      {
+        "text": "pecchu Reach-u Thaan Therikka",
+        "start": 124540,
+        "dur": 1830
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "isTune": false,
+    "words": [
+      {
+        "text": "maru nodi",
+        "start": 126370,
+        "dur": 780
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "isTune": false,
+    "words": [
+      {
+        "text": "veecchu moochath thaan parikka",
+        "start": 127150,
+        "dur": 1960
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Yevan Kanichaan?",
+        "start": 129110,
+        "dur": 1140
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Thanivazhi Nammaalu",
+        "start": 130250,
+        "dur": 1330
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Core-u!",
+        "start": 131580,
+        "dur": 2600
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "isTune": false,
+    "words": [
+      {
+        "text": "orrey oru",
+        "start": 134180,
+        "dur": 590
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "isTune": false,
+    "words": [
+      {
+        "text": "round-u mattum dhaan Thavarum",
+        "start": 134770,
+        "dur": 2070
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Marumura thotthu",
+        "start": 136840,
+        "dur": 1220
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "isTune": false,
+    "words": [
+      {
+        "text": "paathdhilla yevanum!",
+        "start": 138060,
+        "dur": 1480
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "isTune": false,
+    "words": [
+      {
+        "text": "ivan jeyicchaa",
+        "start": 139540,
+        "dur": 1280
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "isTune": false,
+    "words": [
+      {
+        "text": "olagame Kondaata mode-u",
+        "start": 140820,
+        "dur": 2370
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "isTune": false,
+    "words": [
+      {
+        "text": "top-la",
+        "start": 143190,
+        "dur": 740
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "isTune": false,
+    "words": [
+      {
+        "text": "thaniyaa irundhaa kasakkum",
+        "start": 143930,
+        "dur": 1850
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "isTune": false,
+    "words": [
+      {
+        "text": "fun-ukkaa",
+        "start": 145780,
+        "dur": 900
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "isTune": false,
+    "words": [
+      {
+        "text": "yerangi vandhaaganum",
+        "start": 146680,
+        "dur": 1850
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "isTune": false,
+    "words": [
+      {
+        "text": "gap-la",
+        "start": 148530,
+        "dur": 790
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "isTune": false,
+    "words": [
+      {
+        "text": "nice-aa Kavukka nenekkum",
+        "start": 149320,
+        "dur": 1920
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Aalellaam",
+        "start": 151240,
+        "dur": 660
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Poratti Pandhaadanum",
+        "start": 151900,
+        "dur": 1680
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Kettavanap Paathu",
+        "start": 153580,
+        "dur": 1450
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Attavan Pottu",
+        "start": 155030,
+        "dur": 1210
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Glass Avutthuk Kaattu",
+        "start": 156240,
+        "dur": 1350
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Snipe Adikkum Shot-u",
+        "start": 157590,
+        "dur": 1290
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "isTune": false,
+    "words": [
+      {
+        "text": "orasittaa",
+        "start": 158880,
+        "dur": 800
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Inflamable",
+        "start": 159680,
+        "dur": 1250
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Untamable",
+        "start": 160930,
+        "dur": 1410
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Thalaivan Nerandharam",
+        "start": 162340,
+        "dur": 1570
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "isTune": false,
+    "words": [
+      {
+        "text": "MVP",
+        "start": 163910,
+        "dur": 970
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Onn Alumba Paatthavan",
+        "start": 164880,
+        "dur": 2550
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "isTune": false,
+    "words": [
+      {
+        "text": "One Name to Rule the Game!",
+        "start": 167430,
+        "dur": 2330
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Ungoppan Whistle'ah Kaettavan",
+        "start": 169760,
+        "dur": 2740
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "isTune": false,
+    "words": [
+      {
+        "text": "He's got that fire, got the flame",
+        "start": 172500,
+        "dur": 2840
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Onn Mavanum Peranum",
+        "start": 175340,
+        "dur": 2440
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "isTune": false,
+    "words": [
+      {
+        "text": "One Name to Rule the Game!",
+        "start": 177780,
+        "dur": 2590
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Aatam Poda Veppavan",
+        "start": 180370,
+        "dur": 2630
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "isTune": false,
+    "words": [
+      {
+        "text": "He's got that fire, got the flame",
+        "start": 183000,
+        "dur": 2800
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Sera, se cos'era",
+        "start": 185800,
+        "dur": 1630
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "isTune": false,
+    "words": [
+      {
+        "text": "era, se cos'era",
+        "start": 187430,
+        "dur": 910
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "isTune": false,
+    "words": [
+      {
+        "text": "era, se cos'era, se cos'era",
+        "start": 188340,
+        "dur": 2000
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "isTune": false,
+    "words": [
+      {
+        "text": "se spariva",
+        "start": 190340,
+        "dur": 520
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Sera, se cos'era",
+        "start": 190860,
+        "dur": 1880
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "isTune": false,
+    "words": [
+      {
+        "text": "era, se cos'era",
+        "start": 192740,
+        "dur": 1290
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "isTune": false,
+    "words": [
+      {
+        "text": "era, se cos'era, se cos'era",
+        "start": 194030,
+        "dur": 1530
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "isTune": false,
+    "words": [
+      {
+        "text": "se spariva",
+        "start": 195560,
+        "dur": 840
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "isTune": false,
+    "words": [
+      {
+        "text": "Sera, se cos'era",
+        "start": 196400,
+        "dur": 1000
+      }
+    ]
+  }
+]
